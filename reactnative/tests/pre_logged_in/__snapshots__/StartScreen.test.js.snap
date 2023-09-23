@@ -1,0 +1,206 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StartScreen /> snapshot startScreen test 1`] = `
+<View
+  accessibilityIgnoresInvertColors={true}
+  style={
+    {
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+>
+  <Image
+    source={1}
+    style={
+      [
+        {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        },
+        {
+          "height": "100%",
+          "width": "100%",
+        },
+        undefined,
+      ]
+    }
+  />
+  <View>
+    <Image
+      resizeMode="contain"
+      source={1}
+      style={
+        {
+          "height": 280,
+          "marginLeft": "15%",
+          "marginTop": "-15%",
+          "width": 280,
+        }
+      }
+    />
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "alignSelf": "center",
+            "backgroundColor": "black",
+            "borderRadius": 25,
+            "color": "purple",
+            "fontSize": 17,
+            "fontWeight": "bold",
+            "marginTop": "-10%",
+            "padding": "2%",
+            "textAlign": "center",
+            "width": "30%",
+          }
+        }
+      >
+        About Us
+      </Text>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "backgroundColor": "purple",
+            "borderRadius": 25,
+            "color": "white",
+            "fontSize": 27,
+            "fontWeight": "bold",
+            "marginLeft": "11%",
+            "marginTop": "65%",
+            "padding": "2%",
+            "textAlign": "center",
+            "width": "75%",
+          }
+        }
+      >
+        Sign Up
+      </Text>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "backgroundColor": "white",
+            "borderRadius": 25,
+            "color": "purple",
+            "fontSize": 27,
+            "fontWeight": "bold",
+            "marginLeft": "11%",
+            "marginTop": "5%",
+            "padding": "2%",
+            "textAlign": "center",
+            "width": "75%",
+          }
+        }
+      >
+        Log In
+      </Text>
+    </View>
+  </View>
+</View>
+`;

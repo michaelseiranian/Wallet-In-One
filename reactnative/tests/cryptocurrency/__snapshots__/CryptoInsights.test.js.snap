@@ -1,0 +1,2366 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CryptoInsights /> display empty insights test 1`] = `
+<RCTScrollView
+  style={
+    {
+      "backgroundColor": "white",
+      "flex": 1,
+      "paddingHorizontal": 20,
+    }
+  }
+>
+  <View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Predicted Balance in Crypto Wallets
+    </Text>
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 15,
+          "fontWeight": "900",
+        }
+      }
+    >
+      Next four weeks
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "black",
+          }
+        }
+      >
+        There are no wallet insights to display. Try connect a crypto wallet.
+      </Text>
+    </View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Total Spent & Received in Crypto Wallets
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "black",
+          }
+        }
+      >
+        There are no wallet insights to display. Try connect a crypto wallet.
+      </Text>
+    </View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Average Spend in Crypto Wallets
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "black",
+          }
+        }
+      >
+        There are no wallet insights to display. Try connect a crypto wallet.
+      </Text>
+    </View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Most Expensive Transaction in Crypto Exchanges
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "paddingHorizontal": 10,
+            },
+            {
+              "paddingVertical": 5,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "paddingRight": 10,
+            }
+          }
+        >
+          <Image
+            style={
+              {
+                "height": 30,
+                "width": 30,
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "flex": 1,
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View>
+            <Text
+              style={
+                {
+                  "color": "black",
+                  "fontSize": 20,
+                  "fontWeight": "700",
+                }
+              }
+            />
+            <Text
+              style={
+                [
+                  {
+                    "fontWeight": "700",
+                  },
+                  {
+                    "color": "black",
+                  },
+                ]
+              }
+            >
+              undefined undefined (£undefined), type: undefined
+               
+            </Text>
+            <Text
+              style={
+                [
+                  {
+                    "fontWeight": "700",
+                  },
+                  {
+                    "color": "black",
+                  },
+                ]
+              }
+            >
+              undefined
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Number of Monthly Transactions in Crypto Exchanges
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "alignSelf": "center",
+            "color": "black",
+            "fontSize": 24,
+            "fontWeight": "900",
+            "textAlign": "center",
+          }
+        }
+      >
+        Loading...
+      </Text>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`<CryptoInsights /> display insights test 1`] = `
+<RCTScrollView
+  style={
+    {
+      "backgroundColor": "white",
+      "flex": 1,
+      "paddingHorizontal": 20,
+    }
+  }
+>
+  <View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Predicted Balance in Crypto Wallets
+    </Text>
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 15,
+          "fontWeight": "900",
+        }
+      }
+    >
+      Next four weeks
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            [
+              {
+                "borderRadius": 10,
+                "flexDirection": "row",
+                "paddingHorizontal": 10,
+              },
+              {
+                "paddingVertical": 5,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "paddingRight": 10,
+              }
+            }
+          >
+            <Image
+              source={1}
+              style={
+                {
+                  "height": 30,
+                  "width": 30,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              {
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <View>
+              <Text
+                style={
+                  {
+                    "color": "black",
+                    "fontSize": 20,
+                    "fontWeight": "700",
+                  }
+                }
+              >
+                BTC
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "fontWeight": "700",
+                    },
+                    {
+                      "color": "black",
+                    },
+                  ]
+                }
+              >
+                0.20841539
+                 
+                BTC
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "fontWeight": "700",
+                    },
+                    {
+                      "color": "black",
+                    },
+                  ]
+                }
+              >
+                £
+                1.04207695
+                 
+                BTC
+              </Text>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            [
+              {
+                "borderRadius": 10,
+                "flexDirection": "row",
+                "paddingHorizontal": 10,
+              },
+              {
+                "paddingVertical": 5,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "paddingRight": 10,
+              }
+            }
+          >
+            <Image
+              source={1}
+              style={
+                {
+                  "height": 30,
+                  "width": 30,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              {
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <View>
+              <Text
+                style={
+                  {
+                    "color": "black",
+                    "fontSize": 20,
+                    "fontWeight": "700",
+                  }
+                }
+              >
+                DASH
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "fontWeight": "700",
+                    },
+                    {
+                      "color": "black",
+                    },
+                  ]
+                }
+              >
+                1.33461905
+                 
+                DASH
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "fontWeight": "700",
+                    },
+                    {
+                      "color": "black",
+                    },
+                  ]
+                }
+              >
+                £
+                6.673095249999999
+                 
+                DASH
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Total Spent & Received in Crypto Wallets
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            [
+              {
+                "borderRadius": 10,
+                "flexDirection": "row",
+                "paddingHorizontal": 10,
+              },
+              {
+                "paddingVertical": 5,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "paddingRight": 10,
+              }
+            }
+          >
+            <Image
+              source={1}
+              style={
+                {
+                  "height": 30,
+                  "width": 30,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              {
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <View>
+              <Text
+                style={
+                  {
+                    "color": "black",
+                    "fontSize": 20,
+                    "fontWeight": "700",
+                  }
+                }
+              >
+                BTC
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "fontWeight": "700",
+                    },
+                    {
+                      "color": "black",
+                    },
+                  ]
+                }
+              >
+                +241927.83346547
+                 
+                BTC
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "fontWeight": "700",
+                    },
+                    {
+                      "color": "black",
+                    },
+                  ]
+                }
+              >
+                -241927.62541684 BTC
+              </Text>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            [
+              {
+                "borderRadius": 10,
+                "flexDirection": "row",
+                "paddingHorizontal": 10,
+              },
+              {
+                "paddingVertical": 5,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "paddingRight": 10,
+              }
+            }
+          >
+            <Image
+              source={1}
+              style={
+                {
+                  "height": 30,
+                  "width": 30,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              {
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <View>
+              <Text
+                style={
+                  {
+                    "color": "black",
+                    "fontSize": 20,
+                    "fontWeight": "700",
+                  }
+                }
+              >
+                DASH
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "fontWeight": "700",
+                    },
+                    {
+                      "color": "black",
+                    },
+                  ]
+                }
+              >
+                +886343.72139693
+                 
+                DASH
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "fontWeight": "700",
+                    },
+                    {
+                      "color": "black",
+                    },
+                  ]
+                }
+              >
+                -886342.38677788 DASH
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Average Spend in Crypto Wallets
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            [
+              {
+                "borderRadius": 10,
+                "flexDirection": "row",
+                "paddingHorizontal": 10,
+              },
+              {
+                "paddingVertical": 5,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "paddingRight": 10,
+              }
+            }
+          >
+            <Image
+              source={1}
+              style={
+                {
+                  "height": 30,
+                  "width": 30,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              {
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <View>
+              <Text
+                style={
+                  {
+                    "color": "black",
+                    "fontSize": 20,
+                    "fontWeight": "700",
+                  }
+                }
+              >
+                BTC
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "fontWeight": "700",
+                    },
+                    {
+                      "color": "black",
+                    },
+                  ]
+                }
+              >
+                1393.863089464698
+                 
+                BTC
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "fontWeight": "700",
+                    },
+                    {
+                      "color": "black",
+                    },
+                  ]
+                }
+              >
+                £
+                6969.31544732349
+                 
+                BTC
+              </Text>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            [
+              {
+                "borderRadius": 10,
+                "flexDirection": "row",
+                "paddingHorizontal": 10,
+              },
+              {
+                "paddingVertical": 5,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "paddingRight": 10,
+              }
+            }
+          >
+            <Image
+              source={1}
+              style={
+                {
+                  "height": 30,
+                  "width": 30,
+                }
+              }
+            />
+          </View>
+          <View
+            style={
+              {
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <View>
+              <Text
+                style={
+                  {
+                    "color": "black",
+                    "fontSize": 20,
+                    "fontWeight": "700",
+                  }
+                }
+              >
+                DASH
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "fontWeight": "700",
+                    },
+                    {
+                      "color": "black",
+                    },
+                  ]
+                }
+              >
+                10.049040082741936
+                 
+                DASH
+              </Text>
+              <Text
+                style={
+                  [
+                    {
+                      "fontWeight": "700",
+                    },
+                    {
+                      "color": "black",
+                    },
+                  ]
+                }
+              >
+                £
+                50.24520041370968
+                 
+                DASH
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Most Expensive Transaction in Crypto Exchanges
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "paddingHorizontal": 10,
+            },
+            {
+              "paddingVertical": 5,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "paddingRight": 10,
+            }
+          }
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "height": 30,
+                "width": 30,
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "flex": 1,
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View>
+            <Text
+              style={
+                {
+                  "color": "black",
+                  "fontSize": 20,
+                  "fontWeight": "700",
+                }
+              }
+            >
+              Binance
+            </Text>
+            <Text
+              style={
+                [
+                  {
+                    "fontWeight": "700",
+                  },
+                  {
+                    "color": "black",
+                  },
+                ]
+              }
+            >
+              2.23457 ETH (£3274.65), type: buy
+               
+              Binance
+            </Text>
+            <Text
+              style={
+                [
+                  {
+                    "fontWeight": "700",
+                  },
+                  {
+                    "color": "black",
+                  },
+                ]
+              }
+            >
+              2021-01-29 13:31:41
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Number of Monthly Transactions in Crypto Exchanges
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "marginLeft": -20,
+            "marginTop": 10,
+          }
+        }
+      >
+        <RNSVGSvgView
+          bbHeight="416.66666666666663"
+          bbWidth="750"
+          focusable={false}
+          height={416.66666666666663}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "flex": 0,
+                "height": 416,
+                "width": 750,
+              },
+            ]
+          }
+          width={750}
+        >
+          <RNSVGGroup>
+            <RNSVGRect
+              fill={
+                {
+                  "brushRef": "backgroundGradient",
+                  "type": 1,
+                }
+              }
+              fillOpacity={1}
+              height="416.66666666666663"
+              propList={
+                [
+                  "fill",
+                  "fillOpacity",
+                ]
+              }
+              rx="0"
+              ry="0"
+              width="100%"
+              x="0"
+              y="0"
+            />
+            <RNSVGGroup
+              matrix={
+                [
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                ]
+              }
+            >
+              <RNSVGDefs>
+                <RNSVGLinearGradient
+                  gradient={
+                    [
+                      0,
+                      -1,
+                      1,
+                      -1,
+                    ]
+                  }
+                  gradientTransform={null}
+                  gradientUnits={1}
+                  name="backgroundGradient"
+                  x1="0"
+                  x2="750"
+                  y1="416.66666666666663"
+                  y2="0"
+                />
+                <RNSVGLinearGradient
+                  gradient={
+                    [
+                      0,
+                      436207616,
+                      1,
+                      436207616,
+                    ]
+                  }
+                  gradientTransform={null}
+                  gradientUnits={1}
+                  name="fillShadowGradientFrom"
+                  x1="0"
+                  x2="0"
+                  y1="0"
+                  y2="416.66666666666663"
+                />
+              </RNSVGDefs>
+              <RNSVGGroup>
+                <RNSVGLine
+                  propList={
+                    [
+                      "stroke",
+                      "strokeWidth",
+                      "strokeDasharray",
+                    ]
+                  }
+                  stroke={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  strokeDasharray={
+                    [
+                      "5",
+                      "10",
+                    ]
+                  }
+                  strokeWidth="1"
+                  x1="64"
+                  x2="750"
+                  y1="16"
+                  y2="16"
+                />
+                <RNSVGLine
+                  propList={
+                    [
+                      "stroke",
+                      "strokeWidth",
+                      "strokeDasharray",
+                    ]
+                  }
+                  stroke={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  strokeDasharray={
+                    [
+                      "5",
+                      "10",
+                    ]
+                  }
+                  strokeWidth="1"
+                  x1="64"
+                  x2="750"
+                  y1="94.125"
+                  y2="94.125"
+                />
+                <RNSVGLine
+                  propList={
+                    [
+                      "stroke",
+                      "strokeWidth",
+                      "strokeDasharray",
+                    ]
+                  }
+                  stroke={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  strokeDasharray={
+                    [
+                      "5",
+                      "10",
+                    ]
+                  }
+                  strokeWidth="1"
+                  x1="64"
+                  x2="750"
+                  y1="172.25"
+                  y2="172.25"
+                />
+                <RNSVGLine
+                  propList={
+                    [
+                      "stroke",
+                      "strokeWidth",
+                      "strokeDasharray",
+                    ]
+                  }
+                  stroke={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  strokeDasharray={
+                    [
+                      "5",
+                      "10",
+                    ]
+                  }
+                  strokeWidth="1"
+                  x1="64"
+                  x2="750"
+                  y1="250.375"
+                  y2="250.375"
+                />
+                <RNSVGLine
+                  propList={
+                    [
+                      "stroke",
+                      "strokeWidth",
+                      "strokeDasharray",
+                    ]
+                  }
+                  stroke={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  strokeDasharray={
+                    [
+                      "5",
+                      "10",
+                    ]
+                  }
+                  strokeWidth="1"
+                  x1="64"
+                  x2="750"
+                  y1="328.5"
+                  y2="328.5"
+                />
+              </RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGText
+                  content={null}
+                  dx={[]}
+                  dy={[]}
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontSize": "12",
+                      "textAnchor": "end",
+                    }
+                  }
+                  matrix={
+                    [
+                      1,
+                      0,
+                      -0,
+                      1,
+                      0,
+                      0,
+                    ]
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "52",
+                    ]
+                  }
+                  y={
+                    [
+                      "328.5",
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="14.00"
+                    dx={[]}
+                    dy={[]}
+                    font={{}}
+                    rotate={[]}
+                    x={[]}
+                    y={[]}
+                  />
+                </RNSVGText>
+                <RNSVGText
+                  content={null}
+                  dx={[]}
+                  dy={[]}
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontSize": "12",
+                      "textAnchor": "end",
+                    }
+                  }
+                  matrix={
+                    [
+                      1,
+                      0,
+                      -0,
+                      1,
+                      0,
+                      0,
+                    ]
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "52",
+                    ]
+                  }
+                  y={
+                    [
+                      "250.375",
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="14.75"
+                    dx={[]}
+                    dy={[]}
+                    font={{}}
+                    rotate={[]}
+                    x={[]}
+                    y={[]}
+                  />
+                </RNSVGText>
+                <RNSVGText
+                  content={null}
+                  dx={[]}
+                  dy={[]}
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontSize": "12",
+                      "textAnchor": "end",
+                    }
+                  }
+                  matrix={
+                    [
+                      1,
+                      0,
+                      -0,
+                      1,
+                      0,
+                      0,
+                    ]
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "52",
+                    ]
+                  }
+                  y={
+                    [
+                      "172.25",
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="15.50"
+                    dx={[]}
+                    dy={[]}
+                    font={{}}
+                    rotate={[]}
+                    x={[]}
+                    y={[]}
+                  />
+                </RNSVGText>
+                <RNSVGText
+                  content={null}
+                  dx={[]}
+                  dy={[]}
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontSize": "12",
+                      "textAnchor": "end",
+                    }
+                  }
+                  matrix={
+                    [
+                      1,
+                      0,
+                      -0,
+                      1,
+                      0,
+                      0,
+                    ]
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "52",
+                    ]
+                  }
+                  y={
+                    [
+                      "94.125",
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="16.25"
+                    dx={[]}
+                    dy={[]}
+                    font={{}}
+                    rotate={[]}
+                    x={[]}
+                    y={[]}
+                  />
+                </RNSVGText>
+                <RNSVGText
+                  content={null}
+                  dx={[]}
+                  dy={[]}
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontSize": "12",
+                      "textAnchor": "end",
+                    }
+                  }
+                  matrix={
+                    [
+                      1,
+                      0,
+                      -0,
+                      1,
+                      0,
+                      0,
+                    ]
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "52",
+                    ]
+                  }
+                  y={
+                    [
+                      "16",
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="17.00"
+                    dx={[]}
+                    dy={[]}
+                    font={{}}
+                    rotate={[]}
+                    x={[]}
+                    y={[]}
+                  />
+                </RNSVGText>
+              </RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGLine
+                  propList={
+                    [
+                      "stroke",
+                      "strokeWidth",
+                      "strokeDasharray",
+                    ]
+                  }
+                  stroke={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  strokeDasharray={
+                    [
+                      "5",
+                      "10",
+                    ]
+                  }
+                  strokeWidth="1"
+                  x1="64"
+                  x2="64"
+                  y1="0"
+                  y2="328.5"
+                />
+                <RNSVGLine
+                  propList={
+                    [
+                      "stroke",
+                      "strokeWidth",
+                      "strokeDasharray",
+                    ]
+                  }
+                  stroke={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  strokeDasharray={
+                    [
+                      "5",
+                      "10",
+                    ]
+                  }
+                  strokeWidth="1"
+                  x1="407"
+                  x2="407"
+                  y1="0"
+                  y2="328.5"
+                />
+              </RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGText
+                  content={null}
+                  dx={[]}
+                  dy={[]}
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontSize": "12",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  matrix={
+                    [
+                      1,
+                      0,
+                      -0,
+                      1,
+                      0,
+                      0,
+                    ]
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "64",
+                    ]
+                  }
+                  y={
+                    [
+                      "352.5",
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="2021-01"
+                    dx={[]}
+                    dy={[]}
+                    font={{}}
+                    rotate={[]}
+                    x={[]}
+                    y={[]}
+                  />
+                </RNSVGText>
+                <RNSVGText
+                  content={null}
+                  dx={[]}
+                  dy={[]}
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontSize": "12",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  matrix={
+                    [
+                      1,
+                      0,
+                      -0,
+                      1,
+                      0,
+                      0,
+                    ]
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "407",
+                    ]
+                  }
+                  y={
+                    [
+                      "352.5",
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="2021-02"
+                    dx={[]}
+                    dy={[]}
+                    font={{}}
+                    rotate={[]}
+                    x={[]}
+                    y={[]}
+                  />
+                </RNSVGText>
+              </RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGPath
+                  d="M64,16 Q 149.75, 16, 235.5, 172 Q 321.25, 328, 407, 328"
+                  fill={null}
+                  propList={
+                    [
+                      "fill",
+                      "stroke",
+                      "strokeWidth",
+                    ]
+                  }
+                  stroke={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  strokeWidth="3"
+                />
+              </RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGPath
+                  d="M64,16 Q 149.75, 16, 235.5, 172 Q 321.25, 328, 407, 328 L407,328.5 L64,328.5 Z"
+                  fill={
+                    {
+                      "brushRef": "fillShadowGradientFrom",
+                      "type": 1,
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                      "strokeWidth",
+                    ]
+                  }
+                  strokeWidth="0"
+                />
+              </RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGCircle
+                  cx="64"
+                  cy="16"
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  r="4"
+                  responsible={true}
+                />
+                <RNSVGCircle
+                  cx="64"
+                  cy="16"
+                  fill={
+                    {
+                      "payload": 4294967295,
+                      "type": 0,
+                    }
+                  }
+                  fillOpacity={0}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  propList={
+                    [
+                      "fill",
+                      "fillOpacity",
+                    ]
+                  }
+                  r="14"
+                  responsible={true}
+                />
+                <RNSVGCircle
+                  cx="407"
+                  cy="328.5"
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  r="4"
+                  responsible={true}
+                />
+                <RNSVGCircle
+                  cx="407"
+                  cy="328.5"
+                  fill={
+                    {
+                      "payload": 4294967295,
+                      "type": 0,
+                    }
+                  }
+                  fillOpacity={0}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  propList={
+                    [
+                      "fill",
+                      "fillOpacity",
+                    ]
+                  }
+                  r="14"
+                  responsible={true}
+                />
+              </RNSVGGroup>
+              <RNSVGGroup />
+              <RNSVGGroup />
+            </RNSVGGroup>
+          </RNSVGGroup>
+        </RNSVGSvgView>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`<CryptoInsights /> fetch insights fail test 1`] = `
+<RCTScrollView
+  style={
+    {
+      "backgroundColor": "white",
+      "flex": 1,
+      "paddingHorizontal": 20,
+    }
+  }
+>
+  <View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Predicted Balance in Crypto Wallets
+    </Text>
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 15,
+          "fontWeight": "900",
+        }
+      }
+    >
+      Next four weeks
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "black",
+          }
+        }
+      >
+        There are no wallet insights to display. Try connect a crypto wallet.
+      </Text>
+    </View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Total Spent & Received in Crypto Wallets
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "black",
+          }
+        }
+      >
+        There are no wallet insights to display. Try connect a crypto wallet.
+      </Text>
+    </View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Average Spend in Crypto Wallets
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "black",
+          }
+        }
+      >
+        There are no wallet insights to display. Try connect a crypto wallet.
+      </Text>
+    </View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Most Expensive Transaction in Crypto Exchanges
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "paddingHorizontal": 10,
+            },
+            {
+              "paddingVertical": 5,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "paddingRight": 10,
+            }
+          }
+        >
+          <Image
+            style={
+              {
+                "height": 30,
+                "width": 30,
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "flex": 1,
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View>
+            <Text
+              style={
+                {
+                  "color": "black",
+                  "fontSize": 20,
+                  "fontWeight": "700",
+                }
+              }
+            />
+            <Text
+              style={
+                [
+                  {
+                    "fontWeight": "700",
+                  },
+                  {
+                    "color": "black",
+                  },
+                ]
+              }
+            >
+              undefined undefined (£undefined), type: undefined
+               
+            </Text>
+            <Text
+              style={
+                [
+                  {
+                    "fontWeight": "700",
+                  },
+                  {
+                    "color": "black",
+                  },
+                ]
+              }
+            >
+              undefined
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Number of Monthly Transactions in Crypto Exchanges
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "alignSelf": "center",
+            "color": "black",
+            "fontSize": 24,
+            "fontWeight": "900",
+            "textAlign": "center",
+          }
+        }
+      >
+        Loading...
+      </Text>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`<CryptoInsights /> snapshot test 1`] = `
+<RCTScrollView
+  style={
+    {
+      "backgroundColor": "white",
+      "flex": 1,
+      "paddingHorizontal": 20,
+    }
+  }
+>
+  <View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Predicted Balance in Crypto Wallets
+    </Text>
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 15,
+          "fontWeight": "900",
+        }
+      }
+    >
+      Next four weeks
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "black",
+          }
+        }
+      >
+        There are no wallet insights to display. Try connect a crypto wallet.
+      </Text>
+    </View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Total Spent & Received in Crypto Wallets
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "black",
+          }
+        }
+      >
+        There are no wallet insights to display. Try connect a crypto wallet.
+      </Text>
+    </View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Average Spend in Crypto Wallets
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "black",
+          }
+        }
+      >
+        There are no wallet insights to display. Try connect a crypto wallet.
+      </Text>
+    </View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Most Expensive Transaction in Crypto Exchanges
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "paddingHorizontal": 10,
+            },
+            {
+              "paddingVertical": 5,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "paddingRight": 10,
+            }
+          }
+        >
+          <Image
+            style={
+              {
+                "height": 30,
+                "width": 30,
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "flex": 1,
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View>
+            <Text
+              style={
+                {
+                  "color": "black",
+                  "fontSize": 20,
+                  "fontWeight": "700",
+                }
+              }
+            />
+            <Text
+              style={
+                [
+                  {
+                    "fontWeight": "700",
+                  },
+                  {
+                    "color": "black",
+                  },
+                ]
+              }
+            >
+              undefined undefined (£undefined), type: undefined
+               
+            </Text>
+            <Text
+              style={
+                [
+                  {
+                    "fontWeight": "700",
+                  },
+                  {
+                    "color": "black",
+                  },
+                ]
+              }
+            >
+              undefined
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+    <Text />
+    <Text
+      style={
+        {
+          "alignSelf": "center",
+          "color": "black",
+          "fontSize": 24,
+          "fontWeight": "900",
+          "textAlign": "center",
+        }
+      }
+    >
+      Number of Monthly Transactions in Crypto Exchanges
+    </Text>
+    <View
+      style={
+        {
+          "borderRadius": 10,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "alignSelf": "center",
+            "color": "black",
+            "fontSize": 24,
+            "fontWeight": "900",
+            "textAlign": "center",
+          }
+        }
+      >
+        Loading...
+      </Text>
+    </View>
+  </View>
+</RCTScrollView>
+`;

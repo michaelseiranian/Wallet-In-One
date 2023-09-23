@@ -1,0 +1,27 @@
+[
+    {
+        "model": "stocks.transaction",
+        "pk": 2,
+        "fields": {
+            "account_id": "BxBXxLj1m4HMXBm9WZZmCWVbPjX16EHwv99vp",
+            "stock": "1",
+            "amount": 2307.21,
+            "iso_currency_code": "USD",
+            "unofficial_currency_code": null,
+            "quantity": 1,
+            "price": 20.5,
+            "fees": 0.5,
+            "date": "2017-01-29",
+            "datetime": "2017-01-27T11:00:00Z",
+            "authorized_date": "2017-01-27",
+            "authorized_datetime": "2017-01-27T10:34:50Z",
+            "name": "Apple Store",
+            "merchant_name": "Apple",
+            "pending_transaction_id": null,
+            "account_owner": null,
+            "transaction_code": null,
+            "latitude": 35.5,
+            "longitude": 37
+        }
+    }
+]

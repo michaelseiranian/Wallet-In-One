@@ -1,0 +1,187 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LoginScreen /> log in snapshot test 1`] = `
+<RCTScrollView
+  style={
+    [
+      {
+        "padding": 30,
+        "width": "100%",
+      },
+      {
+        "backgroundColor": undefined,
+        "flex": 1,
+      },
+    ]
+  }
+>
+  <View>
+    <Text
+      style={
+        [
+          {
+            "marginBottom": 10,
+            "marginTop": 10,
+          },
+          {
+            "color": undefined,
+          },
+        ]
+      }
+    >
+      Username:
+    </Text>
+    <TextInput
+      autoCapitalize="none"
+      autoCorrect={false}
+      onChangeText={[Function]}
+      style={
+        [
+          [
+            {
+              "borderColor": "gray",
+              "borderRadius": 5,
+              "borderWidth": 0.5,
+              "height": 40,
+              "padding": 10,
+              "width": "100%",
+            },
+          ],
+          {
+            "borderColor": "gray",
+            "borderRadius": 5,
+            "borderWidth": 0.5,
+            "height": 40,
+            "marginBottom": 5,
+            "marginTop": 5,
+            "padding": 10,
+            "width": "100%",
+          },
+          {
+            "color": undefined,
+          },
+        ]
+      }
+      testID="username"
+    />
+    <Text
+      style={
+        [
+          {
+            "marginBottom": 10,
+            "marginTop": 10,
+          },
+          {
+            "color": undefined,
+          },
+        ]
+      }
+    >
+      Password:
+    </Text>
+    <TextInput
+      autoCapitalize="none"
+      autoCorrect={false}
+      onChangeText={[Function]}
+      secureTextEntry={true}
+      style={
+        [
+          [
+            {
+              "borderColor": "gray",
+              "borderRadius": 5,
+              "borderWidth": 0.5,
+              "height": 40,
+              "padding": 10,
+              "width": "100%",
+            },
+          ],
+          {
+            "borderColor": "gray",
+            "borderRadius": 5,
+            "borderWidth": 0.5,
+            "height": 40,
+            "marginBottom": 5,
+            "marginTop": 5,
+            "padding": 10,
+            "width": "100%",
+          },
+          {
+            "color": undefined,
+          },
+        ]
+      }
+      testID="password"
+    />
+    <View
+      style={
+        {
+          "alignSelf": "flex-start",
+          "flex": 1,
+          "marginTop": 20,
+          "width": "100%",
+        }
+      }
+    >
+      <View
+        accessibilityRole="button"
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            [
+              {},
+            ]
+          }
+        >
+          <Text
+            style={
+              [
+                {
+                  "color": "#007AFF",
+                  "fontSize": 18,
+                  "margin": 8,
+                  "textAlign": "center",
+                },
+              ]
+            }
+          >
+            Log In
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;

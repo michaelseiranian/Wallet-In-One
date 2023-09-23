@@ -1,0 +1,47 @@
+{
+  "all": [
+    {
+      "type": "Banks",
+      "assets": [
+        {
+          "asset": "Savings",
+          "y": 50
+        },
+        {
+          "asset": "Checking",
+          "y": 50
+        }
+      ]
+    },
+    {
+      "type": "Crypto",
+      "assets": [
+        {
+          "asset": "Bitcoin",
+          "y": 30
+        },
+        {
+          "asset": "Ethereum",
+          "y": 30
+        },
+        {
+          "asset": "Ethereum",
+          "y": 20
+        }
+      ]
+    },
+    {
+      "type": "Stocks",
+      "assets": [
+        {
+          "asset": "Apple",
+          "y": 50
+        },
+        {
+          "asset": "Microsoft",
+          "y": 50
+        }
+      ]
+    }
+  ]
+}

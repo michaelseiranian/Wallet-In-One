@@ -1,0 +1,170 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CryptoWalletConnector /> snapshot test 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "white",
+      "flex": 1,
+      "paddingHorizontal": 20,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "paddingTop": 30,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "flex": 1,
+            "flexDirection": "column",
+          }
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "color": "black",
+                "fontSize": 40,
+                "fontWeight": "800",
+              },
+              {
+                "alignSelf": "center",
+              },
+            ]
+          }
+        >
+          Connect Wallet
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "paddingTop": 30,
+        }
+      }
+    >
+      <Image
+        style={
+          {
+            "height": 100,
+            "width": 100,
+          }
+        }
+      />
+      <Text
+        style={
+          {
+            "alignSelf": "center",
+            "color": "black",
+            "fontSize": 30,
+            "fontWeight": "800",
+          }
+        }
+      />
+    </View>
+    <TextInput
+      autoCapitalize="none"
+      autoCorrect={false}
+      onChangeText={[Function]}
+      placeholder="Wallet Address"
+      placeholderTextColor="black"
+      style={
+        [
+          {
+            "borderColor": "gray",
+            "borderRadius": 5,
+            "borderWidth": 0.5,
+            "height": 40,
+            "marginBottom": 5,
+            "marginTop": 5,
+            "padding": 10,
+            "width": "100%",
+          },
+          {
+            "color": "black",
+          },
+          {
+            "backgroundColor": "white",
+          },
+        ]
+      }
+      testID="addressInput"
+    />
+    <View
+      accessibilityRole="button"
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {},
+          ]
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "color": "#007AFF",
+                "fontSize": 18,
+                "margin": 8,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          Connect Wallet
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;

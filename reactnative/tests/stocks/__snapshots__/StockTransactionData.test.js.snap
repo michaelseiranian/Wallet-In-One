@@ -1,0 +1,272 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TransactionData /> transactionData snapshot test 1`] = `
+<View
+  style={
+    [
+      {
+        "flex": 1,
+        "padding": 10,
+      },
+      {
+        "backgroundColor": "white",
+        "flex": 1,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      {
+        "flex": 1,
+        "padding": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "color": "black",
+            "fontWeight": "700",
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Name
+    </Text>
+    <Text
+      style={
+        {
+          "color": "black",
+        }
+      }
+    >
+      BUY NFLX DERIVATIVE
+      
+
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "color": "black",
+            "fontWeight": "700",
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Transaction ID
+    </Text>
+    <Text
+      style={
+        {
+          "color": "black",
+        }
+      }
+    >
+      WraX31pG9AuzLlKzAG8JIAAyNV9PZEuPaBq3k
+      
+
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "color": "black",
+            "fontWeight": "700",
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Amount
+    </Text>
+    <Text
+      style={
+        {
+          "color": "black",
+        }
+      }
+    >
+      £ 
+      38.45
+      
+
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "color": "black",
+            "fontWeight": "700",
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Date
+    </Text>
+    <Text
+      style={
+        {
+          "color": "black",
+        }
+      }
+    >
+      2023-03-10
+      
+
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "color": "black",
+            "fontWeight": "700",
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Quantity
+    </Text>
+    <Text
+      style={
+        {
+          "color": "black",
+        }
+      }
+    >
+      4211.152345617756
+      
+
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "color": "black",
+            "fontWeight": "700",
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Price
+    </Text>
+    <Text
+      style={
+        {
+          "color": "black",
+        }
+      }
+    >
+      £ 
+      0.01
+      
+
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "color": "black",
+            "fontWeight": "700",
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Fees
+    </Text>
+    <Text
+      style={
+        {
+          "color": "black",
+        }
+      }
+    >
+      £ 
+      5
+      
+
+    </Text>
+    <View
+      style={
+        {
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "height": "100%",
+          }
+        }
+      >
+        <AIRMap
+          initialRegion={null}
+          onChange={[Function]}
+          onMapReady={[Function]}
+          region={
+            {
+              "latitude": 40.813,
+              "latitudeDelta": 0.0922,
+              "longitude": -109.962,
+              "longitudeDelta": 0.0421,
+            }
+          }
+          style={
+            {
+              "bottom": 0,
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            }
+          }
+          testID="mapView"
+        >
+          <AIRMapMarker
+            coordinate={
+              {
+                "latitude": 40.813,
+                "longitude": -109.962,
+              }
+            }
+            onPress={[Function]}
+            style={
+              [
+                {
+                  "backgroundColor": "transparent",
+                  "position": "absolute",
+                },
+                undefined,
+              ]
+            }
+            testID="marker"
+          />
+        </AIRMap>
+      </View>
+    </View>
+  </View>
+</View>
+`;

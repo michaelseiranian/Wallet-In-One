@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Bitcoin",
+    "symbol": "BTC"
+  },
+  {
+    "name": "Bitcoin-Cash",
+    "symbol": "BCH"
+  },
+  {
+    "name": "Litecoin",
+    "symbol": "LTC"
+  },
+  {
+    "name": "Dogecoin",
+    "symbol": "DOGE"
+  },
+  {
+    "name": "Dash",
+    "symbol": "DASH"
+  },
+  {
+    "name": "Groestlcoin",
+    "symbol": "GRS"
+  },
+  {
+    "name": "Zcash",
+    "symbol": "ZEC"
+  },
+  {
+    "name": "eCash",
+    "symbol": "XEC"
+  }
+]

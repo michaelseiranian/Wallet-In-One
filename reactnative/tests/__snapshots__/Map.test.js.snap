@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Map /> map test negative values 1`] = `
+<AIRMap
+  initialRegion={null}
+  onChange={[Function]}
+  onMapReady={[Function]}
+  region={
+    {
+      "latitude": -10,
+      "latitudeDelta": 0.0922,
+      "longitude": -15,
+      "longitudeDelta": 0.0421,
+    }
+  }
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+  testID="mapView"
+>
+  <AIRMapMarker
+    coordinate={
+      {
+        "latitude": -10,
+        "longitude": -15,
+      }
+    }
+    onPress={[Function]}
+    style={
+      [
+        {
+          "backgroundColor": "transparent",
+          "position": "absolute",
+        },
+        undefined,
+      ]
+    }
+    testID="marker"
+  />
+</AIRMap>
+`;
+
+exports[`<Map /> map test no values returns null 1`] = `null`;
+
+exports[`<Map /> map test null values returns null 1`] = `null`;
+
+exports[`<Map /> map test regular values 1`] = `
+<AIRMap
+  initialRegion={null}
+  onChange={[Function]}
+  onMapReady={[Function]}
+  region={
+    {
+      "latitude": 10,
+      "latitudeDelta": 0.0922,
+      "longitude": 15,
+      "longitudeDelta": 0.0421,
+    }
+  }
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+  testID="mapView"
+>
+  <AIRMapMarker
+    coordinate={
+      {
+        "latitude": 10,
+        "longitude": 15,
+      }
+    }
+    onPress={[Function]}
+    style={
+      [
+        {
+          "backgroundColor": "transparent",
+          "position": "absolute",
+        },
+        undefined,
+      ]
+    }
+    testID="marker"
+  />
+</AIRMap>
+`;
+
+exports[`<Map /> map test zero values 1`] = `null`;

@@ -1,0 +1,4 @@
+release: python manage.py makemigrations --noinput
+release: python manage.py collectstatic --noinput
+release: python manage.py migrate --noinput
+web: bin/start-pgbouncer gunicorn Wallet_In_One.wsgi

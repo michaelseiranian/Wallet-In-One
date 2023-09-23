@@ -1,0 +1,24 @@
+[
+    {
+        "model": "accounts.user",
+        "pk": 3,
+        "fields": {
+          "username": "@Jdoe",
+          "password": "pbkdf2_sha256$390000$PvUz5BSpCoZBwC6ZzMQZSp$i7xaJh3P4OK9yLcokXmm8vJGmgpKBi3s7E1PO52jxps=",
+          "first_name": "Jane",
+          "last_name": "Doe",
+          "email": "janedoe@example.org"
+        }
+    },
+    {
+      "model": "accounts.user",
+      "pk": 1,
+      "fields": {
+        "username": "@super",
+        "password": "pbkdf2_sha256$390000$PvUz5BSpCoZBwC6ZzMQZSp$i7xaJh3P4OK9yLcokXmm8vJGmgpKBi3s7E1PO52jxps=",
+        "first_name": "Super",
+        "last_name": "Super",
+        "email": "super@super.com"
+      }
+    }
+]

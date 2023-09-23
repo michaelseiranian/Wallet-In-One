@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ExchangeAsset component renders correctly 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "borderRadius": 10,
+        "flexDirection": "row",
+        "marginVertical": 5,
+        "padding": 10,
+      },
+      {
+        "backgroundColor": "purple",
+      },
+    ]
+  }
+  testID="exchangeAsset"
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "justifyContent": "center",
+        "paddingRight": 10,
+      }
+    }
+  >
+    <Image
+      style={
+        {
+          "height": 30,
+          "width": 30,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      {
+        "flex": 1,
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      style={{}}
+    >
+      <Text
+        style={
+          {
+            "color": "black",
+            "fontSize": 25,
+            "fontWeight": "700",
+          }
+        }
+      >
+        Test Exchange
+      </Text>
+      <Text
+        style={
+          [
+            {
+              "flex": 1,
+              "fontWeight": "700",
+            },
+            {
+              "color": "black",
+            },
+          ]
+        }
+      >
+        Total Balance: £Loading...
+      </Text>
+    </View>
+  </View>
+</View>
+`;

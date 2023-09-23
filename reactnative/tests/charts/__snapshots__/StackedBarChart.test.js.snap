@@ -1,0 +1,5031 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StackedChart /> test stacked bar chart 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flexGrow": 1,
+      "justifyContent": "center",
+      "paddingBottom": 20,
+    }
+  }
+  style={
+    {
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <View
+      className="VictoryContainer"
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      pointerEvents="box-none"
+      style={
+        {
+          "position": "relative",
+        }
+      }
+    >
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="300"
+        bbWidth="750"
+        focusable={false}
+        height={300}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        role="img"
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "height": "100%",
+              "width": "100%",
+            },
+            {
+              "flex": 0,
+              "height": 300,
+              "width": 750,
+            },
+          ]
+        }
+        vbHeight={300}
+        vbWidth={750}
+        width={750}
+      >
+        <RNSVGGroup>
+          <RNSVGRect
+            fill={null}
+            height="300"
+            propList={
+              [
+                "fill",
+              ]
+            }
+            width="750"
+            x="0"
+            y="0"
+          />
+          <RNSVGGroup>
+            <RNSVGLine
+              fill={
+                {
+                  "payload": 0,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "fill",
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4286611584,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1"
+              vectorEffect={1}
+              x1="50"
+              x2="50"
+              y1="50"
+              y2="250"
+            />
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="216.1315450789135"
+                y2="216.1315450789135"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-0"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "220.39154507891348",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="50"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="182.26309015782698"
+                y2="182.26309015782698"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-1"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "186.52309015782697",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="100"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="148.3946352367405"
+                y2="148.3946352367405"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-2"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "152.6546352367405",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="150"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="114.526180315654"
+                y2="114.526180315654"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-3"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "118.78618031565401",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="200"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="80.6577253945675"
+                y2="80.6577253945675"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-4"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "84.91772539456751",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="250"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+          </RNSVGGroup>
+          <RNSVGGroup>
+            <RNSVGLine
+              fill={
+                {
+                  "payload": 0,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "fill",
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4286611584,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1"
+              vectorEffect={1}
+              x1="50"
+              x2="700"
+              y1="250"
+              y2="250"
+            />
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-0"
+                rotate={[]}
+                x={
+                  [
+                    "70",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="Banks"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "70",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-1"
+                rotate={[]}
+                x={
+                  [
+                    "273.33333333333337",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="Crypto"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "273.33333333333337",
+                    ]
+                  }
+                  y={[]}
+                />
+                <RNSVGTSpan
+                  content="Wallets "
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "14",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "273.33333333333337",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-2"
+                rotate={[]}
+                x={
+                  [
+                    "476.66666666666674",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="Crypto"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "476.66666666666674",
+                    ]
+                  }
+                  y={[]}
+                />
+                <RNSVGTSpan
+                  content="Exchanges"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "14",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "476.66666666666674",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-3"
+                rotate={[]}
+                x={
+                  [
+                    "680.0000000000001",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="Stocks"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "680.0000000000001",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+          </RNSVGGroup>
+          <RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGPath
+                d="M 52.5, 243.90367811420444 
+A 0 0 0 0 0, 52.5, 243.90367811420444 
+L 52.5, 243.90367811420444 
+A 0 0 0 0 0, 52.5, 243.90367811420444 
+L 87.5, 243.90367811420444 
+A 0 0 0 0 0, 87.5, 243.90367811420444 
+L 87.5, 243.90367811420444 
+A 0 0 0 0 0, 87.5, 243.90367811420444 
+ z"
+                fill={
+                  {
+                    "payload": 4286578816,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4286578816,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 255.83333333333337, 134.8472532683059 
+A 0 0 0 0 0, 255.83333333333337, 134.8472532683059 
+L 255.83333333333337, 134.8472532683059 
+A 0 0 0 0 0, 255.83333333333337, 134.8472532683059 
+L 290.83333333333337, 134.8472532683059 
+A 0 0 0 0 0, 290.83333333333337, 134.8472532683059 
+L 290.83333333333337, 134.8472532683059 
+A 0 0 0 0 0, 290.83333333333337, 134.8472532683059 
+ z"
+                fill={
+                  {
+                    "payload": 4286578816,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4286578816,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 459.16666666666674, 248.64526180315653 
+A 0 0 0 0 0, 459.16666666666674, 248.64526180315653 
+L 459.16666666666674, 248.64526180315653 
+A 0 0 0 0 0, 459.16666666666674, 248.64526180315653 
+L 494.16666666666674, 248.64526180315653 
+A 0 0 0 0 0, 494.16666666666674, 248.64526180315653 
+L 494.16666666666674, 248.64526180315653 
+A 0 0 0 0 0, 494.16666666666674, 248.64526180315653 
+ z"
+                fill={
+                  {
+                    "payload": 4286578816,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4286578816,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 662.5000000000001, 250 
+A 0 0 0 0 1, 662.5000000000001, 250 
+L 662.5000000000001, 69.81981981981981 
+A 0 0 0 0 1, 662.5000000000001, 69.81981981981981 
+L 697.5000000000001, 69.81981981981981 
+A 0 0 0 0 1, 697.5000000000001, 69.81981981981981 
+L 697.5000000000001, 250 
+A 0 0 0 0 1, 697.5000000000001, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4286578816,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4286578816,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGPath
+                d="M 52.5, 243.90367811420444 
+A 0 0 0 0 0, 52.5, 243.90367811420444 
+L 52.5, 243.90367811420444 
+A 0 0 0 0 0, 52.5, 243.90367811420444 
+L 87.5, 243.90367811420444 
+A 0 0 0 0 0, 87.5, 243.90367811420444 
+L 87.5, 243.90367811420444 
+A 0 0 0 0 0, 87.5, 243.90367811420444 
+ z"
+                fill={
+                  {
+                    "payload": 4294956800,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294956800,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 255.83333333333337, 134.8472532683059 
+A 0 0 0 0 0, 255.83333333333337, 134.8472532683059 
+L 255.83333333333337, 134.8472532683059 
+A 0 0 0 0 0, 255.83333333333337, 134.8472532683059 
+L 290.83333333333337, 134.8472532683059 
+A 0 0 0 0 0, 290.83333333333337, 134.8472532683059 
+L 290.83333333333337, 134.8472532683059 
+A 0 0 0 0 0, 290.83333333333337, 134.8472532683059 
+ z"
+                fill={
+                  {
+                    "payload": 4294956800,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294956800,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 459.16666666666674, 250 
+A 0 0 0 0 1, 459.16666666666674, 250 
+L 459.16666666666674, 248.64526180315653 
+A 0 0 0 0 1, 459.16666666666674, 248.64526180315653 
+L 494.16666666666674, 248.64526180315653 
+A 0 0 0 0 1, 494.16666666666674, 248.64526180315653 
+L 494.16666666666674, 250 
+A 0 0 0 0 1, 494.16666666666674, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294956800,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294956800,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 662.5000000000001, 250 
+A 0 0 0 0 0, 662.5000000000001, 250 
+L 662.5000000000001, 250 
+A 0 0 0 0 0, 662.5000000000001, 250 
+L 697.5000000000001, 250 
+A 0 0 0 0 0, 697.5000000000001, 250 
+L 697.5000000000001, 250 
+A 0 0 0 0 0, 697.5000000000001, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294956800,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294956800,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGPath
+                d="M 52.5, 243.90367811420444 
+A 0 0 0 0 0, 52.5, 243.90367811420444 
+L 52.5, 243.90367811420444 
+A 0 0 0 0 0, 52.5, 243.90367811420444 
+L 87.5, 243.90367811420444 
+A 0 0 0 0 0, 87.5, 243.90367811420444 
+L 87.5, 243.90367811420444 
+A 0 0 0 0 0, 87.5, 243.90367811420444 
+ z"
+                fill={
+                  {
+                    "payload": 4294944000,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294944000,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 255.83333333333337, 250 
+A 0 0 0 0 1, 255.83333333333337, 250 
+L 255.83333333333337, 134.8472532683059 
+A 0 0 0 0 1, 255.83333333333337, 134.8472532683059 
+L 290.83333333333337, 134.8472532683059 
+A 0 0 0 0 1, 290.83333333333337, 134.8472532683059 
+L 290.83333333333337, 250 
+A 0 0 0 0 1, 290.83333333333337, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294944000,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294944000,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 459.16666666666674, 250 
+A 0 0 0 0 0, 459.16666666666674, 250 
+L 459.16666666666674, 250 
+A 0 0 0 0 0, 459.16666666666674, 250 
+L 494.16666666666674, 250 
+A 0 0 0 0 0, 494.16666666666674, 250 
+L 494.16666666666674, 250 
+A 0 0 0 0 0, 494.16666666666674, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294944000,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294944000,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 662.5000000000001, 250 
+A 0 0 0 0 0, 662.5000000000001, 250 
+L 662.5000000000001, 250 
+A 0 0 0 0 0, 662.5000000000001, 250 
+L 697.5000000000001, 250 
+A 0 0 0 0 0, 697.5000000000001, 250 
+L 697.5000000000001, 250 
+A 0 0 0 0 0, 697.5000000000001, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294944000,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294944000,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGPath
+                d="M 52.5, 250 
+A 0 0 0 0 1, 52.5, 250 
+L 52.5, 243.90367811420444 
+A 0 0 0 0 1, 52.5, 243.90367811420444 
+L 87.5, 243.90367811420444 
+A 0 0 0 0 1, 87.5, 243.90367811420444 
+L 87.5, 250 
+A 0 0 0 0 1, 87.5, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294927175,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294927175,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 255.83333333333337, 250 
+A 0 0 0 0 0, 255.83333333333337, 250 
+L 255.83333333333337, 250 
+A 0 0 0 0 0, 255.83333333333337, 250 
+L 290.83333333333337, 250 
+A 0 0 0 0 0, 290.83333333333337, 250 
+L 290.83333333333337, 250 
+A 0 0 0 0 0, 290.83333333333337, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294927175,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294927175,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 459.16666666666674, 250 
+A 0 0 0 0 0, 459.16666666666674, 250 
+L 459.16666666666674, 250 
+A 0 0 0 0 0, 459.16666666666674, 250 
+L 494.16666666666674, 250 
+A 0 0 0 0 0, 494.16666666666674, 250 
+L 494.16666666666674, 250 
+A 0 0 0 0 0, 494.16666666666674, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294927175,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294927175,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 662.5000000000001, 250 
+A 0 0 0 0 0, 662.5000000000001, 250 
+L 662.5000000000001, 250 
+A 0 0 0 0 0, 662.5000000000001, 250 
+L 697.5000000000001, 250 
+A 0 0 0 0 0, 697.5000000000001, 250 
+L 697.5000000000001, 250 
+A 0 0 0 0 0, 697.5000000000001, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294927175,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294927175,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+            </RNSVGGroup>
+          </RNSVGGroup>
+          <View
+            pointerEvents="box-none"
+            style={
+              {
+                "left": 0,
+                "position": "absolute",
+                "top": 0,
+                "zIndex": 99,
+              }
+            }
+          >
+            <RNSVGSvgView
+              align="xMidYMid"
+              bbHeight="300"
+              bbWidth="750"
+              focusable={false}
+              height={300}
+              meetOrSlice={0}
+              minX={0}
+              minY={0}
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "borderWidth": 0,
+                  },
+                  {
+                    "height": "100%",
+                    "overflow": "visible",
+                    "width": "100%",
+                  },
+                  {
+                    "flex": 0,
+                    "height": 300,
+                    "width": 750,
+                  },
+                ]
+              }
+              vbHeight={300}
+              vbWidth={750}
+              width={750}
+            >
+              <RNSVGGroup />
+            </RNSVGSvgView>
+          </View>
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`<StackedChart /> test stacked bar chart no data prop 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flexGrow": 1,
+      "justifyContent": "center",
+      "paddingBottom": 20,
+    }
+  }
+  style={
+    {
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <View
+      className="VictoryContainer"
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      pointerEvents="box-none"
+      style={
+        {
+          "position": "relative",
+        }
+      }
+    >
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="300"
+        bbWidth="750"
+        focusable={false}
+        height={300}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        role="img"
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "height": "100%",
+              "width": "100%",
+            },
+            {
+              "flex": 0,
+              "height": 300,
+              "width": 750,
+            },
+          ]
+        }
+        vbHeight={300}
+        vbWidth={750}
+        width={750}
+      >
+        <RNSVGGroup>
+          <RNSVGRect
+            fill={null}
+            height="300"
+            propList={
+              [
+                "fill",
+              ]
+            }
+            width="750"
+            x="0"
+            y="0"
+          />
+          <RNSVGGroup>
+            <RNSVGLine
+              fill={
+                {
+                  "payload": 0,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "fill",
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4286611584,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1"
+              vectorEffect={1}
+              x1="50"
+              x2="50"
+              y1="50"
+              y2="250"
+            />
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="213.963963963964"
+                y2="213.963963963964"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-0"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "218.223963963964",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="0.2"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="177.92792792792793"
+                y2="177.92792792792793"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-1"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "182.18792792792792",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="0.4"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="141.8918918918919"
+                y2="141.8918918918919"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-2"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "146.1518918918919",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="0.6"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="105.85585585585586"
+                y2="105.85585585585586"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-3"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "110.11585585585587",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="0.8"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="69.81981981981984"
+                y2="69.81981981981984"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-4"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "74.07981981981985",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="1.0"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+          </RNSVGGroup>
+          <RNSVGGroup>
+            <RNSVGLine
+              fill={
+                {
+                  "payload": 0,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "fill",
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4286611584,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1"
+              vectorEffect={1}
+              x1="50"
+              x2="700"
+              y1="250"
+              y2="250"
+            />
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-0"
+                rotate={[]}
+                x={
+                  [
+                    "70",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="1"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "70",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-1"
+                rotate={[]}
+                x={
+                  [
+                    "222.5",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="2"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "222.5",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-2"
+                rotate={[]}
+                x={
+                  [
+                    "375",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="3"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "375",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-3"
+                rotate={[]}
+                x={
+                  [
+                    "527.4999999999999",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="4"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "527.4999999999999",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-4"
+                rotate={[]}
+                x={
+                  [
+                    "680",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="5"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "680",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+          </RNSVGGroup>
+          <RNSVGGroup />
+          <View
+            pointerEvents="box-none"
+            style={
+              {
+                "left": 0,
+                "position": "absolute",
+                "top": 0,
+                "zIndex": 99,
+              }
+            }
+          >
+            <RNSVGSvgView
+              align="xMidYMid"
+              bbHeight="300"
+              bbWidth="750"
+              focusable={false}
+              height={300}
+              meetOrSlice={0}
+              minX={0}
+              minY={0}
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "borderWidth": 0,
+                  },
+                  {
+                    "height": "100%",
+                    "overflow": "visible",
+                    "width": "100%",
+                  },
+                  {
+                    "flex": 0,
+                    "height": 300,
+                    "width": 750,
+                  },
+                ]
+              }
+              vbHeight={300}
+              vbWidth={750}
+              width={750}
+            >
+              <RNSVGGroup />
+            </RNSVGSvgView>
+          </View>
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`<StackedChart /> test stacked bar chart with empty data 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flexGrow": 1,
+      "justifyContent": "center",
+      "paddingBottom": 20,
+    }
+  }
+  style={
+    {
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <View
+      className="VictoryContainer"
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      pointerEvents="box-none"
+      style={
+        {
+          "position": "relative",
+        }
+      }
+    >
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="300"
+        bbWidth="750"
+        focusable={false}
+        height={300}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        role="img"
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "height": "100%",
+              "width": "100%",
+            },
+            {
+              "flex": 0,
+              "height": 300,
+              "width": 750,
+            },
+          ]
+        }
+        vbHeight={300}
+        vbWidth={750}
+        width={750}
+      >
+        <RNSVGGroup>
+          <RNSVGRect
+            fill={null}
+            height="300"
+            propList={
+              [
+                "fill",
+              ]
+            }
+            width="750"
+            x="0"
+            y="0"
+          />
+          <RNSVGGroup>
+            <RNSVGLine
+              fill={
+                {
+                  "payload": 0,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "fill",
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4286611584,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1"
+              vectorEffect={1}
+              x1="50"
+              x2="50"
+              y1="50"
+              y2="250"
+            />
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="213.963963963964"
+                y2="213.963963963964"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-0"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "218.223963963964",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="0.2"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="177.92792792792793"
+                y2="177.92792792792793"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-1"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "182.18792792792792",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="0.4"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="141.8918918918919"
+                y2="141.8918918918919"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-2"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "146.1518918918919",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="0.6"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="105.85585585585586"
+                y2="105.85585585585586"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-3"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "110.11585585585587",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="0.8"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="69.81981981981984"
+                y2="69.81981981981984"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-4"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "74.07981981981985",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="1.0"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+          </RNSVGGroup>
+          <RNSVGGroup>
+            <RNSVGLine
+              fill={
+                {
+                  "payload": 0,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "fill",
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4286611584,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1"
+              vectorEffect={1}
+              x1="50"
+              x2="700"
+              y1="250"
+              y2="250"
+            />
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-0"
+                rotate={[]}
+                x={
+                  [
+                    "70",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="1"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "70",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-1"
+                rotate={[]}
+                x={
+                  [
+                    "222.5",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="2"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "222.5",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-2"
+                rotate={[]}
+                x={
+                  [
+                    "375",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="3"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "375",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-3"
+                rotate={[]}
+                x={
+                  [
+                    "527.4999999999999",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="4"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "527.4999999999999",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-4"
+                rotate={[]}
+                x={
+                  [
+                    "680",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="5"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "680",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+          </RNSVGGroup>
+          <RNSVGGroup />
+          <View
+            pointerEvents="box-none"
+            style={
+              {
+                "left": 0,
+                "position": "absolute",
+                "top": 0,
+                "zIndex": 99,
+              }
+            }
+          >
+            <RNSVGSvgView
+              align="xMidYMid"
+              bbHeight="300"
+              bbWidth="750"
+              focusable={false}
+              height={300}
+              meetOrSlice={0}
+              minX={0}
+              minY={0}
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "borderWidth": 0,
+                  },
+                  {
+                    "height": "100%",
+                    "overflow": "visible",
+                    "width": "100%",
+                  },
+                  {
+                    "flex": 0,
+                    "height": 300,
+                    "width": 750,
+                  },
+                ]
+              }
+              vbHeight={300}
+              vbWidth={750}
+              width={750}
+            >
+              <RNSVGGroup />
+            </RNSVGSvgView>
+          </View>
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`<StackedChart /> test stacked bar chart with float values 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flexGrow": 1,
+      "justifyContent": "center",
+      "paddingBottom": 20,
+    }
+  }
+  style={
+    {
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <View
+      className="VictoryContainer"
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      pointerEvents="box-none"
+      style={
+        {
+          "position": "relative",
+        }
+      }
+    >
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="300"
+        bbWidth="750"
+        focusable={false}
+        height={300}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        role="img"
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "height": "100%",
+              "width": "100%",
+            },
+            {
+              "flex": 0,
+              "height": 300,
+              "width": 750,
+            },
+          ]
+        }
+        vbHeight={300}
+        vbWidth={750}
+        width={750}
+      >
+        <RNSVGGroup>
+          <RNSVGRect
+            fill={null}
+            height="300"
+            propList={
+              [
+                "fill",
+              ]
+            }
+            width="750"
+            x="0"
+            y="0"
+          />
+          <RNSVGGroup>
+            <RNSVGLine
+              fill={
+                {
+                  "payload": 0,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "fill",
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4286611584,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1"
+              vectorEffect={1}
+              x1="50"
+              x2="50"
+              y1="50"
+              y2="250"
+            />
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="216.1747803221108"
+                y2="216.1747803221108"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-0"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "220.43478032211078",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="50"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="182.34956064422158"
+                y2="182.34956064422158"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-1"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "186.60956064422157",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="100"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="148.5243409663324"
+                y2="148.5243409663324"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-2"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "152.7843409663324",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="150"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="114.6991212884432"
+                y2="114.6991212884432"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-3"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "118.9591212884432",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="200"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={null}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4286611584,
+                    "type": 0,
+                  }
+                }
+                vectorEffect={1}
+                x1="50"
+                x2="700"
+                y1="80.87390161055399"
+                y2="80.87390161055399"
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-0-tickLabels-4"
+                rotate={[]}
+                x={
+                  [
+                    "39",
+                  ]
+                }
+                y={
+                  [
+                    "85.13390161055399",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="250"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "12",
+                      "letterSpacing": "normal",
+                      "textAnchor": "end",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "39",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+          </RNSVGGroup>
+          <RNSVGGroup>
+            <RNSVGLine
+              fill={
+                {
+                  "payload": 0,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "fill",
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4286611584,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth="1"
+              vectorEffect={1}
+              x1="50"
+              x2="700"
+              y1="250"
+              y2="250"
+            />
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-0"
+                rotate={[]}
+                x={
+                  [
+                    "70",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="Banks"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "70",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-1"
+                rotate={[]}
+                x={
+                  [
+                    "273.33333333333337",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="Crypto"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "273.33333333333337",
+                    ]
+                  }
+                  y={[]}
+                />
+                <RNSVGTSpan
+                  content="Wallets "
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "14",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "273.33333333333337",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-2"
+                rotate={[]}
+                x={
+                  [
+                    "476.66666666666674",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="Crypto"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "476.66666666666674",
+                    ]
+                  }
+                  y={[]}
+                />
+                <RNSVGTSpan
+                  content="Exchanges"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "14",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "476.66666666666674",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGText
+                content={null}
+                dx={
+                  [
+                    "0",
+                  ]
+                }
+                dy={[]}
+                font={{}}
+                name="chart-axis-1-tickLabels-3"
+                rotate={[]}
+                x={
+                  [
+                    "680.0000000000001",
+                  ]
+                }
+                y={
+                  [
+                    "272.97",
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="Stocks"
+                  dx={
+                    [
+                      "0",
+                    ]
+                  }
+                  dy={
+                    [
+                      "0",
+                    ]
+                  }
+                  fill={
+                    {
+                      "payload": 4278190080,
+                      "type": 0,
+                    }
+                  }
+                  font={
+                    {
+                      "fontFamily": "Gill Sans",
+                      "fontSize": "14",
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    [
+                      "fill",
+                    ]
+                  }
+                  rotate={[]}
+                  x={
+                    [
+                      "680.0000000000001",
+                    ]
+                  }
+                  y={[]}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+          </RNSVGGroup>
+          <RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGPath
+                d="M 52.5, 243.6476237444924 
+A 0 0 0 0 0, 52.5, 243.6476237444924 
+L 52.5, 243.6476237444924 
+A 0 0 0 0 0, 52.5, 243.6476237444924 
+L 87.5, 243.6476237444924 
+A 0 0 0 0 0, 87.5, 243.6476237444924 
+L 87.5, 243.6476237444924 
+A 0 0 0 0 0, 87.5, 243.6476237444924 
+ z"
+                fill={
+                  {
+                    "payload": 4286578816,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4286578816,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 255.83333333333337, 134.77777168923822 
+A 0 0 0 0 0, 255.83333333333337, 134.77777168923822 
+L 255.83333333333337, 134.77777168923822 
+A 0 0 0 0 0, 255.83333333333337, 134.77777168923822 
+L 290.83333333333337, 134.77777168923822 
+A 0 0 0 0 0, 290.83333333333337, 134.77777168923822 
+L 290.83333333333337, 134.77777168923822 
+A 0 0 0 0 0, 290.83333333333337, 134.77777168923822 
+ z"
+                fill={
+                  {
+                    "payload": 4286578816,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4286578816,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 459.16666666666674, 248.43050980694596 
+A 0 0 0 0 0, 459.16666666666674, 248.43050980694596 
+L 459.16666666666674, 248.43050980694596 
+A 0 0 0 0 0, 459.16666666666674, 248.43050980694596 
+L 494.16666666666674, 248.43050980694596 
+A 0 0 0 0 0, 494.16666666666674, 248.43050980694596 
+L 494.16666666666674, 248.43050980694596 
+A 0 0 0 0 0, 494.16666666666674, 248.43050980694596 
+ z"
+                fill={
+                  {
+                    "payload": 4286578816,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4286578816,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 662.5000000000001, 250 
+A 0 0 0 0 1, 662.5000000000001, 250 
+L 662.5000000000001, 69.81981981981981 
+A 0 0 0 0 1, 662.5000000000001, 69.81981981981981 
+L 697.5000000000001, 69.81981981981981 
+A 0 0 0 0 1, 697.5000000000001, 69.81981981981981 
+L 697.5000000000001, 250 
+A 0 0 0 0 1, 697.5000000000001, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4286578816,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4286578816,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGPath
+                d="M 52.5, 243.6476237444924 
+A 0 0 0 0 0, 52.5, 243.6476237444924 
+L 52.5, 243.6476237444924 
+A 0 0 0 0 0, 52.5, 243.6476237444924 
+L 87.5, 243.6476237444924 
+A 0 0 0 0 0, 87.5, 243.6476237444924 
+L 87.5, 243.6476237444924 
+A 0 0 0 0 0, 87.5, 243.6476237444924 
+ z"
+                fill={
+                  {
+                    "payload": 4294956800,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294956800,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 255.83333333333337, 134.77777168923822 
+A 0 0 0 0 0, 255.83333333333337, 134.77777168923822 
+L 255.83333333333337, 134.77777168923822 
+A 0 0 0 0 0, 255.83333333333337, 134.77777168923822 
+L 290.83333333333337, 134.77777168923822 
+A 0 0 0 0 0, 290.83333333333337, 134.77777168923822 
+L 290.83333333333337, 134.77777168923822 
+A 0 0 0 0 0, 290.83333333333337, 134.77777168923822 
+ z"
+                fill={
+                  {
+                    "payload": 4294956800,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294956800,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 459.16666666666674, 250 
+A 0 0 0 0 1, 459.16666666666674, 250 
+L 459.16666666666674, 248.43050980694596 
+A 0 0 0 0 1, 459.16666666666674, 248.43050980694596 
+L 494.16666666666674, 248.43050980694596 
+A 0 0 0 0 1, 494.16666666666674, 248.43050980694596 
+L 494.16666666666674, 250 
+A 0 0 0 0 1, 494.16666666666674, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294956800,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294956800,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 662.5000000000001, 250 
+A 0 0 0 0 0, 662.5000000000001, 250 
+L 662.5000000000001, 250 
+A 0 0 0 0 0, 662.5000000000001, 250 
+L 697.5000000000001, 250 
+A 0 0 0 0 0, 697.5000000000001, 250 
+L 697.5000000000001, 250 
+A 0 0 0 0 0, 697.5000000000001, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294956800,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294956800,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGPath
+                d="M 52.5, 243.6476237444924 
+A 0 0 0 0 0, 52.5, 243.6476237444924 
+L 52.5, 243.6476237444924 
+A 0 0 0 0 0, 52.5, 243.6476237444924 
+L 87.5, 243.6476237444924 
+A 0 0 0 0 0, 87.5, 243.6476237444924 
+L 87.5, 243.6476237444924 
+A 0 0 0 0 0, 87.5, 243.6476237444924 
+ z"
+                fill={
+                  {
+                    "payload": 4294944000,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294944000,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 255.83333333333337, 250 
+A 0 0 0 0 1, 255.83333333333337, 250 
+L 255.83333333333337, 134.77777168923822 
+A 0 0 0 0 1, 255.83333333333337, 134.77777168923822 
+L 290.83333333333337, 134.77777168923822 
+A 0 0 0 0 1, 290.83333333333337, 134.77777168923822 
+L 290.83333333333337, 250 
+A 0 0 0 0 1, 290.83333333333337, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294944000,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294944000,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 459.16666666666674, 250 
+A 0 0 0 0 0, 459.16666666666674, 250 
+L 459.16666666666674, 250 
+A 0 0 0 0 0, 459.16666666666674, 250 
+L 494.16666666666674, 250 
+A 0 0 0 0 0, 494.16666666666674, 250 
+L 494.16666666666674, 250 
+A 0 0 0 0 0, 494.16666666666674, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294944000,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294944000,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 662.5000000000001, 250 
+A 0 0 0 0 0, 662.5000000000001, 250 
+L 662.5000000000001, 250 
+A 0 0 0 0 0, 662.5000000000001, 250 
+L 697.5000000000001, 250 
+A 0 0 0 0 0, 697.5000000000001, 250 
+L 697.5000000000001, 250 
+A 0 0 0 0 0, 697.5000000000001, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294944000,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294944000,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGPath
+                d="M 52.5, 250 
+A 0 0 0 0 1, 52.5, 250 
+L 52.5, 243.6476237444924 
+A 0 0 0 0 1, 52.5, 243.6476237444924 
+L 87.5, 243.6476237444924 
+A 0 0 0 0 1, 87.5, 243.6476237444924 
+L 87.5, 250 
+A 0 0 0 0 1, 87.5, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294927175,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294927175,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 255.83333333333337, 250 
+A 0 0 0 0 0, 255.83333333333337, 250 
+L 255.83333333333337, 250 
+A 0 0 0 0 0, 255.83333333333337, 250 
+L 290.83333333333337, 250 
+A 0 0 0 0 0, 290.83333333333337, 250 
+L 290.83333333333337, 250 
+A 0 0 0 0 0, 290.83333333333337, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294927175,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294927175,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 459.16666666666674, 250 
+A 0 0 0 0 0, 459.16666666666674, 250 
+L 459.16666666666674, 250 
+A 0 0 0 0 0, 459.16666666666674, 250 
+L 494.16666666666674, 250 
+A 0 0 0 0 0, 494.16666666666674, 250 
+L 494.16666666666674, 250 
+A 0 0 0 0 0, 494.16666666666674, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294927175,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294927175,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+              <RNSVGPath
+                d="M 662.5000000000001, 250 
+A 0 0 0 0 0, 662.5000000000001, 250 
+L 662.5000000000001, 250 
+A 0 0 0 0 0, 662.5000000000001, 250 
+L 697.5000000000001, 250 
+A 0 0 0 0 0, 697.5000000000001, 250 
+L 697.5000000000001, 250 
+A 0 0 0 0 0, 697.5000000000001, 250 
+ z"
+                fill={
+                  {
+                    "payload": 4294927175,
+                    "type": 0,
+                  }
+                }
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                responsible={true}
+                stroke={
+                  {
+                    "payload": 4294927175,
+                    "type": 0,
+                  }
+                }
+                strokeWidth="0"
+              />
+            </RNSVGGroup>
+          </RNSVGGroup>
+          <View
+            pointerEvents="box-none"
+            style={
+              {
+                "left": 0,
+                "position": "absolute",
+                "top": 0,
+                "zIndex": 99,
+              }
+            }
+          >
+            <RNSVGSvgView
+              align="xMidYMid"
+              bbHeight="300"
+              bbWidth="750"
+              focusable={false}
+              height={300}
+              meetOrSlice={0}
+              minX={0}
+              minY={0}
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "borderWidth": 0,
+                  },
+                  {
+                    "height": "100%",
+                    "overflow": "visible",
+                    "width": "100%",
+                  },
+                  {
+                    "flex": 0,
+                    "height": 300,
+                    "width": 750,
+                  },
+                ]
+              }
+              vbHeight={300}
+              vbWidth={750}
+              width={750}
+            >
+              <RNSVGGroup />
+            </RNSVGSvgView>
+          </View>
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+  </View>
+</RCTScrollView>
+`;

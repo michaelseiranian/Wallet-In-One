@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NoWallets /> snapshot test 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flexGrow": 1,
+      "justifyContent": "center",
+      "paddingBottom": 20,
+    }
+  }
+>
+  <View>
+    <Text
+      style={
+        [
+          {
+            "color": "black",
+          },
+          {
+            "textAlign": "center",
+          },
+        ]
+      }
+    >
+      Welcome to Wallet-In-One!
+      
+
+      Connect your Assets to See your Funds
+    </Text>
+  </View>
+</RCTScrollView>
+`;

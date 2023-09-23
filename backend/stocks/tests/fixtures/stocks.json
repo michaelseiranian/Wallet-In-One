@@ -1,0 +1,30 @@
+[
+    {
+        "model": "stocks.stockaccount",
+        "fields": {
+            "account_id": "1",
+            "access_token": "test_access_token",
+            "user": 3,
+            "name": "Test Stock Account",
+            "institution_name": "Test Institution",
+            "institution_id": "1",
+            "balance": "100",
+            "balance_currency": "GBP",
+            "institution_logo": "Base24 Image Encoding"
+        }
+    },
+    {
+        "model": "stocks.stock",
+        "pk": 1,
+        "fields": {
+            "stockAccount": "1",
+            "institution_price": "100",
+            "institution_price_currency": "GBP",
+            "name": "Test Stock",
+            "ticker_symbol": "WIO",
+            "quantity": 10,
+            "security_id": "123"
+        }
+    }
+
+]

@@ -1,0 +1,3455 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StockInsight /> Empty Data test empty insights 1`] = `
+<View
+  style={
+    {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    accessibilityLabel={null}
+    style={
+      [
+        {
+          "flexDirection": "row",
+        },
+        {},
+      ]
+    }
+    testID={null}
+  >
+    <View
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      style={
+        {
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        onLayout={[Function]}
+        style={
+          {
+            "backgroundColor": "#FFFFFF",
+            "borderRadius": 50,
+            "height": 62,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "borderColor": "#7a44cf",
+              "borderRadius": 50,
+              "borderWidth": 1,
+              "flex": 1,
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="all"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#fff",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {},
+                ]
+              }
+            >
+              All
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="1 Month"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              1 Month
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="3 Months"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              3 Months
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="6 Months"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              6 Months
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="1 Year"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              1 Year
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+  <Text
+    style={
+      [
+        {
+          "color": "black",
+        },
+        {
+          "textAlign": "center",
+        },
+      ]
+    }
+  >
+    No Data for Selected Date
+  </Text>
+</View>
+`;
+
+exports[`<StockInsight /> stockInsight snapshot test 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    accessibilityLabel={null}
+    style={
+      [
+        {
+          "flexDirection": "row",
+        },
+        {},
+      ]
+    }
+    testID={null}
+  >
+    <View
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      style={
+        {
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        onLayout={[Function]}
+        style={
+          {
+            "backgroundColor": "#FFFFFF",
+            "borderRadius": 50,
+            "height": 62,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "borderColor": "#7a44cf",
+              "borderRadius": 50,
+              "borderWidth": 1,
+              "flex": 1,
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="all"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#fff",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {},
+                ]
+              }
+            >
+              All
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="1 Month"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              1 Month
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="3 Months"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              3 Months
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="6 Months"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              6 Months
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="1 Year"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              1 Year
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "borderRadius": 5,
+        "elevation": 5,
+        "marginVertical": 10,
+        "padding": 10,
+        "shadowColor": "#000",
+        "shadowOffset": {
+          "height": 2,
+          "width": 0,
+        },
+        "shadowOpacity": 0.25,
+        "shadowRadius": 3.84,
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+            "fontWeight": "700",
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Transaction Statistics
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Number of Transactions: 
+      200
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Highest Transaction(£): 
+      387.37
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Lowest Transaction(£): 
+      -12418.45
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Average Transaction(£): 
+      -1099.32
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Variance: 
+      7218423.81
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Standard Deviation: 
+      2686.71
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Highest Fee(£): 
+      7.99
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Lowest Fee(£): 
+      0
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Average Fee(£): 
+      2.6
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Centroid of Transaction Locations:
+    </Text>
+  </View>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "height": "100%",
+        }
+      }
+    >
+      <AIRMap
+        initialRegion={null}
+        onChange={[Function]}
+        onMapReady={[Function]}
+        region={
+          {
+            "latitude": 38.91613999999997,
+            "latitudeDelta": 0.0922,
+            "longitude": -97.94512499999999,
+            "longitudeDelta": 0.0421,
+          }
+        }
+        style={
+          {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+        testID="mapView"
+      >
+        <AIRMapMarker
+          coordinate={
+            {
+              "latitude": 38.91613999999997,
+              "longitude": -97.94512499999999,
+            }
+          }
+          onPress={[Function]}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "position": "absolute",
+              },
+              undefined,
+            ]
+          }
+          testID="marker"
+        />
+      </AIRMap>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<StockInsight /> test 1 month stock insight 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    accessibilityLabel={null}
+    style={
+      [
+        {
+          "flexDirection": "row",
+        },
+        {},
+      ]
+    }
+    testID={null}
+  >
+    <View
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      style={
+        {
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        onLayout={[Function]}
+        style={
+          {
+            "backgroundColor": "#FFFFFF",
+            "borderRadius": 50,
+            "height": 62,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "borderColor": "#7a44cf",
+              "borderRadius": 50,
+              "borderWidth": 1,
+              "flex": 1,
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="all"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              All
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="1 Month"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#fff",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {},
+                ]
+              }
+            >
+              1 Month
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="3 Months"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              3 Months
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="6 Months"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              6 Months
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="1 Year"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              1 Year
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "borderRadius": 5,
+        "elevation": 5,
+        "marginVertical": 10,
+        "padding": 10,
+        "shadowColor": "#000",
+        "shadowOffset": {
+          "height": 2,
+          "width": 0,
+        },
+        "shadowOpacity": 0.25,
+        "shadowRadius": 3.84,
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+            "fontWeight": "700",
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Transaction Statistics
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Number of Transactions: 
+      13
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Highest Transaction(£): 
+      387.37
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Lowest Transaction(£): 
+      -12418.45
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Average Transaction(£): 
+      -1218.68
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Variance: 
+      10783023.6
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Standard Deviation: 
+      3283.75
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Highest Fee(£): 
+      7.99
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Lowest Fee(£): 
+      0
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Average Fee(£): 
+      3.07
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Centroid of Transaction Locations:
+    </Text>
+  </View>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "height": "100%",
+        }
+      }
+    >
+      <AIRMap
+        initialRegion={null}
+        onChange={[Function]}
+        onMapReady={[Function]}
+        region={
+          {
+            "latitude": 39.318230769230766,
+            "latitudeDelta": 0.0922,
+            "longitude": -103.11261538461538,
+            "longitudeDelta": 0.0421,
+          }
+        }
+        style={
+          {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+        testID="mapView"
+      >
+        <AIRMapMarker
+          coordinate={
+            {
+              "latitude": 39.318230769230766,
+              "longitude": -103.11261538461538,
+            }
+          }
+          onPress={[Function]}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "position": "absolute",
+              },
+              undefined,
+            ]
+          }
+          testID="marker"
+        />
+      </AIRMap>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<StockInsight /> test 1 year stock insight 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    accessibilityLabel={null}
+    style={
+      [
+        {
+          "flexDirection": "row",
+        },
+        {},
+      ]
+    }
+    testID={null}
+  >
+    <View
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      style={
+        {
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        onLayout={[Function]}
+        style={
+          {
+            "backgroundColor": "#FFFFFF",
+            "borderRadius": 50,
+            "height": 62,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "borderColor": "#7a44cf",
+              "borderRadius": 50,
+              "borderWidth": 1,
+              "flex": 1,
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="all"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              All
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="1 Month"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              1 Month
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="3 Months"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              3 Months
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="6 Months"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              6 Months
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="1 Year"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#fff",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {},
+                ]
+              }
+            >
+              1 Year
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "borderRadius": 5,
+        "elevation": 5,
+        "marginVertical": 10,
+        "padding": 10,
+        "shadowColor": "#000",
+        "shadowOffset": {
+          "height": 2,
+          "width": 0,
+        },
+        "shadowOpacity": 0.25,
+        "shadowRadius": 3.84,
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+            "fontWeight": "700",
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Transaction Statistics
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Number of Transactions: 
+      136
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Highest Transaction(£): 
+      387.37
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Lowest Transaction(£): 
+      -12418.45
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Average Transaction(£): 
+      -1204.22
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Variance: 
+      10334689.14
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Standard Deviation: 
+      3214.76
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Highest Fee(£): 
+      7.99
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Lowest Fee(£): 
+      0
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Average Fee(£): 
+      3.01
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Centroid of Transaction Locations:
+    </Text>
+  </View>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "height": "100%",
+        }
+      }
+    >
+      <AIRMap
+        initialRegion={null}
+        onChange={[Function]}
+        onMapReady={[Function]}
+        region={
+          {
+            "latitude": 38.82299999999999,
+            "latitudeDelta": 0.0922,
+            "longitude": -97.80379411764703,
+            "longitudeDelta": 0.0421,
+          }
+        }
+        style={
+          {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+        testID="mapView"
+      >
+        <AIRMapMarker
+          coordinate={
+            {
+              "latitude": 38.82299999999999,
+              "longitude": -97.80379411764703,
+            }
+          }
+          onPress={[Function]}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "position": "absolute",
+              },
+              undefined,
+            ]
+          }
+          testID="marker"
+        />
+      </AIRMap>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<StockInsight /> test 3 months stock insight 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    accessibilityLabel={null}
+    style={
+      [
+        {
+          "flexDirection": "row",
+        },
+        {},
+      ]
+    }
+    testID={null}
+  >
+    <View
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      style={
+        {
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        onLayout={[Function]}
+        style={
+          {
+            "backgroundColor": "#FFFFFF",
+            "borderRadius": 50,
+            "height": 62,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "borderColor": "#7a44cf",
+              "borderRadius": 50,
+              "borderWidth": 1,
+              "flex": 1,
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="all"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              All
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="1 Month"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              1 Month
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="3 Months"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#fff",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {},
+                ]
+              }
+            >
+              3 Months
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="6 Months"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              6 Months
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="1 Year"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              1 Year
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "borderRadius": 5,
+        "elevation": 5,
+        "marginVertical": 10,
+        "padding": 10,
+        "shadowColor": "#000",
+        "shadowOffset": {
+          "height": 2,
+          "width": 0,
+        },
+        "shadowOpacity": 0.25,
+        "shadowRadius": 3.84,
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+            "fontWeight": "700",
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Transaction Statistics
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Number of Transactions: 
+      39
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Highest Transaction(£): 
+      387.37
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Lowest Transaction(£): 
+      -12418.45
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Average Transaction(£): 
+      -1218.68
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Variance: 
+      10783023.6
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Standard Deviation: 
+      3283.75
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Highest Fee(£): 
+      7.99
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Lowest Fee(£): 
+      0
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Average Fee(£): 
+      3.07
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Centroid of Transaction Locations:
+    </Text>
+  </View>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "height": "100%",
+        }
+      }
+    >
+      <AIRMap
+        initialRegion={null}
+        onChange={[Function]}
+        onMapReady={[Function]}
+        region={
+          {
+            "latitude": 38.91202564102565,
+            "latitudeDelta": 0.0922,
+            "longitude": -99.67053846153846,
+            "longitudeDelta": 0.0421,
+          }
+        }
+        style={
+          {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+        testID="mapView"
+      >
+        <AIRMapMarker
+          coordinate={
+            {
+              "latitude": 38.91202564102565,
+              "longitude": -99.67053846153846,
+            }
+          }
+          onPress={[Function]}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "position": "absolute",
+              },
+              undefined,
+            ]
+          }
+          testID="marker"
+        />
+      </AIRMap>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<StockInsight /> test 6 months stock insight 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    accessibilityLabel={null}
+    style={
+      [
+        {
+          "flexDirection": "row",
+        },
+        {},
+      ]
+    }
+    testID={null}
+  >
+    <View
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      style={
+        {
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        onLayout={[Function]}
+        style={
+          {
+            "backgroundColor": "#FFFFFF",
+            "borderRadius": 50,
+            "height": 62,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "borderColor": "#7a44cf",
+              "borderRadius": 50,
+              "borderWidth": 1,
+              "flex": 1,
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="all"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              All
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="1 Month"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              1 Month
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="3 Months"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              3 Months
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="6 Months"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#fff",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {},
+                ]
+              }
+            >
+              6 Months
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "opacity": 1,
+              }
+            }
+            testID="1 Year"
+          >
+            <Text
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "color": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                  },
+                  {
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              1 Year
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "borderRadius": 5,
+        "elevation": 5,
+        "marginVertical": 10,
+        "padding": 10,
+        "shadowColor": "#000",
+        "shadowOffset": {
+          "height": 2,
+          "width": 0,
+        },
+        "shadowOpacity": 0.25,
+        "shadowRadius": 3.84,
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+            "fontWeight": "700",
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Transaction Statistics
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Number of Transactions: 
+      78
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Highest Transaction(£): 
+      387.37
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Lowest Transaction(£): 
+      -12418.45
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Average Transaction(£): 
+      -1218.68
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Variance: 
+      10783023.6
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Standard Deviation: 
+      3283.75
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Highest Fee(£): 
+      7.99
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Lowest Fee(£): 
+      0
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Average Fee(£): 
+      3.07
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 16,
+            "marginBottom": 5,
+          },
+          {
+            "color": "black",
+          },
+        ]
+      }
+    >
+      Centroid of Transaction Locations:
+    </Text>
+  </View>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "height": "100%",
+        }
+      }
+    >
+      <AIRMap
+        initialRegion={null}
+        onChange={[Function]}
+        onMapReady={[Function]}
+        region={
+          {
+            "latitude": 38.912064102564095,
+            "latitudeDelta": 0.0922,
+            "longitude": -97.45996153846151,
+            "longitudeDelta": 0.0421,
+          }
+        }
+        style={
+          {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+        testID="mapView"
+      >
+        <AIRMapMarker
+          coordinate={
+            {
+              "latitude": 38.912064102564095,
+              "longitude": -97.45996153846151,
+            }
+          }
+          onPress={[Function]}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "position": "absolute",
+              },
+              undefined,
+            ]
+          }
+          testID="marker"
+        />
+      </AIRMap>
+    </View>
+  </View>
+</View>
+`;

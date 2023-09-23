@@ -1,0 +1,67 @@
+{
+    "1 Month": {
+        "average_fee": 3.07,
+        "average_latitude": 39.318230769230766,
+        "average_longitude": -103.11261538461538,
+        "average_transaction": -1218.68,
+        "highest_fee": 7.99,
+        "highest_transaction": 387.37,
+        "lowest_fee": 0,
+        "lowest_transaction": -12418.45,
+        "standard_deviation": 3283.75,
+        "total_number_of_transactions": 13,
+        "variance": 10783023.6
+    },
+    "12 Months": {
+        "average_fee": 3.01,
+        "average_latitude": 38.82299999999999,
+        "average_longitude": -97.80379411764703,
+        "average_transaction": -1204.22,
+        "highest_fee": 7.99,
+        "highest_transaction": 387.37,
+        "lowest_fee": 0,
+        "lowest_transaction": -12418.45,
+        "standard_deviation": 3214.76,
+        "total_number_of_transactions": 136,
+        "variance": 10334689.14
+    },
+    "3 Months": {
+        "average_fee": 3.07,
+        "average_latitude": 38.91202564102565,
+        "average_longitude": -99.67053846153846,
+        "average_transaction": -1218.68,
+        "highest_fee": 7.99,
+        "highest_transaction": 387.37,
+        "lowest_fee": 0,
+        "lowest_transaction": -12418.45,
+        "standard_deviation": 3283.75,
+        "total_number_of_transactions": 39,
+        "variance": 10783023.6
+    },
+    "6 Months": {
+        "average_fee": 3.07,
+        "average_latitude": 38.912064102564095,
+        "average_longitude": -97.45996153846151,
+        "average_transaction": -1218.68,
+        "highest_fee": 7.99,
+        "highest_transaction": 387.37,
+        "lowest_fee": 0,
+        "lowest_transaction": -12418.45,
+        "standard_deviation": 3283.75,
+        "total_number_of_transactions": 78,
+        "variance": 10783023.6
+    },
+    "all": {
+        "average_fee": 2.6,
+        "average_latitude": 38.91613999999997,
+        "average_longitude": -97.94512499999999,
+        "average_transaction": -1099.32,
+        "highest_fee": 7.99,
+        "highest_transaction": 387.37,
+        "lowest_fee": 0,
+        "lowest_transaction": -12418.45,
+        "standard_deviation": 2686.71,
+        "total_number_of_transactions": 200,
+        "variance": 7218423.81
+    }
+}

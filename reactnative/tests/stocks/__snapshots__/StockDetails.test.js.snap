@@ -1,0 +1,1358 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StockDetails /> stockDetails snapshot test 1`] = `
+<RCTScrollView
+  collapsable={false}
+  handlerTag={1}
+  handlerType="NativeViewGestureHandler"
+  onGestureHandlerEvent={[Function]}
+  onGestureHandlerStateChange={[Function]}
+  style={
+    [
+      {
+        "backgroundColor": "white",
+        "flex": 1,
+      },
+    ]
+  }
+  waitFor={
+    [
+      {
+        "current": null,
+      },
+    ]
+  }
+>
+  <View>
+    <View
+      style={
+        {
+          "padding": 20,
+        }
+      }
+    >
+      <Text
+        style={
+          [
+            {
+              "color": "black",
+              "fontWeight": "700",
+            },
+            {
+              "color": "black",
+            },
+          ]
+        }
+      >
+        Name
+      </Text>
+      <Text
+        style={
+          {
+            "color": "black",
+          }
+        }
+      >
+        Nflx Feb 01'18 $355 Call
+        
+
+      </Text>
+      <Text
+        style={
+          [
+            {
+              "color": "black",
+              "fontWeight": "700",
+            },
+            {
+              "color": "black",
+            },
+          ]
+        }
+      >
+        Institution Price Currency
+      </Text>
+      <Text
+        style={
+          {
+            "color": "black",
+          }
+        }
+      >
+        GBP
+        
+
+      </Text>
+      <Text
+        style={
+          [
+            {
+              "color": "black",
+              "fontWeight": "700",
+            },
+            {
+              "color": "black",
+            },
+          ]
+        }
+      >
+        Institution Price
+      </Text>
+      <Text
+        style={
+          {
+            "color": "black",
+          }
+        }
+      >
+        1.00
+        
+
+      </Text>
+      <View>
+        <Text
+          style={
+            [
+              {
+                "color": "black",
+                "fontWeight": "700",
+              },
+              {
+                "color": "black",
+              },
+            ]
+          }
+        >
+          Ticker Symbol
+        </Text>
+        <Text
+          style={
+            {
+              "color": "black",
+            }
+          }
+        >
+          NFLX180201C00355000
+          
+
+        </Text>
+      </View>
+      <Text
+        style={
+          [
+            {
+              "color": "black",
+              "fontWeight": "700",
+            },
+            {
+              "color": "black",
+            },
+          ]
+        }
+      >
+        Quantity
+      </Text>
+      <Text
+        style={
+          {
+            "color": "black",
+          }
+        }
+      >
+        0.01
+        
+
+      </Text>
+    </View>
+    <Text
+      style={
+        [
+          {
+            "color": "black",
+            "fontWeight": "700",
+          },
+          {
+            "color": "black",
+            "fontSize": 21,
+            "padding": 20,
+          },
+        ]
+      }
+    >
+      Line Graph
+    </Text>
+    <View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "paddingBottom": 14,
+            "paddingHorizontal": 10,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "color": "green",
+              "fontSize": 14,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          -38.446
+        </Text>
+        <Text
+          style={
+            {
+              "color": "green",
+              "fontSize": 14,
+              "fontWeight": "bold",
+            }
+          }
+        >
+           (
+          -100.00
+          %)
+        </Text>
+      </View>
+      <View
+        style={
+          [
+            undefined,
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "height": 375,
+              "width": 750,
+            }
+          }
+        >
+          <RNSVGSvgView
+            bbHeight="375"
+            bbWidth="750"
+            focusable={false}
+            height={375}
+            style={
+              [
+                {
+                  "backgroundColor": "transparent",
+                  "borderWidth": 0,
+                },
+                {
+                  "flex": 0,
+                  "height": 375,
+                  "width": 750,
+                },
+              ]
+            }
+            width={750}
+          >
+            <RNSVGGroup>
+              <RNSVGPath
+                fill={
+                  {
+                    "payload": 0,
+                    "type": 0,
+                  }
+                }
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                    "strokeOpacity",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4278222848,
+                    "type": 0,
+                  }
+                }
+                strokeOpacity={0.2}
+                strokeWidth="3"
+              />
+              <RNSVGDefs>
+                <RNSVGLinearGradient
+                  gradient={
+                    [
+                      0.2,
+                      637566976,
+                      0.4,
+                      218136576,
+                      1,
+                      32768,
+                    ]
+                  }
+                  gradientTransform={null}
+                  gradientUnits={0}
+                  name="1"
+                  x1="0"
+                  x2="0"
+                  y1="0"
+                  y2="100%"
+                />
+              </RNSVGDefs>
+              <RNSVGPath
+                fill={
+                  {
+                    "brushRef": "1",
+                    "type": 1,
+                  }
+                }
+                propList={
+                  [
+                    "fill",
+                  ]
+                }
+              />
+            </RNSVGGroup>
+          </RNSVGSvgView>
+        </View>
+        <View
+          style={
+            {
+              "bottom": 0,
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            }
+          }
+        >
+          <RNSVGSvgView
+            animatedProps={
+              {
+                "width": 770,
+              }
+            }
+            bbHeight="375"
+            focusable={false}
+            height={375}
+            style={
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              }
+            }
+          >
+            <RNSVGGroup>
+              <RNSVGPath
+                fill={
+                  {
+                    "payload": 0,
+                    "type": 0,
+                  }
+                }
+                propList={
+                  [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                    "strokeOpacity",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4278222848,
+                    "type": 0,
+                  }
+                }
+                strokeOpacity={1}
+                strokeWidth="3"
+              />
+            </RNSVGGroup>
+          </RNSVGSvgView>
+        </View>
+        <RNSVGLine
+          propList={
+            [
+              "stroke",
+              "strokeWidth",
+              "strokeDasharray",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4286611584,
+              "type": 0,
+            }
+          }
+          strokeDasharray={
+            [
+              "3",
+              "3",
+            ]
+          }
+          strokeWidth="2"
+          x1="0"
+          x2="0"
+          y1="0"
+          y2="0"
+        />
+        <View
+          collapsable={false}
+          handlerTag={2}
+          handlerType="LongPressGestureHandler"
+          onGestureHandlerEvent={[Function]}
+          onGestureHandlerStateChange={[Function]}
+          style={
+            {
+              "bottom": 0,
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "height": "100%",
+                "opacity": 0,
+                "transform": [
+                  {
+                    "translateX": -1,
+                  },
+                ],
+              }
+            }
+          >
+            <RNSVGSvgView
+              bbHeight="100%"
+              focusable={false}
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "borderWidth": 0,
+                  },
+                  {
+                    "bottom": 0,
+                    "height": "100%",
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  },
+                ]
+              }
+            >
+              <RNSVGGroup>
+                <RNSVGLine
+                  propList={
+                    [
+                      "stroke",
+                      "strokeWidth",
+                      "strokeDasharray",
+                    ]
+                  }
+                  stroke={
+                    {
+                      "payload": 4286611584,
+                      "type": 0,
+                    }
+                  }
+                  strokeDasharray={
+                    [
+                      "3",
+                      "3",
+                    ]
+                  }
+                  strokeWidth="2"
+                  x1="0"
+                  x2="0"
+                  y1="0"
+                  y2="375"
+                />
+              </RNSVGGroup>
+            </RNSVGSvgView>
+          </View>
+        </View>
+        <View
+          collapsable={false}
+          handlerTag={3}
+          handlerType="LongPressGestureHandler"
+          onGestureHandlerEvent={[Function]}
+          onGestureHandlerStateChange={[Function]}
+          style={
+            {
+              "bottom": 0,
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            }
+          }
+        >
+          <View
+            style={
+              [
+                {
+                  "alignItems": "center",
+                  "height": 32,
+                  "justifyContent": "center",
+                  "width": 32,
+                },
+                {
+                  "transform": [
+                    {
+                      "translateX": -17,
+                    },
+                    {
+                      "translateY": -16,
+                    },
+                    {
+                      "scale": 0,
+                    },
+                  ],
+                },
+                undefined,
+              ]
+            }
+          >
+            <View
+              style={
+                [
+                  {
+                    "backgroundColor": "black",
+                    "borderRadius": 32,
+                    "height": 32,
+                    "opacity": 0.1,
+                    "position": "absolute",
+                    "width": 32,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              style={
+                [
+                  {
+                    "backgroundColor": "black",
+                    "borderRadius": 8,
+                    "height": 8,
+                    "width": 8,
+                  },
+                  undefined,
+                ]
+              }
+            />
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "color": "black",
+                "fontSize": 12,
+                "marginHorizontal": 5,
+              }
+            }
+          >
+            Date: 
+          </Text>
+          <TextInput
+            animatedProps={
+              {
+                "text": "",
+              }
+            }
+            editable={false}
+            style={
+              [
+                {
+                  "color": "black",
+                },
+                {
+                  "color": "black",
+                  "fontSize": 13,
+                  "fontWeight": "bold",
+                },
+              ]
+            }
+            underlineColorAndroid="transparent"
+            value=""
+          />
+        </View>
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "color": "black",
+                "fontSize": 12,
+                "marginHorizontal": 5,
+              }
+            }
+          >
+            Balance: 
+          </Text>
+          <TextInput
+            animatedProps={
+              {
+                "text": "",
+              }
+            }
+            editable={false}
+            style={
+              [
+                {
+                  "color": "black",
+                },
+                {
+                  "color": "black",
+                  "fontSize": 13,
+                  "fontWeight": "bold",
+                },
+              ]
+            }
+            underlineColorAndroid="transparent"
+            value=""
+          />
+        </View>
+      </View>
+    </View>
+    <Text
+      style={
+        [
+          {
+            "color": "black",
+            "fontWeight": "700",
+          },
+          {
+            "color": "black",
+            "fontSize": 21,
+            "padding": 20,
+          },
+        ]
+      }
+    >
+      Stock Transactions
+    </Text>
+    <View
+      style={
+        {
+          "padding": 20,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            [
+              {
+                "paddingBottom": 20,
+              },
+              {
+                "borderBottomWidth": 2,
+                "borderColor": "#42b983",
+                "borderLeftWidth": 2,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              [
+                undefined,
+                0,
+                {
+                  "flexDirection": "row",
+                  "overflow": "hidden",
+                },
+                {
+                  "backgroundColor": "#42b983",
+                  "height": 44,
+                },
+              ]
+            }
+          >
+            <View
+              style={
+                [
+                  {
+                    "borderColor": "#42b983",
+                    "borderRightWidth": 2,
+                    "borderTopWidth": 2,
+                  },
+                  {
+                    "justifyContent": "center",
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                  {
+                    "flex": 1,
+                  },
+                  undefined,
+                ]
+              }
+            >
+              <Text
+                style={
+                  [
+                    [
+                      undefined,
+                      undefined,
+                    ],
+                    {
+                      "backgroundColor": "transparent",
+                    },
+                  ]
+                }
+              >
+                ID
+              </Text>
+            </View>
+            <View
+              style={
+                [
+                  {
+                    "borderColor": "#42b983",
+                    "borderRightWidth": 2,
+                    "borderTopWidth": 2,
+                  },
+                  {
+                    "justifyContent": "center",
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                  {
+                    "flex": 1,
+                  },
+                  undefined,
+                ]
+              }
+            >
+              <Text
+                style={
+                  [
+                    [
+                      undefined,
+                      undefined,
+                    ],
+                    {
+                      "backgroundColor": "transparent",
+                    },
+                  ]
+                }
+              >
+                Amount
+              </Text>
+            </View>
+            <View
+              style={
+                [
+                  {
+                    "borderColor": "#42b983",
+                    "borderRightWidth": 2,
+                    "borderTopWidth": 2,
+                  },
+                  {
+                    "justifyContent": "center",
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                  {
+                    "flex": 1,
+                  },
+                  undefined,
+                ]
+              }
+            >
+              <Text
+                style={
+                  [
+                    [
+                      undefined,
+                      undefined,
+                    ],
+                    {
+                      "backgroundColor": "transparent",
+                    },
+                  ]
+                }
+              >
+                Date
+              </Text>
+            </View>
+            <View
+              style={
+                [
+                  {
+                    "borderColor": "#42b983",
+                    "borderRightWidth": 2,
+                    "borderTopWidth": 2,
+                  },
+                  {
+                    "justifyContent": "center",
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                  {
+                    "flex": 1,
+                  },
+                  undefined,
+                ]
+              }
+            >
+              <Text
+                style={
+                  [
+                    [
+                      undefined,
+                      undefined,
+                    ],
+                    {
+                      "backgroundColor": "transparent",
+                    },
+                  ]
+                }
+              >
+                Quantity
+              </Text>
+            </View>
+            <View
+              style={
+                [
+                  {
+                    "borderColor": "#42b983",
+                    "borderRightWidth": 2,
+                    "borderTopWidth": 2,
+                  },
+                  {
+                    "justifyContent": "center",
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                  {
+                    "flex": 1,
+                  },
+                  undefined,
+                ]
+              }
+            >
+              <Text
+                style={
+                  [
+                    [
+                      undefined,
+                      undefined,
+                    ],
+                    {
+                      "backgroundColor": "transparent",
+                    },
+                  ]
+                }
+              >
+                Fees
+              </Text>
+            </View>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "opacity": 1,
+              }
+            }
+          >
+            <View
+              style={
+                [
+                  {
+                    "flexDirection": "row",
+                  },
+                  {
+                    "backgroundColor": "#bbf7d0",
+                  },
+                ]
+              }
+            >
+              <View
+                style={
+                  [
+                    {
+                      "borderColor": "#000000",
+                      "borderRightWidth": 1,
+                      "borderTopWidth": 1,
+                    },
+                    {
+                      "justifyContent": "center",
+                    },
+                    undefined,
+                    undefined,
+                    undefined,
+                    {
+                      "flex": 1,
+                    },
+                    undefined,
+                  ]
+                }
+              >
+                <Text
+                  style={
+                    [
+                      {
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
+                      {
+                        "backgroundColor": "transparent",
+                      },
+                    ]
+                  }
+                >
+                  1001
+                </Text>
+              </View>
+              <View
+                style={
+                  [
+                    {
+                      "borderColor": "#000000",
+                      "borderRightWidth": 1,
+                      "borderTopWidth": 1,
+                    },
+                    {
+                      "justifyContent": "center",
+                    },
+                    undefined,
+                    undefined,
+                    undefined,
+                    {
+                      "flex": 1,
+                    },
+                    undefined,
+                  ]
+                }
+              >
+                <Text
+                  style={
+                    [
+                      {
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
+                      {
+                        "backgroundColor": "transparent",
+                      },
+                    ]
+                  }
+                >
+                  38.45
+                </Text>
+              </View>
+              <View
+                style={
+                  [
+                    {
+                      "borderColor": "#000000",
+                      "borderRightWidth": 1,
+                      "borderTopWidth": 1,
+                    },
+                    {
+                      "justifyContent": "center",
+                    },
+                    undefined,
+                    undefined,
+                    undefined,
+                    {
+                      "flex": 1,
+                    },
+                    undefined,
+                  ]
+                }
+              >
+                <Text
+                  style={
+                    [
+                      {
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
+                      {
+                        "backgroundColor": "transparent",
+                      },
+                    ]
+                  }
+                >
+                  2023-03-10
+                </Text>
+              </View>
+              <View
+                style={
+                  [
+                    {
+                      "borderColor": "#000000",
+                      "borderRightWidth": 1,
+                      "borderTopWidth": 1,
+                    },
+                    {
+                      "justifyContent": "center",
+                    },
+                    undefined,
+                    undefined,
+                    undefined,
+                    {
+                      "flex": 1,
+                    },
+                    undefined,
+                  ]
+                }
+              >
+                <Text
+                  style={
+                    [
+                      {
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
+                      {
+                        "backgroundColor": "transparent",
+                      },
+                    ]
+                  }
+                >
+                  4211.152345617756
+                </Text>
+              </View>
+              <View
+                style={
+                  [
+                    {
+                      "borderColor": "#000000",
+                      "borderRightWidth": 1,
+                      "borderTopWidth": 1,
+                    },
+                    {
+                      "justifyContent": "center",
+                    },
+                    undefined,
+                    undefined,
+                    undefined,
+                    {
+                      "flex": 1,
+                    },
+                    undefined,
+                  ]
+                }
+              >
+                <Text
+                  style={
+                    [
+                      {
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
+                      {
+                        "backgroundColor": "transparent",
+                      },
+                    ]
+                  }
+                >
+                  5
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "opacity": 1,
+              }
+            }
+          >
+            <View
+              style={
+                [
+                  {
+                    "flexDirection": "row",
+                  },
+                  {
+                    "backgroundColor": "#bbf7d0",
+                  },
+                ]
+              }
+            >
+              <View
+                style={
+                  [
+                    {
+                      "borderColor": "#000000",
+                      "borderRightWidth": 1,
+                      "borderTopWidth": 1,
+                    },
+                    {
+                      "justifyContent": "center",
+                    },
+                    undefined,
+                    undefined,
+                    undefined,
+                    {
+                      "flex": 1,
+                    },
+                    undefined,
+                  ]
+                }
+              >
+                <Text
+                  style={
+                    [
+                      {
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
+                      {
+                        "backgroundColor": "transparent",
+                      },
+                    ]
+                  }
+                >
+                  1004
+                </Text>
+              </View>
+              <View
+                style={
+                  [
+                    {
+                      "borderColor": "#000000",
+                      "borderRightWidth": 1,
+                      "borderTopWidth": 1,
+                    },
+                    {
+                      "justifyContent": "center",
+                    },
+                    undefined,
+                    undefined,
+                    undefined,
+                    {
+                      "flex": 1,
+                    },
+                    undefined,
+                  ]
+                }
+              >
+                <Text
+                  style={
+                    [
+                      {
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
+                      {
+                        "backgroundColor": "transparent",
+                      },
+                    ]
+                  }
+                >
+                  38.45
+                </Text>
+              </View>
+              <View
+                style={
+                  [
+                    {
+                      "borderColor": "#000000",
+                      "borderRightWidth": 1,
+                      "borderTopWidth": 1,
+                    },
+                    {
+                      "justifyContent": "center",
+                    },
+                    undefined,
+                    undefined,
+                    undefined,
+                    {
+                      "flex": 1,
+                    },
+                    undefined,
+                  ]
+                }
+              >
+                <Text
+                  style={
+                    [
+                      {
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
+                      {
+                        "backgroundColor": "transparent",
+                      },
+                    ]
+                  }
+                >
+                  2023-02-08
+                </Text>
+              </View>
+              <View
+                style={
+                  [
+                    {
+                      "borderColor": "#000000",
+                      "borderRightWidth": 1,
+                      "borderTopWidth": 1,
+                    },
+                    {
+                      "justifyContent": "center",
+                    },
+                    undefined,
+                    undefined,
+                    undefined,
+                    {
+                      "flex": 1,
+                    },
+                    undefined,
+                  ]
+                }
+              >
+                <Text
+                  style={
+                    [
+                      {
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
+                      {
+                        "backgroundColor": "transparent",
+                      },
+                    ]
+                  }
+                >
+                  4211.152345617756
+                </Text>
+              </View>
+              <View
+                style={
+                  [
+                    {
+                      "borderColor": "#000000",
+                      "borderRightWidth": 1,
+                      "borderTopWidth": 1,
+                    },
+                    {
+                      "justifyContent": "center",
+                    },
+                    undefined,
+                    undefined,
+                    undefined,
+                    {
+                      "flex": 1,
+                    },
+                    undefined,
+                  ]
+                }
+              >
+                <Text
+                  style={
+                    [
+                      {
+                        "fontSize": 12,
+                        "textAlign": "center",
+                      },
+                      {
+                        "backgroundColor": "transparent",
+                      },
+                    ]
+                  }
+                >
+                  5
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;

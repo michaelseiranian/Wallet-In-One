@@ -1,0 +1,771 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DeveloperInfoScreen /> snapshot developerInfoScreen test 1`] = `
+<View
+  accessibilityIgnoresInvertColors={true}
+  style={
+    {
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+>
+  <Image
+    source={1}
+    style={
+      [
+        {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        },
+        {
+          "height": "100%",
+          "width": "100%",
+        },
+        undefined,
+      ]
+    }
+  />
+  <RCTScrollView
+    contentContainerStyle={
+      {
+        "flexGrow": 1,
+        "justifyContent": "center",
+        "paddingBottom": 15,
+      }
+    }
+    style={
+      {
+        "marginTop": 20,
+      }
+    }
+  >
+    <View>
+      <Image
+        resizeMode="contain"
+        source={1}
+        style={
+          {
+            "alignSelf": "center",
+            "height": 280,
+            "marginBottom": "-15%",
+            "marginTop": "-10%",
+            "width": 290,
+          }
+        }
+      />
+      <View
+        contentContainerStyle={
+          {
+            "paddingBottom": 30,
+          }
+        }
+        style={
+          {
+            "backgroundColor": "purple",
+            "marginVertical": 30,
+            "paddingHorizontal": 30,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "alignSelf": "center",
+              "color": "#fff",
+              "fontSize": 18,
+              "fontWeight": "500",
+              "marginVertical": 15,
+              "textTransform": "uppercase",
+            }
+          }
+        >
+           Meet the team 
+        </Text>
+        <Text
+          style={
+            [
+              {
+                "color": "purple",
+                "fontSize": 16,
+                "paddingBottom": 25,
+              },
+              {
+                "color": "#fff",
+              },
+            ]
+          }
+        >
+          This app was developed by second year students from King's College London on the Computer Science course for the module 'Software Engineering Group Project'. 
+          
+
+          Our team totals 8 students, feel free to visit our Github accounts and view our other projects by tapping on the icons below.
+        </Text>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "borderRadius": 5,
+              "display": "flex",
+              "justifyContent": "center",
+              "marginRight": "60%",
+              "marginVertical": 15,
+              "opacity": 1,
+              "paddingHorizontal": 28,
+              "paddingVertical": -10,
+            }
+          }
+          testID="GithubButtonTestAbbas"
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "aspectRatio": 1,
+                "height": 50,
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "alignSelf": "center",
+              "color": "#fff",
+              "fontSize": 18,
+              "fontWeight": "500",
+              "marginLeft": "-57%",
+              "textTransform": "uppercase",
+            }
+          }
+        >
+           Abbas Bin Vakas 
+        </Text>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "borderRadius": 5,
+              "display": "flex",
+              "justifyContent": "center",
+              "marginRight": "60%",
+              "marginVertical": 15,
+              "opacity": 1,
+              "paddingHorizontal": 28,
+              "paddingVertical": -10,
+            }
+          }
+          testID="GithubButtonTestYusuf"
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "aspectRatio": 1,
+                "height": 50,
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "alignSelf": "center",
+              "color": "#fff",
+              "fontSize": 18,
+              "fontWeight": "500",
+              "marginLeft": "-57%",
+              "textTransform": "uppercase",
+            }
+          }
+        >
+           Yusuf Abdulrahman 
+        </Text>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "borderRadius": 5,
+              "display": "flex",
+              "justifyContent": "center",
+              "marginRight": "60%",
+              "marginVertical": 15,
+              "opacity": 1,
+              "paddingHorizontal": 28,
+              "paddingVertical": -10,
+            }
+          }
+          testID="GithubButtonTestEzat"
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "aspectRatio": 1,
+                "height": 50,
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "alignSelf": "center",
+              "color": "#fff",
+              "fontSize": 18,
+              "fontWeight": "500",
+              "marginLeft": "-57%",
+              "textTransform": "uppercase",
+            }
+          }
+        >
+           Ezzat Alsalibi 
+        </Text>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "borderRadius": 5,
+              "display": "flex",
+              "justifyContent": "center",
+              "marginRight": "60%",
+              "marginVertical": 15,
+              "opacity": 1,
+              "paddingHorizontal": 28,
+              "paddingVertical": -10,
+            }
+          }
+          testID="GithubButtonTestShozab"
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "aspectRatio": 1,
+                "height": 50,
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "alignSelf": "center",
+              "color": "#fff",
+              "fontSize": 18,
+              "fontWeight": "500",
+              "marginLeft": "-57%",
+              "textTransform": "uppercase",
+            }
+          }
+        >
+           Shozab Anwar Siddique 
+        </Text>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "borderRadius": 5,
+              "display": "flex",
+              "justifyContent": "center",
+              "marginRight": "60%",
+              "marginVertical": 15,
+              "opacity": 1,
+              "paddingHorizontal": 28,
+              "paddingVertical": -10,
+            }
+          }
+          testID="GithubButtonTestJamal"
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "aspectRatio": 1,
+                "height": 50,
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "alignSelf": "center",
+              "color": "#fff",
+              "fontSize": 18,
+              "fontWeight": "500",
+              "marginLeft": "-57%",
+              "textTransform": "uppercase",
+            }
+          }
+        >
+           Jamal Boustani 
+        </Text>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "borderRadius": 5,
+              "display": "flex",
+              "justifyContent": "center",
+              "marginRight": "60%",
+              "marginVertical": 15,
+              "opacity": 1,
+              "paddingHorizontal": 28,
+              "paddingVertical": -10,
+            }
+          }
+          testID="GithubButtonTestKrishna"
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "aspectRatio": 1,
+                "height": 50,
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "alignSelf": "center",
+              "color": "#fff",
+              "fontSize": 18,
+              "fontWeight": "500",
+              "marginLeft": "-57%",
+              "textTransform": "uppercase",
+            }
+          }
+        >
+           Krishna Prasanna Kumar 
+        </Text>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "borderRadius": 5,
+              "display": "flex",
+              "justifyContent": "center",
+              "marginRight": "60%",
+              "marginVertical": 15,
+              "opacity": 1,
+              "paddingHorizontal": 28,
+              "paddingVertical": -10,
+            }
+          }
+          testID="GithubButtonTestMichael"
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "aspectRatio": 1,
+                "height": 50,
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "alignSelf": "center",
+              "color": "#fff",
+              "fontSize": 18,
+              "fontWeight": "500",
+              "marginLeft": "-57%",
+              "textTransform": "uppercase",
+            }
+          }
+        >
+           Michael Seiranian 
+        </Text>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "alignItems": "center",
+              "borderRadius": 5,
+              "display": "flex",
+              "justifyContent": "center",
+              "marginRight": "60%",
+              "marginVertical": 15,
+              "opacity": 1,
+              "paddingHorizontal": 28,
+              "paddingVertical": -10,
+            }
+          }
+          testID="GithubButtonTestMatushan"
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "aspectRatio": 1,
+                "height": 50,
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "alignSelf": "center",
+              "color": "#fff",
+              "fontSize": 18,
+              "fontWeight": "500",
+              "marginLeft": "-57%",
+              "textTransform": "uppercase",
+            }
+          }
+        >
+           Matushan Yogaraj 
+        </Text>
+      </View>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "alignSelf": "center",
+              "backgroundColor": "purple",
+              "borderRadius": 25,
+              "color": "black",
+              "fontSize": 20,
+              "fontWeight": "bold",
+              "padding": "2%",
+              "textAlign": "center",
+              "width": "60%",
+            }
+          }
+        >
+          Back to About Us
+        </Text>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;

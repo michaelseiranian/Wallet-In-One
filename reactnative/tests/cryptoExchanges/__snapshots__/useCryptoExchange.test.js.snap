@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`useCryptoExchange should match snapshot 1`] = `
+{
+  "exchanges": [],
+  "fetchExchanges": [Function],
+  "removeExchange": [Function],
+  "setExchanges": [Function],
+}
+`;

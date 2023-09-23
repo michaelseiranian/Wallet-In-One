@@ -1,0 +1,385 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ExchangeTransactions renders correctly 1`] = `
+<RCTScrollView
+  style={
+    {
+      "backgroundColor": "white",
+      "flex": 1,
+      "paddingHorizontal": 30,
+    }
+  }
+>
+  <View>
+    <View
+      style={
+        [
+          {
+            "backgroundColor": "white",
+            "flex": 1,
+          },
+          {
+            "alignItems": "flex-end",
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "marginLeft": "auto",
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "purple",
+              "borderRadius": 5,
+              "marginTop": 10,
+              "padding": 10,
+              "paddingHorizontal": 30,
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "color": "black",
+                "fontWeight": "800",
+              }
+            }
+          >
+            Remove
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      testID="conditional-modal"
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Modal
+          animationType="slide"
+          hardwareAccelerated={false}
+          onRequestClose={[Function]}
+          transparent={true}
+          visible={false}
+        />
+      </View>
+    </View>
+    <View
+      style={
+        [
+          {
+            "borderRadius": 10,
+            "paddingBottom": 20,
+            "paddingTop": 20,
+          },
+          {
+            "backgroundColor": "white",
+            "flex": 1,
+          },
+          {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Image
+        style={
+          {
+            "height": 80,
+            "width": 80,
+          }
+        }
+        testID="exchange-image"
+      />
+      <View
+        style={
+          {
+            "marginLeft": 10,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "color": "black",
+              "fontSize": 31,
+              "fontWeight": "800",
+              "paddingTop": 10,
+            }
+          }
+        >
+          Test Exchange
+           Exchange
+        </Text>
+        <Text
+          style={
+            {
+              "color": "black",
+              "fontSize": 19,
+              "fontWeight": "200",
+              "paddingTop": 0,
+            }
+          }
+        >
+          Balance: 
+          Loading...
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "paddingHorizontal": 40,
+        }
+      }
+    >
+      <View
+        accessibilityLabel={null}
+        style={
+          [
+            {
+              "flexDirection": "row",
+            },
+            {},
+          ]
+        }
+        testID="switchSelector"
+      >
+        <View
+          onMoveShouldSetResponder={[Function]}
+          onMoveShouldSetResponderCapture={[Function]}
+          onResponderEnd={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderReject={[Function]}
+          onResponderRelease={[Function]}
+          onResponderStart={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          onStartShouldSetResponderCapture={[Function]}
+          style={
+            {
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            onLayout={[Function]}
+            style={
+              {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": 50,
+                "height": 47,
+              }
+            }
+          >
+            <View
+              style={
+                {
+                  "alignItems": "center",
+                  "borderColor": "#7a44cf",
+                  "borderRadius": 50,
+                  "borderWidth": 1,
+                  "flex": 1,
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <View
+                accessibilityState={
+                  {
+                    "busy": undefined,
+                    "checked": undefined,
+                    "disabled": undefined,
+                    "expanded": undefined,
+                    "selected": undefined,
+                  }
+                }
+                accessibilityValue={
+                  {
+                    "max": undefined,
+                    "min": undefined,
+                    "now": undefined,
+                    "text": undefined,
+                  }
+                }
+                accessible={true}
+                collapsable={false}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "justifyContent": "center",
+                    "opacity": 1,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    [
+                      {
+                        "backgroundColor": "transparent",
+                        "color": "#fff",
+                        "fontSize": 14,
+                        "fontWeight": "normal",
+                        "textAlign": "center",
+                      },
+                      {},
+                    ]
+                  }
+                >
+                  Coin Breakdown
+                </Text>
+              </View>
+              <View
+                accessibilityState={
+                  {
+                    "busy": undefined,
+                    "checked": undefined,
+                    "disabled": undefined,
+                    "expanded": undefined,
+                    "selected": undefined,
+                  }
+                }
+                accessibilityValue={
+                  {
+                    "max": undefined,
+                    "min": undefined,
+                    "now": undefined,
+                    "text": undefined,
+                  }
+                }
+                accessible={true}
+                collapsable={false}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "justifyContent": "center",
+                    "opacity": 1,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    [
+                      {
+                        "backgroundColor": "transparent",
+                        "color": "#000000",
+                        "fontSize": 14,
+                        "fontWeight": "normal",
+                        "textAlign": "center",
+                      },
+                      {
+                        "fontSize": 15,
+                        "fontWeight": "bold",
+                      },
+                    ]
+                  }
+                >
+                  Transactions
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flex": 1,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "alignItems": "center",
+            "color": "black",
+            "fontSize": 25,
+            "fontWeight": "800",
+            "paddingTop": 10,
+          }
+        }
+      >
+        Coin Breakdown
+      </Text>
+      <Text
+        style={
+          {
+            "color": "black",
+          }
+        }
+      >
+        Loading...
+      </Text>
+    </View>
+  </View>
+</RCTScrollView>
+`;

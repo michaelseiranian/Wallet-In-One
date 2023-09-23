@@ -1,0 +1,1765 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PieChart /> test 2 label pie chart 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flexGrow": 1,
+      "justifyContent": "center",
+    }
+  }
+  style={
+    {
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <View
+      className="VictoryContainer"
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      pointerEvents="box-none"
+      style={
+        {
+          "position": "relative",
+        }
+      }
+    >
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="300"
+        bbWidth="750"
+        focusable={false}
+        height={300}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        role="img"
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "height": "100%",
+              "width": "100%",
+            },
+            {
+              "flex": 0,
+              "height": 300,
+              "width": 750,
+            },
+          ]
+        }
+        vbHeight={300}
+        vbWidth={750}
+        width={750}
+      >
+        <RNSVGGroup>
+          <RNSVGRect
+            fill={null}
+            height="300"
+            propList={
+              [
+                "fill",
+              ]
+            }
+            width="750"
+            x="0"
+            y="0"
+          />
+          <RNSVGGroup>
+            <RNSVGPath
+              d="M2.349691592702662,-239.68205005290886A10,10,0,0,1,12.86426207573194,-249.66880213844672A250,250,0,1,1,-103.38432595796823,227.62179409322073A10,10,0,0,1,-108.12896853696343,213.91851797186308L-48.17612308099603,98.14309620666485A10,10,0,0,1,-35.72373405789277,93.40136414935789A100,100,0,1,0,11.226992357002432,-99.36777466873156A10,10,0,0,1,2.3496915927026745,-109.30455213560472Z"
+              fill={
+                {
+                  "payload": 4294951115,
+                  "type": 0,
+                }
+              }
+              matrix={
+                [
+                  1,
+                  0,
+                  0,
+                  1,
+                  375,
+                  150,
+                ]
+              }
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              responsible={true}
+            />
+            <RNSVGPath
+              d="M-112.30202814477764,211.75755156006954A10,10,0,0,1,-126.23129558551211,215.79077833587576A250,250,0,0,1,-243.61354339017154,56.14660699352197A10,10,0,0,1,-235.61046527773934,44.05354491698838L-107.22516425347698,21.34877792663628A10,10,0,0,1,-95.89427330027479,28.359977930389995A100,100,0,0,0,-55.66290755102201,83.07611403385678A10,10,0,0,1,-52.349182688810245,95.98212979487127Z"
+              fill={
+                {
+                  "payload": 4282441936,
+                  "type": 0,
+                }
+              }
+              matrix={
+                [
+                  1,
+                  0,
+                  0,
+                  1,
+                  375,
+                  150,
+                ]
+              }
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              responsible={true}
+            />
+            <RNSVGPath
+              d="M-236.4288457646136,39.425969342027614A10,10,0,0,1,-248.09407227894616,30.811220359619693A250,250,0,0,1,-104.0196343200738,-227.33217034972884A10,10,0,0,1,-90.56350710796434,-221.9262430368514L-42.488636540309855,-100.7359019073706A10,10,0,0,1,-47.07634398146938,-88.22594764205354A100,100,0,0,0,-99.80455305775081,6.2490950498934374A10,10,0,0,1,-108.04354474035118,16.72120235167547Z"
+              fill={
+                {
+                  "payload": 4278255360,
+                  "type": 0,
+                }
+              }
+              matrix={
+                [
+                  1,
+                  0,
+                  0,
+                  1,
+                  375,
+                  150,
+                ]
+              }
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              responsible={true}
+            />
+            <RNSVGPath
+              d="M-86.19526979374123,-223.6590745606583A10,10,0,0,1,-80.10409161920289,-236.81920214767712A250,250,0,0,1,-12.86426207573201,-249.66880213844678A10,10,0,0,1,-2.349691592702687,-239.68205005290892L-2.349691592702646,-109.30455213560472A10,10,0,0,1,-11.226992357002405,-99.36777466873157A100,100,0,0,0,-26.204597624345777,-96.50553902935381A10,10,0,0,1,-38.12039922608679,-102.46873343117747Z"
+              fill={
+                {
+                  "payload": 4294613276,
+                  "type": 0,
+                }
+              }
+              matrix={
+                [
+                  1,
+                  0,
+                  0,
+                  1,
+                  375,
+                  150,
+                ]
+              }
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              responsible={true}
+            />
+          </RNSVGGroup>
+          <RNSVGText
+            content={null}
+            dx={
+              [
+                "0",
+              ]
+            }
+            dy={[]}
+            font={{}}
+            rotate={[]}
+            x={
+              [
+                "375",
+              ]
+            }
+            y={
+              [
+                "139.585",
+              ]
+            }
+          >
+            <RNSVGTSpan
+              content="Assets"
+              dx={
+                [
+                  "0",
+                ]
+              }
+              dy={
+                [
+                  "0",
+                ]
+              }
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              font={
+                {
+                  "fontFamily": "Gill Sans",
+                  "fontSize": "27",
+                  "textAnchor": "middle",
+                }
+              }
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              rotate={[]}
+              x={
+                [
+                  "375",
+                ]
+              }
+              y={[]}
+            />
+          </RNSVGText>
+          <RNSVGText
+            content={null}
+            dx={
+              [
+                "0",
+              ]
+            }
+            dy={[]}
+            font={{}}
+            rotate={[]}
+            x={
+              [
+                "375",
+              ]
+            }
+            y={
+              [
+                "193.135",
+              ]
+            }
+          >
+            <RNSVGTSpan
+              content="4"
+              dx={
+                [
+                  "0",
+                ]
+              }
+              dy={
+                [
+                  "0",
+                ]
+              }
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              font={
+                {
+                  "fontFamily": "Gill Sans",
+                  "fontSize": "37",
+                  "fontWeight": "700",
+                  "textAnchor": "middle",
+                }
+              }
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              rotate={[]}
+              x={
+                [
+                  "375",
+                ]
+              }
+              y={[]}
+            />
+          </RNSVGText>
+          <View
+            pointerEvents="box-none"
+            style={
+              {
+                "left": 0,
+                "position": "absolute",
+                "top": 0,
+                "zIndex": 99,
+              }
+            }
+          >
+            <RNSVGSvgView
+              align="xMidYMid"
+              bbHeight="300"
+              bbWidth="750"
+              focusable={false}
+              height={300}
+              meetOrSlice={0}
+              minX={0}
+              minY={0}
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "borderWidth": 0,
+                  },
+                  {
+                    "height": "100%",
+                    "overflow": "visible",
+                    "width": "100%",
+                  },
+                  {
+                    "flex": 0,
+                    "height": 300,
+                    "width": 750,
+                  },
+                ]
+              }
+              vbHeight={300}
+              vbWidth={750}
+              width={750}
+            >
+              <RNSVGGroup />
+            </RNSVGSvgView>
+          </View>
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`<PieChart /> test 4 label pie chart 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flexGrow": 1,
+      "justifyContent": "center",
+    }
+  }
+  style={
+    {
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <View
+      className="VictoryContainer"
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      pointerEvents="box-none"
+      style={
+        {
+          "position": "relative",
+        }
+      }
+    >
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="300"
+        bbWidth="750"
+        focusable={false}
+        height={300}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        role="img"
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "height": "100%",
+              "width": "100%",
+            },
+            {
+              "flex": 0,
+              "height": 300,
+              "width": 750,
+            },
+          ]
+        }
+        vbHeight={300}
+        vbWidth={750}
+        width={750}
+      >
+        <RNSVGGroup>
+          <RNSVGRect
+            fill={null}
+            height="300"
+            propList={
+              [
+                "fill",
+              ]
+            }
+            width="750"
+            x="0"
+            y="0"
+          />
+          <RNSVGGroup>
+            <RNSVGPath
+              d="M2.349691592702662,-239.68205005290886A10,10,0,0,1,12.86426207573194,-249.66880213844672A250,250,0,1,1,-103.38432595796823,227.62179409322073A10,10,0,0,1,-108.12896853696343,213.91851797186308L-48.17612308099603,98.14309620666485A10,10,0,0,1,-35.72373405789277,93.40136414935789A100,100,0,1,0,11.226992357002432,-99.36777466873156A10,10,0,0,1,2.3496915927026745,-109.30455213560472Z"
+              fill={
+                {
+                  "payload": 4294951115,
+                  "type": 0,
+                }
+              }
+              matrix={
+                [
+                  1,
+                  0,
+                  0,
+                  1,
+                  375,
+                  150,
+                ]
+              }
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              responsible={true}
+            />
+            <RNSVGPath
+              d="M-112.30202814477764,211.75755156006954A10,10,0,0,1,-126.23129558551211,215.79077833587576A250,250,0,0,1,-243.61354339017154,56.14660699352197A10,10,0,0,1,-235.61046527773934,44.05354491698838L-107.22516425347698,21.34877792663628A10,10,0,0,1,-95.89427330027479,28.359977930389995A100,100,0,0,0,-55.66290755102201,83.07611403385678A10,10,0,0,1,-52.349182688810245,95.98212979487127Z"
+              fill={
+                {
+                  "payload": 4282441936,
+                  "type": 0,
+                }
+              }
+              matrix={
+                [
+                  1,
+                  0,
+                  0,
+                  1,
+                  375,
+                  150,
+                ]
+              }
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              responsible={true}
+            />
+            <RNSVGPath
+              d="M-236.4288457646136,39.425969342027614A10,10,0,0,1,-248.09407227894616,30.811220359619693A250,250,0,0,1,-104.0196343200738,-227.33217034972884A10,10,0,0,1,-90.56350710796434,-221.9262430368514L-42.488636540309855,-100.7359019073706A10,10,0,0,1,-47.07634398146938,-88.22594764205354A100,100,0,0,0,-99.80455305775081,6.2490950498934374A10,10,0,0,1,-108.04354474035118,16.72120235167547Z"
+              fill={
+                {
+                  "payload": 4278255360,
+                  "type": 0,
+                }
+              }
+              matrix={
+                [
+                  1,
+                  0,
+                  0,
+                  1,
+                  375,
+                  150,
+                ]
+              }
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              responsible={true}
+            />
+            <RNSVGPath
+              d="M-86.19526979374123,-223.6590745606583A10,10,0,0,1,-80.10409161920289,-236.81920214767712A250,250,0,0,1,-12.86426207573201,-249.66880213844678A10,10,0,0,1,-2.349691592702687,-239.68205005290892L-2.349691592702646,-109.30455213560472A10,10,0,0,1,-11.226992357002405,-99.36777466873157A100,100,0,0,0,-26.204597624345777,-96.50553902935381A10,10,0,0,1,-38.12039922608679,-102.46873343117747Z"
+              fill={
+                {
+                  "payload": 4294613276,
+                  "type": 0,
+                }
+              }
+              matrix={
+                [
+                  1,
+                  0,
+                  0,
+                  1,
+                  375,
+                  150,
+                ]
+              }
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              responsible={true}
+            />
+          </RNSVGGroup>
+          <RNSVGText
+            content={null}
+            dx={
+              [
+                "0",
+              ]
+            }
+            dy={[]}
+            font={{}}
+            rotate={[]}
+            x={
+              [
+                "375",
+              ]
+            }
+            y={
+              [
+                "171.035",
+              ]
+            }
+          >
+            <RNSVGTSpan
+              content="Assets"
+              dx={
+                [
+                  "0",
+                ]
+              }
+              dy={
+                [
+                  "0",
+                ]
+              }
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              font={
+                {
+                  "fontFamily": "Gill Sans",
+                  "fontSize": "17",
+                  "textAnchor": "middle",
+                }
+              }
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              rotate={[]}
+              x={
+                [
+                  "375",
+                ]
+              }
+              y={[]}
+            />
+          </RNSVGText>
+          <RNSVGText
+            content={null}
+            dx={
+              [
+                "0",
+              ]
+            }
+            dy={[]}
+            font={{}}
+            rotate={[]}
+            x={
+              [
+                "375",
+              ]
+            }
+            y={
+              [
+                "194.585",
+              ]
+            }
+          >
+            <RNSVGTSpan
+              content="4"
+              dx={
+                [
+                  "0",
+                ]
+              }
+              dy={
+                [
+                  "0",
+                ]
+              }
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              font={
+                {
+                  "fontFamily": "Gill Sans",
+                  "fontSize": "27",
+                  "fontWeight": "700",
+                  "textAnchor": "middle",
+                }
+              }
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              rotate={[]}
+              x={
+                [
+                  "375",
+                ]
+              }
+              y={[]}
+            />
+          </RNSVGText>
+          <RNSVGText
+            content={null}
+            dx={
+              [
+                "0",
+              ]
+            }
+            dy={[]}
+            font={{}}
+            rotate={[]}
+            x={
+              [
+                "375",
+              ]
+            }
+            y={
+              [
+                "111.035",
+              ]
+            }
+          >
+            <RNSVGTSpan
+              content="Net Worth"
+              dx={
+                [
+                  "0",
+                ]
+              }
+              dy={
+                [
+                  "0",
+                ]
+              }
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              font={
+                {
+                  "fontFamily": "Gill Sans",
+                  "fontSize": "17",
+                  "textAnchor": "middle",
+                }
+              }
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              rotate={[]}
+              x={
+                [
+                  "375",
+                ]
+              }
+              y={[]}
+            />
+          </RNSVGText>
+          <RNSVGText
+            content={null}
+            dx={
+              [
+                "0",
+              ]
+            }
+            dy={[]}
+            font={{}}
+            rotate={[]}
+            x={
+              [
+                "375",
+              ]
+            }
+            y={
+              [
+                "134.585",
+              ]
+            }
+          >
+            <RNSVGTSpan
+              content="£345.00"
+              dx={
+                [
+                  "0",
+                ]
+              }
+              dy={
+                [
+                  "0",
+                ]
+              }
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              font={
+                {
+                  "fontFamily": "Gill Sans",
+                  "fontSize": "27",
+                  "fontWeight": "700",
+                  "textAnchor": "middle",
+                }
+              }
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              rotate={[]}
+              x={
+                [
+                  "375",
+                ]
+              }
+              y={[]}
+            />
+          </RNSVGText>
+          <View
+            pointerEvents="box-none"
+            style={
+              {
+                "left": 0,
+                "position": "absolute",
+                "top": 0,
+                "zIndex": 99,
+              }
+            }
+          >
+            <RNSVGSvgView
+              align="xMidYMid"
+              bbHeight="300"
+              bbWidth="750"
+              focusable={false}
+              height={300}
+              meetOrSlice={0}
+              minX={0}
+              minY={0}
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "borderWidth": 0,
+                  },
+                  {
+                    "height": "100%",
+                    "overflow": "visible",
+                    "width": "100%",
+                  },
+                  {
+                    "flex": 0,
+                    "height": 300,
+                    "width": 750,
+                  },
+                ]
+              }
+              vbHeight={300}
+              vbWidth={750}
+              width={750}
+            >
+              <RNSVGGroup />
+            </RNSVGSvgView>
+          </View>
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`<PieChart /> test empty data pie chart 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flexGrow": 1,
+      "justifyContent": "center",
+    }
+  }
+  style={
+    {
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <View
+      className="VictoryContainer"
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      pointerEvents="box-none"
+      style={
+        {
+          "position": "relative",
+        }
+      }
+    >
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="300"
+        bbWidth="750"
+        focusable={false}
+        height={300}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        role="img"
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "height": "100%",
+              "width": "100%",
+            },
+            {
+              "flex": 0,
+              "height": 300,
+              "width": 750,
+            },
+          ]
+        }
+        vbHeight={300}
+        vbWidth={750}
+        width={750}
+      >
+        <RNSVGGroup>
+          <RNSVGRect
+            fill={null}
+            height="300"
+            propList={
+              [
+                "fill",
+              ]
+            }
+            width="750"
+            x="0"
+            y="0"
+          />
+          <RNSVGGroup />
+          <RNSVGText
+            content={null}
+            dx={
+              [
+                "0",
+              ]
+            }
+            dy={[]}
+            font={{}}
+            rotate={[]}
+            x={
+              [
+                "375",
+              ]
+            }
+            y={
+              [
+                "171.035",
+              ]
+            }
+          >
+            <RNSVGTSpan
+              content="Assets"
+              dx={
+                [
+                  "0",
+                ]
+              }
+              dy={
+                [
+                  "0",
+                ]
+              }
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              font={
+                {
+                  "fontFamily": "Gill Sans",
+                  "fontSize": "17",
+                  "textAnchor": "middle",
+                }
+              }
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              rotate={[]}
+              x={
+                [
+                  "375",
+                ]
+              }
+              y={[]}
+            />
+          </RNSVGText>
+          <RNSVGText
+            content={null}
+            dx={
+              [
+                "0",
+              ]
+            }
+            dy={[]}
+            font={{}}
+            rotate={[]}
+            x={
+              [
+                "375",
+              ]
+            }
+            y={
+              [
+                "194.585",
+              ]
+            }
+          >
+            <RNSVGTSpan
+              content="0"
+              dx={
+                [
+                  "0",
+                ]
+              }
+              dy={
+                [
+                  "0",
+                ]
+              }
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              font={
+                {
+                  "fontFamily": "Gill Sans",
+                  "fontSize": "27",
+                  "fontWeight": "700",
+                  "textAnchor": "middle",
+                }
+              }
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              rotate={[]}
+              x={
+                [
+                  "375",
+                ]
+              }
+              y={[]}
+            />
+          </RNSVGText>
+          <RNSVGText
+            content={null}
+            dx={
+              [
+                "0",
+              ]
+            }
+            dy={[]}
+            font={{}}
+            rotate={[]}
+            x={
+              [
+                "375",
+              ]
+            }
+            y={
+              [
+                "111.035",
+              ]
+            }
+          >
+            <RNSVGTSpan
+              content="Net Worth"
+              dx={
+                [
+                  "0",
+                ]
+              }
+              dy={
+                [
+                  "0",
+                ]
+              }
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              font={
+                {
+                  "fontFamily": "Gill Sans",
+                  "fontSize": "17",
+                  "textAnchor": "middle",
+                }
+              }
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              rotate={[]}
+              x={
+                [
+                  "375",
+                ]
+              }
+              y={[]}
+            />
+          </RNSVGText>
+          <RNSVGText
+            content={null}
+            dx={
+              [
+                "0",
+              ]
+            }
+            dy={[]}
+            font={{}}
+            rotate={[]}
+            x={
+              [
+                "375",
+              ]
+            }
+            y={
+              [
+                "134.585",
+              ]
+            }
+          >
+            <RNSVGTSpan
+              content="£0.00"
+              dx={
+                [
+                  "0",
+                ]
+              }
+              dy={
+                [
+                  "0",
+                ]
+              }
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              font={
+                {
+                  "fontFamily": "Gill Sans",
+                  "fontSize": "27",
+                  "fontWeight": "700",
+                  "textAnchor": "middle",
+                }
+              }
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              rotate={[]}
+              x={
+                [
+                  "375",
+                ]
+              }
+              y={[]}
+            />
+          </RNSVGText>
+          <View
+            pointerEvents="box-none"
+            style={
+              {
+                "left": 0,
+                "position": "absolute",
+                "top": 0,
+                "zIndex": 99,
+              }
+            }
+          >
+            <RNSVGSvgView
+              align="xMidYMid"
+              bbHeight="300"
+              bbWidth="750"
+              focusable={false}
+              height={300}
+              meetOrSlice={0}
+              minX={0}
+              minY={0}
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "borderWidth": 0,
+                  },
+                  {
+                    "height": "100%",
+                    "overflow": "visible",
+                    "width": "100%",
+                  },
+                  {
+                    "flex": 0,
+                    "height": 300,
+                    "width": 750,
+                  },
+                ]
+              }
+              vbHeight={300}
+              vbWidth={750}
+              width={750}
+            >
+              <RNSVGGroup />
+            </RNSVGSvgView>
+          </View>
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`<PieChart /> test float values pie chart 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flexGrow": 1,
+      "justifyContent": "center",
+    }
+  }
+  style={
+    {
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <View
+      className="VictoryContainer"
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      pointerEvents="box-none"
+      style={
+        {
+          "position": "relative",
+        }
+      }
+    >
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight="300"
+        bbWidth="750"
+        focusable={false}
+        height={300}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        role="img"
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "height": "100%",
+              "width": "100%",
+            },
+            {
+              "flex": 0,
+              "height": 300,
+              "width": 750,
+            },
+          ]
+        }
+        vbHeight={300}
+        vbWidth={750}
+        width={750}
+      >
+        <RNSVGGroup>
+          <RNSVGRect
+            fill={null}
+            height="300"
+            propList={
+              [
+                "fill",
+              ]
+            }
+            width="750"
+            x="0"
+            y="0"
+          />
+          <RNSVGGroup>
+            <RNSVGPath
+              d="M2.349691592702662,-239.68205005290886A10,10,0,0,1,12.86426207573194,-249.66880213844672A250,250,0,1,1,-102.18160170430349,228.16423968962158A10,10,0,0,1,-106.99849787781054,214.4861944742321L-47.65749745933507,98.39598113774471A10,10,0,0,1,-35.23030656150533,93.58859705959027A100,100,0,1,0,11.226992357002432,-99.36777466873156A10,10,0,0,1,2.3496915927026745,-109.30455213560472Z"
+              fill={
+                {
+                  "payload": 4294951115,
+                  "type": 0,
+                }
+              }
+              matrix={
+                [
+                  1,
+                  0,
+                  0,
+                  1,
+                  375,
+                  150,
+                ]
+              }
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              responsible={true}
+            />
+            <RNSVGPath
+              d="M-111.1829039698007,212.34728167082343A10,10,0,0,1,-125.09069188695824,216.45396462814463A250,250,0,0,1,-243.50963736897182,56.595552019852626A10,10,0,0,1,-235.52886337598574,44.48775882152526L-107.18563098856625,21.54638433076081A10,10,0,0,1,-95.84183589708496,28.53668677117642A100,100,0,0,0,-55.22369435727682,83.36872064230128A10,10,0,0,1,-51.841903551325274,96.25706833433601Z"
+              fill={
+                {
+                  "payload": 4282441936,
+                  "type": 0,
+                }
+              }
+              matrix={
+                [
+                  1,
+                  0,
+                  0,
+                  1,
+                  375,
+                  150,
+                ]
+              }
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              responsible={true}
+            />
+            <RNSVGPath
+              d="M-236.35577224641338,39.86169958679015A10,10,0,0,1,-248.03685807102724,31.268467155475935A250,250,0,0,1,-104.55185346693132,-227.08789033462205A10,10,0,0,1,-91.08310028769496,-221.71349758218972L-42.724484479808176,-100.63609985527349A10,10,0,0,1,-47.28287592760658,-88.11543363120084A100,100,0,0,0,-99.79286487342426,6.433049071356748A10,10,0,0,1,-108.01253985899392,16.920325096025653Z"
+              fill={
+                {
+                  "payload": 4278255360,
+                  "type": 0,
+                }
+              }
+              matrix={
+                [
+                  1,
+                  0,
+                  0,
+                  1,
+                  375,
+                  150,
+                ]
+              }
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              responsible={true}
+            />
+            <RNSVGPath
+              d="M-86.71893395454904,-223.45655654272605A10,10,0,0,1,-80.65859886873956,-236.63091604549854A250,250,0,0,1,-12.86426207573201,-249.66880213844678A10,10,0,0,1,-2.349691592702687,-239.68205005290892L-2.349691592702646,-109.30455213560472A10,10,0,0,1,-11.226992357002405,-99.36777466873157A100,100,0,0,0,-26.430581005548397,-96.4438924334203A10,10,0,0,1,-38.36031814666229,-102.37915881580973Z"
+              fill={
+                {
+                  "payload": 4294613276,
+                  "type": 0,
+                }
+              }
+              matrix={
+                [
+                  1,
+                  0,
+                  0,
+                  1,
+                  375,
+                  150,
+                ]
+              }
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              responsible={true}
+            />
+          </RNSVGGroup>
+          <RNSVGText
+            content={null}
+            dx={
+              [
+                "0",
+              ]
+            }
+            dy={[]}
+            font={{}}
+            rotate={[]}
+            x={
+              [
+                "375",
+              ]
+            }
+            y={
+              [
+                "171.035",
+              ]
+            }
+          >
+            <RNSVGTSpan
+              content="Assets"
+              dx={
+                [
+                  "0",
+                ]
+              }
+              dy={
+                [
+                  "0",
+                ]
+              }
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              font={
+                {
+                  "fontFamily": "Gill Sans",
+                  "fontSize": "17",
+                  "textAnchor": "middle",
+                }
+              }
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              rotate={[]}
+              x={
+                [
+                  "375",
+                ]
+              }
+              y={[]}
+            />
+          </RNSVGText>
+          <RNSVGText
+            content={null}
+            dx={
+              [
+                "0",
+              ]
+            }
+            dy={[]}
+            font={{}}
+            rotate={[]}
+            x={
+              [
+                "375",
+              ]
+            }
+            y={
+              [
+                "194.585",
+              ]
+            }
+          >
+            <RNSVGTSpan
+              content="4"
+              dx={
+                [
+                  "0",
+                ]
+              }
+              dy={
+                [
+                  "0",
+                ]
+              }
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              font={
+                {
+                  "fontFamily": "Gill Sans",
+                  "fontSize": "27",
+                  "fontWeight": "700",
+                  "textAnchor": "middle",
+                }
+              }
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              rotate={[]}
+              x={
+                [
+                  "375",
+                ]
+              }
+              y={[]}
+            />
+          </RNSVGText>
+          <RNSVGText
+            content={null}
+            dx={
+              [
+                "0",
+              ]
+            }
+            dy={[]}
+            font={{}}
+            rotate={[]}
+            x={
+              [
+                "375",
+              ]
+            }
+            y={
+              [
+                "111.035",
+              ]
+            }
+          >
+            <RNSVGTSpan
+              content="Net Worth"
+              dx={
+                [
+                  "0",
+                ]
+              }
+              dy={
+                [
+                  "0",
+                ]
+              }
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              font={
+                {
+                  "fontFamily": "Gill Sans",
+                  "fontSize": "17",
+                  "textAnchor": "middle",
+                }
+              }
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              rotate={[]}
+              x={
+                [
+                  "375",
+                ]
+              }
+              y={[]}
+            />
+          </RNSVGText>
+          <RNSVGText
+            content={null}
+            dx={
+              [
+                "0",
+              ]
+            }
+            dy={[]}
+            font={{}}
+            rotate={[]}
+            x={
+              [
+                "375",
+              ]
+            }
+            y={
+              [
+                "134.585",
+              ]
+            }
+          >
+            <RNSVGTSpan
+              content="£346.37"
+              dx={
+                [
+                  "0",
+                ]
+              }
+              dy={
+                [
+                  "0",
+                ]
+              }
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              font={
+                {
+                  "fontFamily": "Gill Sans",
+                  "fontSize": "27",
+                  "fontWeight": "700",
+                  "textAnchor": "middle",
+                }
+              }
+              propList={
+                [
+                  "fill",
+                ]
+              }
+              rotate={[]}
+              x={
+                [
+                  "375",
+                ]
+              }
+              y={[]}
+            />
+          </RNSVGText>
+          <View
+            pointerEvents="box-none"
+            style={
+              {
+                "left": 0,
+                "position": "absolute",
+                "top": 0,
+                "zIndex": 99,
+              }
+            }
+          >
+            <RNSVGSvgView
+              align="xMidYMid"
+              bbHeight="300"
+              bbWidth="750"
+              focusable={false}
+              height={300}
+              meetOrSlice={0}
+              minX={0}
+              minY={0}
+              style={
+                [
+                  {
+                    "backgroundColor": "transparent",
+                    "borderWidth": 0,
+                  },
+                  {
+                    "height": "100%",
+                    "overflow": "visible",
+                    "width": "100%",
+                  },
+                  {
+                    "flex": 0,
+                    "height": 300,
+                    "width": 750,
+                  },
+                ]
+              }
+              vbHeight={300}
+              vbWidth={750}
+              width={750}
+            >
+              <RNSVGGroup />
+            </RNSVGSvgView>
+          </View>
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`<PieChart /> test pie chart no props 1`] = `null`;

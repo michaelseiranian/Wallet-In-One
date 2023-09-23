@@ -1,0 +1,36 @@
+{
+    "accessToken": "access-sandbox-97ef1d08-ec2e-4747-84f9-a3c6e8fffe8a",
+    "accountID": "JDaKG8B86LCwkwKqKZwLfqR9Aby9NdtQeDelD",
+    "account_name": "Plaid IRA", 
+    "balance": "266.23",
+    "balance_currency": "GBP",
+    "logo": "iVBORw0KGgoAAAANSUhEUgAAAJgAAACYCAMAAAAvHNATAAAAZlBMVEVHcEyEp0OivXHu8uDN3LJ3ni98ojj09+7g686TsluzyYpxmiX////////8/fr///9vmCT///9plBtslh5tlyF6oDSGqUfW4sH6+/fr8eDh6tHN27KQsFaat2W4zZOlv3avxoTD1KOHzi5fAAAAEHRSTlMAuX4MO+TP/h6fY/Gm0V2HZ+UkegAADNZJREFUeNrFXOmaqygQ7aSTaHpVFneNvv9LDiAiS4EY03f8MfPddHc41nJqoeDt7eDzfvk43++n2+16pZ/X6+12ut/PH5f3t//xST/upytB7MGY8CfL2H8w5p+Q6+n+kf4/oK4MAWZg4Ifwn17/MbgLB+XHZKBj4C7/SFbnK9NUFv8gdD2nf6/Bm4mKxEBkdnj7+Et3SO+flqwIpXHCI+jznv4ZLILs9XD3QD4o1P5d8ifQLneMgdWLCXuA0dGRJcIvd4QUhMWXbyiMC3cDIEsG7aVSO38in77qDkaMhhH8G/x5fp0Wb8hv1TW8fkaa3vMDdLu8SItB1qpLcH1SJAX2eugr9Hm5oiANlAlIGOhRBYgEXQ8L7bxB8rjNQSPDZR2mtWOWlp7QBnHiKYeMjNCqCb8ROh1Q5+VzEYZ3ETTkLUQLPfix6Z5Pq/O8JhBeQ8ZjXgPGxAQ5oM3U40l13tdvJqMPGXrkgJExesv9sWr94/szKbNhXrT1aBP3OWBkuMvz3vMquCjUV+HT+zFcGR4mWADMmPISA5ZXeWSM6aT/ay+y9IZt3cCqQUw2gJE1eeKjsdLQPL6lR3AxACMsAlxUrpHxD2sf71neugvZ+w3AUNegDGjlGhkamX4JzC4Vtd/i9h5vXxh0vxZKyGjiGhkpc5jG2Je4LBJvZx66b0COz+rctifE1QtmY10FiJ3g027+svyv6hCE1zYyzm0QjeHCw25xfHb2MnbD/M/RJubATFGywM5ozFUZbfLSQ9MRMeCCvWGRUxaQRuSWkQmzyx0fJlkJi1x8y2bcTD9JIPcCTAdx8RhGxl8AoDEWPkH3mb/6c4s0TjiQDzAyrWwVIbaeaWTiE4fGOIX4k9psywHOaCMrzGvry1n0yQ1B8gDu0hjqPZ4aZ2aXcKqCO/btjRnOuSQMI+NydWgMdQkYuvRfCZhZeiUbdT43KDOcC27QTcoRoZLiI1w9XNO9DGZFRnMBYeqGkXH+MH+HUP5Zs9UVum8oMtTAEYZt2PCsuVVCRGA3aIxkrcC+9dpeZd7I/M0UBUTGOarRjAUXApgy9tnmDBqbldvizY7QLeyRdHpkKFB8mIvM2tWMrLRsTkKtik1gHs9MP5VFTE3n6aFIWtdikPxgyaSlJmuLKMJUgTPZmQFpdrV8gseqLRAOiGyNLbPDqYVnJ83XonJWfogqMOoGWQbg+0aMRH1STRQswiUQLZzPwBotgGs0hiXuEXlhFW2p1AzEzLuZuRQsax9AaNK6y7Wtk882RDTFroorddgQrKmaMuynjNROeCkPP5AXWLqb04uFuSSrKRojswBzuCUlYFUP/fVxGhSYIB9uTE3vQpNmtIRzJNcW2ptDugIyGyRU4Ik4wmDlTYFCLJsS4O8e3J1Kx0HJzO0Lzy5Yas3gJI3JVwCpgiA6MLVrapSfp9vBCHViGeagBBIZMzOiSYVHJRkGJI1JorCjqwYreTj7K6Zjvn/C1ECF/bgO2mgLSmcQjreArGcHSnSYLixbjZLL9Jrpw8t+s564g7qBe7bxRX4iKknEnMYWonCoYoGVTxQsoT+cKAm3mWZ1mA5KpCdyM1MoE4qKSjkCkURhJ3AKFqBGJ2KmocyylwppeqJekHTLopQsdsVdcdEqoxI8rR8bsEZJyIWXctO4hJpzrdTV6qALeeUTlumFMLlSqVi5hJ5kr7A8arRDeThxlS5gOCjqKmVAi/6YEColpMXwWFTFLiyfGmUqG5npM6ZRr68cVMZEvrCMQvyHy68VCreiCg1WQI1mwriZUWcz184vOwoHxZqcagV7+Z1OfSSpgsF6qM8CajSp7Lq95YjWpaSDIiWecv3Rgmb9RFAFQdkKq3psbVovuky3U0vdBaSDriILPSIN02HlzWbqr/zyA2UxyLJWW5A56CqyRRS1C4wxMIOlvVNLI8SAPuDEwteWH3UUbaGMflmzcXCVxIS1rUbdyK6xIwGKa2WYMkVW945uWfKow4pS42pkKc5iH1wY2jKBPEZHYG1vCLGlKHahNNrEHK51tJa5mjR0XY04elpDGJlkMUqXKZ0w104wrqqgYS+NVeNqZLIj1g9tO419V1AxlsPHdsAiCT9AAAMag7ji1ShW4d2y6yKL4tHWgh0bhvDRF5RmGBAi7mqIr1AZgLWpRj5ENS82/5tZ//tamiKUdUNTrbzUlO2gCRHPQjS4VkVtmzwM2I4aiUIyT1RRWnRd/xjZcvPP360IjhGRgtPf1xaiwbVzL2NNJ2A1akC4VChH0nMkU1s2TZ1wcdTl2FEVxx2nZH9OdcGZQVAK0USWUIxaH6zkMSMpCiESgaRmSCozarSPIlvn0ZhbQkkiUxyzuDKgHBP2iIhfk81UMiRJ4nXaqplmUGay6Mt5MMK0n+qIQM3rf5X473ySZuptULLuDURKRmxZMYYEp3JUND0Bqhx6msFDcuQebOzP3kD7Nig40cSonwBF/JN7+BSo3Fa5+r1BplxrpRSTo3Hn25pxvMUAW7wBFhyvztaaaAtUGwFqLi5jkx4ivMEV3NyObbYx2YwQfq5LRIoD53qDaPlsptkQI2xlZHTP5Kjk39EqNsIBvB76XaDmvuHbZ3ZEZI3RyvB4YNvTfZOzvG0Zn1hDlDuX2dsFk8C2R2RMlXHApFvaXDuX2aEAvip06rJdNhZBF8RHZLJ5j8tIrhiisZFtHuPU72Ew2WAiNIkm12YoorAxYKGQxG298wdLuaOEdwXwqhkLvOkKLLf2BvHN9GLZHfSnYj5s5YNuYGPVCJj2bCRkVV2vrVVC6ycyi/YRpBAG7IyibV3WKX1Hi5J3pmM0WdXJMxTCEkUrtYZsvUqachp4yp/NdZOoRngPT9+A8AAbaPcY2gZMYP0UwlJrrRiRtl7pNYiskvBSzui9MlnDbmhy4oV0Rot+nEpXfB4KYcXIUr4RlRHyso0JSFRtQOWrdRfzIYtIxUreeZrrv2wWX22Ij7kpsc2NlW+S+pkCp1Ja0CwguFlAyJx6la14HjGpmNZyFfgc8VWlRSGi3SOJjHawgOwNrmWjVPwqCqZila/gVeLrlfhMChEDNQtfxCRwS7dHH3Ao/I/qQiW9h5QYZbDKlymLwRPYyLo5uKMNhZb+mL47JE9xAQ8T6FBtNi/E0S/M1Tu07TBHX9GGim/crbs3O15FbaFkZCt/4dZHte7wNfYAz1jZmx0Rf5WNyY62MNH76XHNYbJuj+j7orxXEn5Q0S4bYtGdznt8Ox3R1srCJNmWEY+UdF1EIpPt9BgjQ7TJoW2+fa2BpI9DtmwMbhuZvmNjDg/tyyyqRxSya+wml97gT6g7o7XjGSJO8akRh41tQWNLJDGn2obdmVibbVrOOkcW1KXeQa8ma4Ki2Z8jllu0sW6kBree8brnwGCZGQqJ2oGzNw+3nFPbeg5s1mstandya6O3b6UYw7rPGt7gTSPGG3CXuDv1mTUIFWn2imk3nPMWMRCikkIIVoZ3aJJnJAh3i1kM/lwGfUBjgGBSCM5E7dTkPBK17vVOXuc0RmhAKsMyKWx8s5SxrQGj90hlUPc5pzWnBYxpSXes/SOetNoHTARZguhUBWYcrDEtN8WYk8J69KcEUU0et7/NB9paeIcJGp+0I7mIQnzGIlAt720NqIycYJF0V0BMd0YBTZHxgVPf8OTa9Ev2xyOsZhKEFzgJNzBvqo+bEhaFfOOm63c8s0uzymiZBDTXgI5orI7JzX4qttpYu5s81izZ7AVmwg0OqCsuw0XTbsJ6rsljTTaz/NdMuOGTIzKUk2LyTlpD44DP2b/8EuYFmnP6jmfIiEmzqGGf6Slg9vQ8ysamJ+4QIHjQIK5iqJ8D5gwRMy+Q5aD/1Mg9vijfn1Tn4Cyl4KaA5ccdZjmWVOfw9OmauKZPH/95hSa9x6bCp8zO6K816Ts9snUu74T/WpOeGHk6cCjvYHkUsP+IQ3mBY4xPJ9UR9o8vRw5+Pp1Uu/Zvpa9xdzlEsBkpjwGzzuzFHv0/oT/WpHXeDEUeLoaPYx9LqkP2v+PYP3iA/UB5FLT/HQfYoSP/ZnmUHAe2nNcgRy8jeK0mVSd35yUJzrUSx5Nq2P7R4QsvDpZHvrGz0zOXf/n47NkhNsD+n7m6xLzs5RVJtWv/T9/ds16PY/Q06hfh+nnthUKHUjHt+T52P5R7BdOLNPn7+kurXqHJ6uft8GNd8/USTX695to242K0Q0m1tK7XXXSnXyXXHNXi79sLH3X53mFNfr36ykJ5XeFBn/z6i3s7+QWP5BC7fv3d3ZPZgTj5+5c3ib7/fD/piT9/f8Hp725s37//6Lray9cObN9f/+iiWqZPLrefr4h0Mfn6+V/uHf759Yvu++v3fwGlhPd+YfC+vr6/v1kRXLH/sX/8/lze3w7emPsf9rTHQ7gM2pIAAAAASUVORK5CYII=", 
+    "name": "Fidelity",
+    "transactions": [
+        {
+            "account_id": "JDaKG8B86LCwkwKqKZwLfqR9Aby9NdtQeDelD",
+            "account_owner": null, 
+            "amount": 38.4456, 
+            "authorized_date": null, 
+            "authorized_datetime": null,
+            "date": "2023-03-10", 
+            "datetime": null,
+            "fees": 5,
+            "id": 101, 
+            "investment_transaction_id": "XW1DNaKa6PIw9wDxDBwzfAKQDNeMw8s1kD6Eb", 
+            "iso_currency_code": null, 
+            "latitude": 41.795,
+            "longitude": -80.116,
+            "merchant_name": null,
+            "name": "BUY NFLX DERIVATIVE",
+            "pending_transaction_id": null,
+            "price": 0.01,
+            "quantity": 4211.152345617756, 
+            "security_id": "8E4L9XLl6MudjEpwPAAgivmdZRdBPJuvMPlPb", 
+            "stock": "JDaKG8B86LCwkwKqKZwLfqR9Aby9NdtQeDelD", 
+            "transaction_code": null, 
+            "unofficial_currency_code": null
+        }                        
+    ],
+    "security_id": "723316d6781531367c4e04cca8abe60c343ff3bf"
+}

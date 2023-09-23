@@ -1,0 +1,13 @@
+{
+  "all_transactions": [
+    "empty"
+  ],
+  "most_expensive_transaction": [
+    "empty",
+    0.0,
+    0.0,
+    null,
+    null,
+    null
+  ]
+}

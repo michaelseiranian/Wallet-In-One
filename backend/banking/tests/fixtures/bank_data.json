@@ -1,0 +1,119 @@
+[
+    {
+        "model": "banking.account",
+        "pk": "abc",
+        "fields": {
+            "user": 1,
+            "requisition_id": "None",
+            "last_update": "2023-01-01T16:31:11.709Z",
+            "iban": "1234",
+            "institution_id": "REVOLUT_REVOGB21",
+            "institution_name": "Revolut",
+            "institution_logo": "https://cdn.nordigen.com/ais/REVOLUT_REVOGB21.png",
+            "color": "#18A7F7",
+            "disabled": false
+        }
+    },
+    {
+        "model": "banking.account",
+        "pk": "def",
+        "fields": {
+            "user": 1,
+            "requisition_id": "None",
+            "last_update": "2023-01-01T16:31:11.709Z",
+            "iban": "1234",
+            "institution_id": "REVOLUT_REVOGB21",
+            "institution_name": "Revolut",
+            "institution_logo": "https://cdn.nordigen.com/ais/REVOLUT_REVOGB21.png",
+            "color": "#18A7F7",
+            "disabled": false
+        }
+    },
+    {
+        "model": "banking.transaction",
+        "pk": "6",
+        "fields": {
+            "account": "abc",
+            "time": "2023-02-15T13:41:31Z",
+            "amount_currency": "GBP",
+            "amount": "-50",
+            "info": "Supermarket"
+        }
+    },
+    {
+        "model": "banking.transaction",
+        "pk": "5",
+        "fields": {
+            "account": "abc",
+            "time": "2023-02-01T13:41:31Z",
+            "amount_currency": "GBP",
+            "amount": "100",
+            "info": "Income"
+        }
+    },
+    {
+        "model": "banking.transaction",
+        "pk": "4",
+        "fields": {
+            "account": "abc",
+            "time": "2023-01-15T13:41:31Z",
+            "amount_currency": "GBP",
+            "amount": "-50",
+            "info": "Tax"
+        }
+    },
+    {
+        "model": "banking.transaction",
+        "pk": "3",
+        "fields": {
+            "account": "abc",
+            "time": "2023-01-01T13:41:31Z",
+            "amount_currency": "GBP",
+            "amount": "100",
+            "info": "Income"
+        }
+    },
+    {
+        "model": "banking.transaction",
+        "pk": "2",
+        "fields": {
+            "account": "abc",
+            "time": "2022-12-15T13:41:31Z",
+            "amount_currency": "GBP",
+            "amount": "-50",
+            "info": "Tax"
+        }
+    },
+    {
+        "model": "banking.transaction",
+        "pk": "1",
+        "fields": {
+            "account": "abc",
+            "time": "2022-12-01T13:41:31Z",
+            "amount_currency": "GBP",
+            "amount": "100",
+            "info": "Income"
+        }
+    },
+    {
+        "model": "banking.transaction",
+        "pk": "10",
+        "fields": {
+            "account": "def",
+            "time": "2023-01-01T13:41:31Z",
+            "amount_currency": "GBP",
+            "amount": "200",
+            "info": "Prize Money"
+        }
+    },
+    {
+        "model": "banking.balance",
+        "pk": 1,
+        "fields": {
+            "account": "abc",
+            "amount_currency": "GBP",
+            "amount": "100.00",
+            "date": "2022-11-01"
+        }
+    }
+]

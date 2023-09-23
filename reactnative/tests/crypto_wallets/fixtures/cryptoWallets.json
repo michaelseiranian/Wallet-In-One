@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "cryptocurrency": "Bitcoin",
+    "symbol": "BTC",
+    "address": "1P5ZEDWTKTFGxQjZphgWPQUpe554WKDfHQ",
+    "balance": 0.01344898,
+    "received": 241914.76880743,
+    "spent": 241914.75535845,
+    "output_count": 847,
+    "unspent_output_count": 267
+  },
+  {
+    "id": 2,
+    "cryptocurrency": "Dash",
+    "symbol": "DASH",
+    "address": "XpESxaUmonkq8RaLLp46Brx2K39ggQe226",
+    "balance": 1.33461905,
+    "received": 886343.72139693,
+    "spent": 886342.38677788,
+    "output_count": 35509,
+    "unspent_output_count": 18
+  }
+]

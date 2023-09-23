@@ -1,0 +1,28 @@
+{
+  "id": 1,
+  "transactions": [
+    {
+      "id": 1,
+      "value": 0.0001,
+      "time": 1673973890
+    },
+    {
+      "id": 2,
+      "value": 0.00064342,
+      "time": 1673334144
+    },
+    {
+      "id": 3,
+      "value": 5.47e-06,
+      "time": 1673066373
+    }
+  ],
+  "cryptocurrency": "Bitcoin",
+  "symbol": "BTC",
+  "address": "1P5ZEDWTKTFGxQjZphgWPQUpe554WKDfHQ",
+  "balance": 0.01344898,
+  "received": 241914.76880743,
+  "spent": 241914.75535845,
+  "output_count": 847,
+  "unspent_output_count": 267
+}

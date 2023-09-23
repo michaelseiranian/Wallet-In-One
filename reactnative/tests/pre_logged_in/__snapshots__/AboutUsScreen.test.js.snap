@@ -1,0 +1,231 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AboutUsScreen/> snapshot aboutUsScreen test 1`] = `
+<View
+  accessibilityIgnoresInvertColors={true}
+  style={
+    {
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+>
+  <Image
+    source={1}
+    style={
+      [
+        {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        },
+        {
+          "height": "100%",
+          "width": "100%",
+        },
+        undefined,
+      ]
+    }
+  />
+  <RCTScrollView
+    contentContainerStyle={
+      {
+        "flexGrow": 1,
+        "justifyContent": "center",
+        "paddingBottom": 20,
+      }
+    }
+    style={
+      {
+        "display": "flex",
+        "flex": 1,
+      }
+    }
+  >
+    <View>
+      <Image
+        resizeMode="contain"
+        source={1}
+        style={
+          {
+            "alignSelf": "center",
+            "height": 280,
+            "marginTop": "-10%",
+            "width": 290,
+          }
+        }
+      />
+      <View>
+        <Image
+          source={1}
+          style={
+            {
+              "alignSelf": "center",
+              "borderRadius": 40,
+              "height": 150,
+              "marginTop": "-10%",
+              "width": 370,
+            }
+          }
+        />
+      </View>
+      <View
+        contentContainerStyle={
+          {
+            "paddingBottom": 30,
+          }
+        }
+        style={
+          {
+            "backgroundColor": "purple",
+            "marginVertical": 30,
+            "paddingBottom": 10,
+            "paddingHorizontal": 30,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "alignSelf": "center",
+              "color": "#fff",
+              "fontSize": 18,
+              "fontWeight": "500",
+              "marginVertical": 15,
+              "textTransform": "uppercase",
+            }
+          }
+        >
+           About us 
+        </Text>
+        <Text
+          style={
+            [
+              {
+                "fontSize": 16,
+                "paddingBottom": 30,
+              },
+              {
+                "color": "#fff",
+              },
+            ]
+          }
+        >
+          Welcome to Wallet-In-One! We are an all in one central finance app where you can access your credit cards, debit cards, stocks and crytocurrency. Simply connect your respective accounts and view the latest changes in your finances. 
+          
+
+          This app was developed by second year students from King's College London on the Computer Science course for the module 'Software Engineering Group Project' for a client. All IP belongs to the client and further development is to be continued by said client.
+        </Text>
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "opacity": 1,
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "alignSelf": "center",
+                "backgroundColor": "black",
+                "borderRadius": 25,
+                "color": "purple",
+                "fontSize": 17,
+                "fontWeight": "bold",
+                "marginTop": "-4%",
+                "padding": "2%",
+                "textAlign": "center",
+                "width": "40%",
+              }
+            }
+          >
+            Meet the team!
+          </Text>
+        </View>
+      </View>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "backgroundColor": "white",
+              "borderRadius": 25,
+              "color": "purple",
+              "fontSize": 27,
+              "fontWeight": "bold",
+              "marginLeft": "11%",
+              "marginTop": "-2%",
+              "padding": "2%",
+              "textAlign": "center",
+              "width": "75%",
+            }
+          }
+        >
+          Home Page
+        </Text>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;

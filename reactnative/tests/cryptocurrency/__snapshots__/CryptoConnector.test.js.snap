@@ -1,0 +1,1149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CryptoConnector /> snapshot test 1`] = `
+<RCTScrollView
+  style={
+    [
+      {
+        "backgroundColor": "white",
+        "flex": 1,
+      },
+      {
+        "paddingHorizontal": 20,
+        "paddingTop": 20,
+      },
+    ]
+  }
+>
+  <View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "flex": 1,
+            "flexDirection": "column",
+          }
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "color": "black",
+                "fontSize": 40,
+                "fontWeight": "800",
+              },
+              {
+                "alignSelf": "center",
+              },
+            ]
+          }
+        >
+          Connect Wallet
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "marginVertical": 5,
+              "padding": 10,
+            },
+            {
+              "backgroundColor": "purple",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "paddingRight": 10,
+            }
+          }
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "height": 30,
+                "width": 30,
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "color": "black",
+              "fontSize": 25,
+              "fontWeight": "700",
+            }
+          }
+        >
+          Bitcoin
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "marginVertical": 5,
+              "padding": 10,
+            },
+            {
+              "backgroundColor": "purple",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "paddingRight": 10,
+            }
+          }
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "height": 30,
+                "width": 30,
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "color": "black",
+              "fontSize": 25,
+              "fontWeight": "700",
+            }
+          }
+        >
+          Bitcoin-Cash
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "marginVertical": 5,
+              "padding": 10,
+            },
+            {
+              "backgroundColor": "purple",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "paddingRight": 10,
+            }
+          }
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "height": 30,
+                "width": 30,
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "color": "black",
+              "fontSize": 25,
+              "fontWeight": "700",
+            }
+          }
+        >
+          Litecoin
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "marginVertical": 5,
+              "padding": 10,
+            },
+            {
+              "backgroundColor": "purple",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "paddingRight": 10,
+            }
+          }
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "height": 30,
+                "width": 30,
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "color": "black",
+              "fontSize": 25,
+              "fontWeight": "700",
+            }
+          }
+        >
+          Dogecoin
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "marginVertical": 5,
+              "padding": 10,
+            },
+            {
+              "backgroundColor": "purple",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "paddingRight": 10,
+            }
+          }
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "height": 30,
+                "width": 30,
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "color": "black",
+              "fontSize": 25,
+              "fontWeight": "700",
+            }
+          }
+        >
+          Dash
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "marginVertical": 5,
+              "padding": 10,
+            },
+            {
+              "backgroundColor": "purple",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "paddingRight": 10,
+            }
+          }
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "height": 30,
+                "width": 30,
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "color": "black",
+              "fontSize": 25,
+              "fontWeight": "700",
+            }
+          }
+        >
+          Groestlcoin
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "marginVertical": 5,
+              "padding": 10,
+            },
+            {
+              "backgroundColor": "purple",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "paddingRight": 10,
+            }
+          }
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "height": 30,
+                "width": 30,
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "color": "black",
+              "fontSize": 25,
+              "fontWeight": "700",
+            }
+          }
+        >
+          Zcash
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "marginVertical": 5,
+              "padding": 10,
+            },
+            {
+              "backgroundColor": "purple",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "paddingRight": 10,
+            }
+          }
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "height": 30,
+                "width": 30,
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "color": "black",
+              "fontSize": 25,
+              "fontWeight": "700",
+            }
+          }
+        >
+          eCash
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "flex": 1,
+            "flexDirection": "column",
+          }
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "color": "black",
+                "fontSize": 40,
+                "fontWeight": "800",
+              },
+              {
+                "alignSelf": "center",
+              },
+            ]
+          }
+        >
+          Connect Exchange
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "marginVertical": 5,
+              "padding": 10,
+            },
+            {
+              "backgroundColor": "purple",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "paddingRight": 10,
+            }
+          }
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "height": 30,
+                "width": 30,
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "color": "black",
+              "fontSize": 25,
+              "fontWeight": "700",
+            }
+          }
+        >
+          Binance
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "marginVertical": 5,
+              "padding": 10,
+            },
+            {
+              "backgroundColor": "purple",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "paddingRight": 10,
+            }
+          }
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "height": 30,
+                "width": 30,
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "color": "black",
+              "fontSize": 25,
+              "fontWeight": "700",
+            }
+          }
+        >
+          GateIo
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "marginVertical": 5,
+              "padding": 10,
+            },
+            {
+              "backgroundColor": "purple",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "paddingRight": 10,
+            }
+          }
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "height": 30,
+                "width": 30,
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "color": "black",
+              "fontSize": 25,
+              "fontWeight": "700",
+            }
+          }
+        >
+          CoinList
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "marginVertical": 5,
+              "padding": 10,
+            },
+            {
+              "backgroundColor": "purple",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "paddingRight": 10,
+            }
+          }
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "height": 30,
+                "width": 30,
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "color": "black",
+              "fontSize": 25,
+              "fontWeight": "700",
+            }
+          }
+        >
+          CoinBase
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "marginVertical": 5,
+              "padding": 10,
+            },
+            {
+              "backgroundColor": "purple",
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "paddingRight": 10,
+            }
+          }
+        >
+          <Image
+            source={1}
+            style={
+              {
+                "height": 30,
+                "width": 30,
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            {
+              "color": "black",
+              "fontSize": 25,
+              "fontWeight": "700",
+            }
+          }
+        >
+          Kraken
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "paddingBottom": 20,
+        }
+      }
+    />
+  </View>
+</RCTScrollView>
+`;

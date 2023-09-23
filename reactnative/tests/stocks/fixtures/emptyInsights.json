@@ -1,0 +1,67 @@
+{
+    "1 Month": {
+        "average_fee": 0,
+        "average_latitude": 0,
+        "average_longitude": 0,
+        "average_transaction": 0,
+        "highest_fee": 0,
+        "highest_transaction": 0,
+        "lowest_fee": 0,
+        "lowest_transaction": 0,
+        "standard_deviation": 0,
+        "total_number_of_transactions": 0,
+        "variance": 0
+    },
+    "12 Months": {
+        "average_fee": 0,
+        "average_latitude": 0,
+        "average_longitude": 0,
+        "average_transaction": 0,
+        "highest_fee": 0,
+        "highest_transaction": 0,
+        "lowest_fee": 0,
+        "lowest_transaction": 0,
+        "standard_deviation": 0,
+        "total_number_of_transactions": 0,
+        "variance": 0
+    },
+    "3 Months": {
+        "average_fee": 0,
+        "average_latitude": 0,
+        "average_longitude": 0,
+        "average_transaction": 0,
+        "highest_fee": 0,
+        "highest_transaction": 0,
+        "lowest_fee": 0,
+        "lowest_transaction": 0,
+        "standard_deviation": 0,
+        "total_number_of_transactions": 0,
+        "variance": 0
+    },
+    "6 Months": {
+        "average_fee": 0,
+        "average_latitude": 0,
+        "average_longitude": 0,
+        "average_transaction": 0,
+        "highest_fee": 0,
+        "highest_transaction": 0,
+        "lowest_fee": 0,
+        "lowest_transaction": 0,
+        "standard_deviation": 0,
+        "total_number_of_transactions": 0,
+        "variance": 0
+    },
+    "all": {
+        "average_fee": 0,
+        "average_latitude": 0,
+        "average_longitude": 0,
+        "average_transaction": 0,
+        "highest_fee": 0,
+        "highest_transaction": 0,
+        "lowest_fee": 0,
+        "lowest_transaction": 0,
+        "standard_deviation": 0,
+        "total_number_of_transactions": 0,
+        "variance": 0
+    }
+}

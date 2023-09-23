@@ -1,0 +1,1068 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BankAccountsScreen /> snapshot and button test 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#fff",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "flexDirection": "row",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "alignSelf": "center",
+          "backgroundColor": "#0af",
+          "borderRadius": 10,
+          "marginHorizontal": 8,
+          "marginVertical": 4,
+          "opacity": 1,
+          "padding": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "#000",
+            "fontWeight": "bold",
+            "textAlign": "center",
+          }
+        }
+      >
+        Bank Insights
+      </Text>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "alignSelf": "center",
+          "backgroundColor": "#0af",
+          "borderRadius": 10,
+          "marginHorizontal": 8,
+          "marginVertical": 4,
+          "opacity": 1,
+          "padding": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "#000",
+            "fontWeight": "bold",
+            "textAlign": "center",
+          }
+        }
+      >
+        All Transactions
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      [
+        {
+          "borderColor": "#fff",
+          "borderRadius": 5,
+          "overflow": "hidden",
+          "paddingBottom": 0,
+          "paddingLeft": 20,
+          "paddingRight": 20,
+          "paddingTop": 10,
+          "width": "100%",
+        },
+      ]
+    }
+  >
+    <RCTScrollView
+      ListEmptyComponent={
+        <Text
+          style={
+            {
+              "color": "#000",
+            }
+          }
+        >
+          
+You have no bank accounts
+
+        </Text>
+      }
+      data={
+        [
+          {
+            "balance": {
+              "amount": "100",
+              "currency": "GBP",
+              "string": "£100",
+            },
+            "color": "#18A7F7",
+            "disabled": false,
+            "iban": "1234",
+            "id": "1",
+            "institution_id": "REVOLUT_REVOGB21",
+            "institution_logo": "https://cdn.nordigen.com/ais/REVOLUT_REVOGB21.png",
+            "institution_name": "Revolut",
+            "last_update": "2023-03-17T13:32:01.539829Z",
+            "requisition_id": "None",
+            "user": 1,
+          },
+          {
+            "balance": {
+              "amount": "200",
+              "currency": "GBP",
+              "string": "£200",
+            },
+            "color": "#18A7F7",
+            "disabled": true,
+            "iban": "1234",
+            "id": "2",
+            "institution_id": "REVOLUT_REVOGB21",
+            "institution_logo": "https://cdn.nordigen.com/ais/REVOLUT_REVOGB21.png",
+            "institution_name": "Revolut",
+            "last_update": "2023-03-17T13:32:01.539829Z",
+            "requisition_id": "None",
+            "user": 1,
+          },
+        ]
+      }
+      getItem={[Function]}
+      getItemCount={[Function]}
+      keyExtractor={[Function]}
+      onContentSizeChange={[Function]}
+      onLayout={[Function]}
+      onMomentumScrollBegin={[Function]}
+      onMomentumScrollEnd={[Function]}
+      onScroll={[Function]}
+      onScrollBeginDrag={[Function]}
+      onScrollEndDrag={[Function]}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      stickyHeaderIndices={[]}
+      viewabilityConfigCallbackPairs={[]}
+    >
+      <View>
+        <View
+          onFocusCapture={[Function]}
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "backgroundColor": "#18A7F7",
+                "borderRadius": 10,
+                "marginBottom": 10,
+                "opacity": 1,
+                "padding": 20,
+              }
+            }
+            testID="account"
+          >
+            <View
+              style={
+                {
+                  "alignItems": "flex-start",
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "uri": "https://cdn.nordigen.com/ais/REVOLUT_REVOGB21.png",
+                  }
+                }
+                style={
+                  {
+                    "backgroundColor": "white",
+                    "borderRadius": 10,
+                    "height": 70,
+                    "marginRight": 10,
+                    "resizeMode": "contain",
+                    "width": 70,
+                  }
+                }
+              />
+              <View
+                style={
+                  {
+                    "borderRadius": 10,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    {
+                      "color": "white",
+                      "fontSize": 21,
+                      "fontWeight": "bold",
+                    }
+                  }
+                >
+                  Revolut
+                </Text>
+                <Text
+                  style={
+                    {
+                      "color": "rgba(255,255,255,0.5)",
+                      "fontSize": 10,
+                      "marginBottom": 3,
+                    }
+                  }
+                >
+                  1234
+                </Text>
+                <Text
+                  style={
+                    {
+                      "color": "white",
+                      "fontSize": 18,
+                    }
+                  }
+                >
+                  £100
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "backgroundColor": "red",
+                "borderRadius": 15,
+                "height": 27,
+                "justifyContent": "center",
+                "opacity": 1,
+                "position": "absolute",
+                "right": 10,
+                "top": 10,
+                "width": 27,
+              }
+            }
+            testID="close1"
+          >
+            <Text
+              allowFontScaling={false}
+              selectable={false}
+              style={
+                [
+                  {
+                    "color": undefined,
+                    "fontSize": 20,
+                  },
+                  {
+                    "color": "white",
+                    "fontSize": 20,
+                    "fontWeight": "bold",
+                  },
+                  {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  {},
+                ]
+              }
+            >
+              
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "justifyContent": "center",
+              }
+            }
+          >
+            <Modal
+              animationType="slide"
+              hardwareAccelerated={false}
+              onRequestClose={[Function]}
+              transparent={true}
+              visible={true}
+            >
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "backgroundColor": "#fff",
+                    "borderBottomColor": "gray",
+                    "borderBottomWidth": 1,
+                    "borderRadius": 20,
+                    "elevation": 5,
+                    "marginHorizontal": 20,
+                    "marginVertical": "20%",
+                    "padding": 40,
+                    "shadowColor": "#000",
+                    "shadowOffset": {
+                      "height": 2,
+                      "width": 0,
+                    },
+                    "shadowOpacity": 0.25,
+                    "shadowRadius": 4,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    {
+                      "color": "#000",
+                      "fontSize": 22,
+                      "fontWeight": "bold",
+                      "marginBottom": 10,
+                    }
+                  }
+                >
+                  Remove Your Bank Account
+                </Text>
+                <View
+                  style={
+                    {
+                      "backgroundColor": "lightgray",
+                      "height": 1,
+                      "marginVertical": 10,
+                      "width": "100%",
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000",
+                      "fontSize": 18,
+                      "marginVertical": 15,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  Are you sure you want to remove your bank account?
+                </Text>
+                <View
+                  style={
+                    {
+                      "backgroundColor": "lightgray",
+                      "height": 1,
+                      "marginVertical": 10,
+                      "width": "100%",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    {
+                      "alignItems": "flex-end",
+                      "flexDirection": "row",
+                      "justifyContent": "space-around",
+                      "marginTop": 20,
+                      "width": "100%",
+                    }
+                  }
+                >
+                  <View
+                    accessibilityState={
+                      {
+                        "busy": undefined,
+                        "checked": undefined,
+                        "disabled": undefined,
+                        "expanded": undefined,
+                        "selected": undefined,
+                      }
+                    }
+                    accessibilityValue={
+                      {
+                        "max": undefined,
+                        "min": undefined,
+                        "now": undefined,
+                        "text": undefined,
+                      }
+                    }
+                    accessible={true}
+                    collapsable={false}
+                    focusable={true}
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      [
+                        {
+                          "borderRadius": 10,
+                          "paddingHorizontal": 20,
+                          "paddingVertical": 10,
+                        },
+                        {
+                          "backgroundColor": "#f44336",
+                        },
+                      ]
+                    }
+                    testID="pressable1"
+                  >
+                    <Text
+                      style={
+                        {
+                          "color": "white",
+                          "fontSize": 18,
+                          "fontWeight": "bold",
+                        }
+                      }
+                    >
+                      Yes
+                    </Text>
+                  </View>
+                  <View
+                    accessibilityState={
+                      {
+                        "busy": undefined,
+                        "checked": undefined,
+                        "disabled": undefined,
+                        "expanded": undefined,
+                        "selected": undefined,
+                      }
+                    }
+                    accessibilityValue={
+                      {
+                        "max": undefined,
+                        "min": undefined,
+                        "now": undefined,
+                        "text": undefined,
+                      }
+                    }
+                    accessible={true}
+                    collapsable={false}
+                    focusable={true}
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      [
+                        {
+                          "borderRadius": 10,
+                          "paddingHorizontal": 20,
+                          "paddingVertical": 10,
+                        },
+                        {
+                          "backgroundColor": "#1E90FF",
+                        },
+                      ]
+                    }
+                    testID="pressable2"
+                  >
+                    <Text
+                      style={
+                        {
+                          "color": "white",
+                          "fontSize": 18,
+                          "fontWeight": "bold",
+                        }
+                      }
+                    >
+                      No
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </Modal>
+          </View>
+        </View>
+        <View
+          onFocusCapture={[Function]}
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "backgroundColor": "#18A7F7",
+                "borderColor": "red",
+                "borderRadius": 10,
+                "borderWidth": 4,
+                "marginBottom": 10,
+                "opacity": 1,
+                "padding": 20,
+              }
+            }
+            testID="account"
+          >
+            <View
+              style={
+                {
+                  "alignItems": "flex-start",
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "uri": "https://cdn.nordigen.com/ais/REVOLUT_REVOGB21.png",
+                  }
+                }
+                style={
+                  {
+                    "backgroundColor": "white",
+                    "borderRadius": 10,
+                    "height": 70,
+                    "marginRight": 10,
+                    "resizeMode": "contain",
+                    "width": 70,
+                  }
+                }
+              />
+              <View
+                style={
+                  {
+                    "borderRadius": 10,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    {
+                      "color": "white",
+                      "fontSize": 21,
+                      "fontWeight": "bold",
+                    }
+                  }
+                >
+                  Revolut
+                </Text>
+                <Text
+                  style={
+                    {
+                      "color": "rgba(255,255,255,0.5)",
+                      "fontSize": 10,
+                      "marginBottom": 3,
+                    }
+                  }
+                >
+                  1234
+                </Text>
+                <Text
+                  style={
+                    {
+                      "color": "white",
+                      "fontSize": 18,
+                    }
+                  }
+                >
+                  £200
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "backgroundColor": "red",
+                "borderRadius": 15,
+                "height": 27,
+                "justifyContent": "center",
+                "opacity": 1,
+                "position": "absolute",
+                "right": 10,
+                "top": 10,
+                "width": 27,
+              }
+            }
+            testID="close1"
+          >
+            <Text
+              allowFontScaling={false}
+              selectable={false}
+              style={
+                [
+                  {
+                    "color": undefined,
+                    "fontSize": 20,
+                  },
+                  {
+                    "color": "white",
+                    "fontSize": 20,
+                    "fontWeight": "bold",
+                  },
+                  {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  {},
+                ]
+              }
+            >
+              
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flex": 1,
+                "justifyContent": "center",
+              }
+            }
+          >
+            <Modal
+              animationType="slide"
+              hardwareAccelerated={false}
+              onRequestClose={[Function]}
+              transparent={true}
+              visible={true}
+            >
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "backgroundColor": "#fff",
+                    "borderBottomColor": "gray",
+                    "borderBottomWidth": 1,
+                    "borderRadius": 20,
+                    "elevation": 5,
+                    "marginHorizontal": 20,
+                    "marginVertical": "20%",
+                    "padding": 40,
+                    "shadowColor": "#000",
+                    "shadowOffset": {
+                      "height": 2,
+                      "width": 0,
+                    },
+                    "shadowOpacity": 0.25,
+                    "shadowRadius": 4,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    {
+                      "color": "#000",
+                      "fontSize": 22,
+                      "fontWeight": "bold",
+                      "marginBottom": 10,
+                    }
+                  }
+                >
+                  Remove Your Bank Account
+                </Text>
+                <View
+                  style={
+                    {
+                      "backgroundColor": "lightgray",
+                      "height": 1,
+                      "marginVertical": 10,
+                      "width": "100%",
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000",
+                      "fontSize": 18,
+                      "marginVertical": 15,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  Are you sure you want to remove your bank account?
+                </Text>
+                <View
+                  style={
+                    {
+                      "backgroundColor": "lightgray",
+                      "height": 1,
+                      "marginVertical": 10,
+                      "width": "100%",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    {
+                      "alignItems": "flex-end",
+                      "flexDirection": "row",
+                      "justifyContent": "space-around",
+                      "marginTop": 20,
+                      "width": "100%",
+                    }
+                  }
+                >
+                  <View
+                    accessibilityState={
+                      {
+                        "busy": undefined,
+                        "checked": undefined,
+                        "disabled": undefined,
+                        "expanded": undefined,
+                        "selected": undefined,
+                      }
+                    }
+                    accessibilityValue={
+                      {
+                        "max": undefined,
+                        "min": undefined,
+                        "now": undefined,
+                        "text": undefined,
+                      }
+                    }
+                    accessible={true}
+                    collapsable={false}
+                    focusable={true}
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      [
+                        {
+                          "borderRadius": 10,
+                          "paddingHorizontal": 20,
+                          "paddingVertical": 10,
+                        },
+                        {
+                          "backgroundColor": "#f44336",
+                        },
+                      ]
+                    }
+                    testID="pressable1"
+                  >
+                    <Text
+                      style={
+                        {
+                          "color": "white",
+                          "fontSize": 18,
+                          "fontWeight": "bold",
+                        }
+                      }
+                    >
+                      Yes
+                    </Text>
+                  </View>
+                  <View
+                    accessibilityState={
+                      {
+                        "busy": undefined,
+                        "checked": undefined,
+                        "disabled": undefined,
+                        "expanded": undefined,
+                        "selected": undefined,
+                      }
+                    }
+                    accessibilityValue={
+                      {
+                        "max": undefined,
+                        "min": undefined,
+                        "now": undefined,
+                        "text": undefined,
+                      }
+                    }
+                    accessible={true}
+                    collapsable={false}
+                    focusable={true}
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      [
+                        {
+                          "borderRadius": 10,
+                          "paddingHorizontal": 20,
+                          "paddingVertical": 10,
+                        },
+                        {
+                          "backgroundColor": "#1E90FF",
+                        },
+                      ]
+                    }
+                    testID="pressable2"
+                  >
+                    <Text
+                      style={
+                        {
+                          "color": "white",
+                          "fontSize": 18,
+                          "fontWeight": "bold",
+                        }
+                      }
+                    >
+                      No
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </Modal>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "backgroundColor": "#ecba1d",
+                "borderRadius": 15,
+                "bottom": 20,
+                "height": 27,
+                "justifyContent": "center",
+                "opacity": 1,
+                "position": "absolute",
+                "right": 10,
+                "width": 27,
+              }
+            }
+            testID="close2"
+          >
+            <Text
+              allowFontScaling={false}
+              selectable={false}
+              style={
+                [
+                  {
+                    "color": undefined,
+                    "fontSize": 20,
+                  },
+                  {
+                    "color": "white",
+                    "fontSize": 20,
+                    "fontWeight": "bold",
+                  },
+                  {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  {},
+                ]
+              }
+            >
+              
+            </Text>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;

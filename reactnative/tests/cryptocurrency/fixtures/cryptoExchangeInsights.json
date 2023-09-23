@@ -1,0 +1,229 @@
+{
+  "all_transactions": [
+    {
+      "crypto_exchange_object": 2,
+      "asset": "BTCUSDT",
+      "transaction_type": "buy",
+      "amount": 0.028761,
+      "timestamp": "2021-01-29T09:28:30.056000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "BTCUSDT",
+      "transaction_type": "sell",
+      "amount": 0.01,
+      "timestamp": "2021-01-29T09:32:10.484000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "BTCUSDT",
+      "transaction_type": "sell",
+      "amount": 0.018732,
+      "timestamp": "2021-01-29T09:32:10.484000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "buy",
+      "amount": 0.80963,
+      "timestamp": "2021-01-29T09:33:47.341000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "sell",
+      "amount": 0.80882,
+      "timestamp": "2021-01-29T09:41:51.497000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "buy",
+      "amount": 0.82773,
+      "timestamp": "2021-01-29T10:32:48.024000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "sell",
+      "amount": 0.8269,
+      "timestamp": "2021-01-29T11:03:12.886000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "buy",
+      "amount": 2.23457,
+      "timestamp": "2021-01-29T13:31:41.727000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "sell",
+      "amount": 2.23234,
+      "timestamp": "2021-01-29T13:36:44.874000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "buy",
+      "amount": 1.98726,
+      "timestamp": "2021-01-29T15:48:14.241000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "sell",
+      "amount": 0.1388,
+      "timestamp": "2021-01-29T15:49:33.705000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "sell",
+      "amount": 0.24,
+      "timestamp": "2021-01-29T15:49:33.733000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "sell",
+      "amount": 0.01835,
+      "timestamp": "2021-01-29T15:49:33.811000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "sell",
+      "amount": 0.2698,
+      "timestamp": "2021-01-29T15:49:33.882000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "sell",
+      "amount": 0.45149,
+      "timestamp": "2021-01-29T15:49:34.461000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "sell",
+      "amount": 0.29339,
+      "timestamp": "2021-01-29T15:49:34.507000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "sell",
+      "amount": 0.57344,
+      "timestamp": "2021-01-29T15:49:34.599000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "buy",
+      "amount": 0.01953,
+      "timestamp": "2021-02-03T12:11:54.531000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "buy",
+      "amount": 0.03262,
+      "timestamp": "2021-02-03T12:11:54.531000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "buy",
+      "amount": 0.01107,
+      "timestamp": "2021-02-03T12:11:54.531000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "buy",
+      "amount": 0.01,
+      "timestamp": "2021-02-03T12:11:54.531000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "buy",
+      "amount": 1.62876,
+      "timestamp": "2021-02-03T12:11:54.531000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "buy",
+      "amount": 0.01118,
+      "timestamp": "2021-02-03T12:11:54.531000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "buy",
+      "amount": 0.10076,
+      "timestamp": "2021-02-03T12:11:54.531000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "sell",
+      "amount": 0.67471,
+      "timestamp": "2021-02-03T12:21:29.324000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "sell",
+      "amount": 1.1374,
+      "timestamp": "2021-02-03T12:21:29.324000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "buy",
+      "amount": 1.81658,
+      "timestamp": "2021-02-03T12:56:44.580000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "sell",
+      "amount": 0.03901,
+      "timestamp": "2021-02-03T13:01:30.145000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "sell",
+      "amount": 1.77575,
+      "timestamp": "2021-02-03T13:01:30.145000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "buy",
+      "amount": 1.49669,
+      "timestamp": "2021-02-11T10:46:26.229000Z"
+    },
+    {
+      "crypto_exchange_object": 2,
+      "asset": "ETHUSDT",
+      "transaction_type": "sell",
+      "amount": 1.49519,
+      "timestamp": "2021-02-20T03:09:07.658000Z"
+    }
+  ],
+  "most_expensive_transaction": [
+    "ETH",
+    2.23457,
+    3274.65,
+    "buy",
+    "2021-01-29 13:31:41",
+    "Binance"
+  ]
+}

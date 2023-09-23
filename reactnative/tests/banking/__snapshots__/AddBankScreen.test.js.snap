@@ -1,0 +1,2067 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AddBankScreen /> snapshot test 1`] = `
+<View
+  style={
+    [
+      {
+        "flex": 1,
+        "margin": 4,
+        "marginBottom": 54,
+      },
+    ]
+  }
+>
+  <TextInput
+    autoCapitalize="none"
+    autoCorrect={false}
+    onChangeText={[Function]}
+    placeholder="Search"
+    placeholderTextColor="black"
+    style={
+      {
+        "backgroundColor": "white",
+        "borderColor": "gray",
+        "borderRadius": 5,
+        "borderWidth": 0.5,
+        "color": "black",
+        "height": 40,
+        "marginBottom": 5,
+        "marginTop": 5,
+        "padding": 10,
+        "width": "100%",
+      }
+    }
+    value=""
+  />
+  <View
+    style={
+      {
+        "backgroundColor": "white",
+        "borderColor": "#ddd",
+        "borderRadius": 5,
+        "borderWidth": 1,
+        "overflow": "hidden",
+        "paddingBottom": 0,
+        "paddingLeft": 20,
+        "paddingRight": 20,
+        "width": "100%",
+      }
+    }
+  >
+    <RCTScrollView
+      ListEmptyComponent={
+        <Text
+          style={
+            {
+              "color": "black",
+            }
+          }
+        >
+          
+No banks found
+
+        </Text>
+      }
+      data={
+        [
+          {
+            "bic": "ABNAGB2LXXX",
+            "countries": [
+              "GB",
+            ],
+            "id": "ABNAMRO_ABNAGB2LXXX",
+            "logo": "https://cdn.nordigen.com/ais/ABNAMRO_FTSBDEFAXXX.png",
+            "name": "ABN AMRO Bank Commercial",
+            "transaction_total_days": "540",
+          },
+          {
+            "bic": "AIPTAU32",
+            "countries": [
+              "GB",
+              "NO",
+              "SE",
+              "FI",
+              "DK",
+              "EE",
+              "LV",
+              "LT",
+              "NL",
+              "CZ",
+              "ES",
+              "PL",
+              "BE",
+              "DE",
+              "AT",
+              "BG",
+              "HR",
+              "CY",
+              "FR",
+              "GR",
+              "HU",
+              "IS",
+              "IE",
+              "IT",
+              "LI",
+              "LU",
+              "MT",
+              "PT",
+              "RO",
+              "SK",
+              "SI",
+            ],
+            "id": "AIRWALLEX_AIPTAU32",
+            "logo": "https://cdn.nordigen.com/ais/AIRWALLEX_AIPTAU32_1.png",
+            "name": "Airwallex",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "AIBKGB2LXXX",
+            "countries": [
+              "GB",
+            ],
+            "id": "AIB_AIBKGB2LXXX",
+            "logo": "https://cdn.nordigen.com/ais/AIB_AIBKIE2DXXX.png",
+            "name": "Allied Irish Banks",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "AIBKGB2LXXX",
+            "countries": [
+              "GB",
+            ],
+            "id": "AIB_CORP_AIBKGB2LXXX",
+            "logo": "https://cdn.nordigen.com/ais/AIB_AIBKIE2DXXX.png",
+            "name": "Allied Irish Banks Corporate",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "APAHGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "ALPHA_FX_APAHGB2L",
+            "logo": "https://cdn.nordigen.com/ais/ALPHA_FX_APAHGB2L.png",
+            "name": "Alpha FX",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "NEWDUK00X01",
+            "countries": [
+              "GB",
+            ],
+            "id": "NEWDAY_AMAZON_NEWDUK00X01",
+            "logo": "https://cdn.nordigen.com/ais/NEWDAY_AMAZON_NEWDUK00X01.png",
+            "name": "Amazon card (Newday)",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "AESUGB21",
+            "countries": [
+              "GB",
+              "FR",
+              "FI",
+              "SE",
+              "GB",
+            ],
+            "id": "AMERICAN_EXPRESS_AESUGB21",
+            "logo": "https://cdn.nordigen.com/ais/AMERICAN_EXPRESS_AESUGB21.png",
+            "name": "American Express",
+            "transaction_total_days": "90",
+          },
+          {
+            "bic": "NEWDUK00X02",
+            "countries": [
+              "GB",
+            ],
+            "id": "NEWDAY_AQUA_NEWDUK00X02",
+            "logo": "https://cdn.nordigen.com/ais/NEWDAY_AQUA_NEWDUK00X02.png",
+            "name": "Aqua card (Newday)",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "ARBUGB2LXXX",
+            "countries": [
+              "GB",
+            ],
+            "id": "ARBUTHNOT_LATHAM_ARBUGB2LXXX",
+            "logo": "https://cdn.nordigen.com/ais/ARBUTHNOT_LATHAM_ARBUGB2LXXX.png",
+            "name": "Arbuthnot Latham",
+            "transaction_total_days": "90",
+          },
+          {
+            "bic": "NEWDUK00X04",
+            "countries": [
+              "GB",
+            ],
+            "id": "NEWDAY_ARGOS_NEWDUK00X04",
+            "logo": "https://cdn.nordigen.com/ais/NEWDAY_ARGOS_NEWDUK00X04.png",
+            "name": "Argos card (Newday)",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "BOFIGB2B",
+            "countries": [
+              "GB",
+            ],
+            "id": "BANK_OF_IRELAND_B365_BOFIGB2B",
+            "logo": "https://cdn.nordigen.com/ais/BANK_OF_IRELAND_B365_BOFIGB2B.png",
+            "name": "Bank of Ireland 365 Online",
+            "transaction_total_days": "365",
+          },
+          {
+            "bic": "BOFIGB2B",
+            "countries": [
+              "GB",
+            ],
+            "id": "BANK_OF_IRELAND_BUSINESS_ONLINE_BOFIGB2B",
+            "logo": "https://cdn.nordigen.com/ais/BANK_OF_IRELAND_B365_BOFIGB2B.png",
+            "name": "Bank of Ireland Business On Line",
+            "transaction_total_days": "365",
+          },
+          {
+            "bic": "BOFSGBS1",
+            "countries": [
+              "GB",
+            ],
+            "id": "BANK_OF_SCOTLAND_BUSINESS_BOFSGBS1",
+            "logo": "https://cdn.nordigen.com/ais/BANK_OF_SCOTLAND_BUSINESS_BOFSGBS1.png",
+            "name": "Bank of Scotland Business",
+            "transaction_total_days": "90",
+          },
+          {
+            "bic": "BOFSGBS1",
+            "countries": [
+              "GB",
+            ],
+            "id": "BANK_OF_SCOTLAND_COMMERCIAL_BOFSGBS1",
+            "logo": "https://cdn.nordigen.com/ais/BANK_OF_SCOTLAND_BUSINESS_BOFSGBS1.png",
+            "name": "Bank of Scotland Commercial",
+            "transaction_total_days": "90",
+          },
+          {
+            "bic": "BOFSGBS1",
+            "countries": [
+              "GB",
+            ],
+            "id": "BANK_OF_SCOTLAND_BOFSGBS1",
+            "logo": "https://cdn.nordigen.com/ais/BANK_OF_SCOTLAND_BUSINESS_BOFSGBS1.png",
+            "name": "Bank of Scotland Personal",
+            "transaction_total_days": "90",
+          },
+          {
+            "bic": "BUKBGB22",
+            "countries": [
+              "GB",
+            ],
+            "id": "BARCLAYCARD_COMMERCIAL_BUKBGB22",
+            "logo": "https://cdn.nordigen.com/ais/BARCLAYCARD_COMMERCIAL_BUKBGB22.png",
+            "name": "Barclaycard Commercial Payments",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "BUKBGB22",
+            "countries": [
+              "GB",
+            ],
+            "id": "BARCLAYCARD_BUKBGB22",
+            "logo": "https://cdn.nordigen.com/ais/BARCLAYCARD_COMMERCIAL_BUKBGB22.png",
+            "name": "Barclaycard UK",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "BUKBGB22",
+            "countries": [
+              "GB",
+            ],
+            "id": "BARCLAYS_BUSINESS_BUKBGB22",
+            "logo": "https://cdn.nordigen.com/ais/BARCLAYS_WEALTH_BUKBGB22.png",
+            "name": "Barclays Business",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "BUKBGB22",
+            "countries": [
+              "GB",
+            ],
+            "id": "BARCLAYS_CORPORATE_BUKBGB22",
+            "logo": "https://cdn.nordigen.com/ais/BARCLAYS_WEALTH_BUKBGB22.png",
+            "name": "Barclays Corporate",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "BUKBGB22",
+            "countries": [
+              "GB",
+            ],
+            "id": "BARCLAYS_BUKBGB22",
+            "logo": "https://cdn.nordigen.com/ais/BARCLAYS_WEALTH_BUKBGB22.png",
+            "name": "Barclays Personal",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "BUKBGB22",
+            "countries": [
+              "GB",
+            ],
+            "id": "BARCLAYS_WEALTH_BUKBGB22",
+            "logo": "https://cdn.nordigen.com/ais/BARCLAYS_WEALTH_BUKBGB22.png",
+            "name": "Barclays Wealth",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "BBVAGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "BBVAUK_BBVAGB2L",
+            "logo": "https://cdn.nordigen.com/ais/BBVABE_BBVABEBB.png",
+            "name": "BBVA",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "NEWDUK00X05",
+            "countries": [
+              "GB",
+            ],
+            "id": "NEWDAY_BIP_NEWDUK00X05",
+            "logo": "https://cdn.nordigen.com/ais/NEWDAY_BIP_NEWDUK00X05.png",
+            "name": "BIP card (Newday)",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "NEWDUK00X06",
+            "countries": [
+              "GB",
+            ],
+            "id": "NEWDAY_BURTON_NEWDUK00X06",
+            "logo": "https://cdn.nordigen.com/ais/NEWDAY_BURTON_NEWDUK00X06.png",
+            "name": "Burton card (Newday)",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "HOABGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "HOARES_HOABGB2L",
+            "logo": "https://cdn.nordigen.com/ais/HOARES_HOABGB2L.png",
+            "name": "C. Hoare & Co",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "NFBKUSF1XXX",
+            "countries": [
+              "GB",
+            ],
+            "id": "CAPITALONE_NFBKUSF1XXX",
+            "logo": "https://cdn.nordigen.com/ais/CAPITALONE_NFBKUSF1XXX.png",
+            "name": "Capital One",
+            "transaction_total_days": "180",
+          },
+          {
+            "bic": "NWBKGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "CASHPLUS_NWBKGB2L",
+            "logo": "https://cdn.nordigen.com/ais/CASHPLUS_NWBKGB2L.png",
+            "name": "Cashplus Bank",
+            "transaction_total_days": "540",
+          },
+          {
+            "bic": "CATEGB21",
+            "countries": [
+              "GB",
+            ],
+            "id": "CATER_ALLEN_CATEGB21",
+            "logo": "https://cdn.nordigen.com/ais/CATER_ALLEN_CATEGB21.png",
+            "name": "Cater Allen",
+            "transaction_total_days": "90",
+          },
+          {
+            "bic": "CHELGB21",
+            "countries": [
+              "GB",
+            ],
+            "id": "CHE_CHELGB21",
+            "logo": "https://cdn.nordigen.com/ais/CHE_CHELGB21.png",
+            "name": "Chelsea Building Society",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "COUTGB22XXX",
+            "countries": [
+              "GB",
+            ],
+            "id": "COUTTS_COUTGB22XXX",
+            "logo": "https://cdn.nordigen.com/ais/COUTTS_COUTGB22XXX.png",
+            "name": "Coutts&Co",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "CMBSGB2AXXX",
+            "countries": [
+              "GB",
+            ],
+            "id": "CUMBERLAND_CMBSGB2AXXX",
+            "logo": "https://cdn.nordigen.com/ais/CUMBERLAND_CMBSGB2AXXX.png",
+            "name": "Cumberland Building Society",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "BCYPGB2LXXX",
+            "countries": [
+              "GB",
+            ],
+            "id": "CYNERGY_BCYPGB2LXXX",
+            "logo": "https://cdn.nordigen.com/ais/CYNERGY_BCYPGB2LXXX.png",
+            "name": "Cynergy Bank",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "DABAGB2B",
+            "countries": [
+              "GB",
+            ],
+            "id": "DANSKEBANK_BUSINESS_DABAGB2B",
+            "logo": "https://cdn.nordigen.com/ais/DANSKEBANK_BUSINESS_DABADKKK.png",
+            "name": "Danske Bank Business",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "DABAGB2B",
+            "countries": [
+              "GB",
+            ],
+            "id": "DANSKEBANK_DABAGB2B",
+            "logo": "https://cdn.nordigen.com/ais/DANSKEBANK_BUSINESS_DABADKKK.png",
+            "name": "Danske Bank Private",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "NEWDUK00X07",
+            "countries": [
+              "GB",
+            ],
+            "id": "NEWDAY_DEBENHAMS_NEWDUK00X07",
+            "logo": "https://cdn.nordigen.com/ais/NEWDAY_DEBENHAMS_NEWDUK00X07.png",
+            "name": "Debenhams card (Newday)",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "NEWDUK00X08",
+            "countries": [
+              "GB",
+            ],
+            "id": "NEWDAY_DOROTHYPERKINS_NEWDUK00X08",
+            "logo": "https://cdn.nordigen.com/ais/NEWDAY_DOROTHYPERKINS_NEWDUK00X08.png",
+            "name": "Dorothy Perkins card (Newday)",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "EBURGB2LXXX",
+            "countries": [
+              "GB",
+            ],
+            "id": "EBURY_EBURGB2LXXX",
+            "logo": "https://cdn.nordigen.com/ais/EBURY_EBPBBEB1XXX.png",
+            "name": "Ebury",
+            "transaction_total_days": "180",
+          },
+          {
+            "bic": "NEWDUK00X09",
+            "countries": [
+              "GB",
+            ],
+            "id": "NEWDAY_EVANS_NEWDUK00X09",
+            "logo": "https://cdn.nordigen.com/ais/NEWDAY_EVANS_NEWDUK00X09.png",
+            "name": "Evans card (Newday)",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "MIDLGB22",
+            "countries": [
+              "GB",
+            ],
+            "id": "FIRST_DIRECT_MIDLGB22",
+            "logo": "https://cdn.nordigen.com/ais/FIRST_DIRECT_MIDLGB22.png",
+            "name": "First Direct",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "NEWDUK00X10",
+            "countries": [
+              "GB",
+            ],
+            "id": "NEWDAY_FLUID_NEWDUK00X10",
+            "logo": "https://cdn.nordigen.com/ais/NEWDAY_FLUID_NEWDUK00X10.png",
+            "name": "Fluid card (Newday)",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "GHIBGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "GHANA_GHIBGB2L",
+            "logo": "https://cdn.nordigen.com/ais/GHANA_GHIBGB2L.png",
+            "name": "Ghana International Bank",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "GRPLGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "GLOBALREACH_GRPLGB2L",
+            "logo": "https://cdn.nordigen.com/ais/GLOBALREACH_GRPLGB2L.png",
+            "name": "Global Reach",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "IDFEGIG1",
+            "countries": [
+              "GB",
+            ],
+            "id": "GOHENRY_IDFEGIG1",
+            "logo": "https://cdn.nordigen.com/ais/GOHENRY_IDFEGIG1.png",
+            "name": "GoHenry",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "GSILGB2X",
+            "countries": [
+              "GB",
+              "LU",
+            ],
+            "id": "GOLDMAN_SACHS_GSILGB2X",
+            "logo": "https://cdn.nordigen.com/ais/GOLDMAN_SACHS_GSILGB2X.png",
+            "name": "Goldman Sachs",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "HLFXGB22",
+            "countries": [
+              "GB",
+            ],
+            "id": "HALIFAX_HLFXGB22",
+            "logo": "https://cdn.nordigen.com/ais/HALIFAX_HLFXGB22.png",
+            "name": "Halifax Personal",
+            "transaction_total_days": "90",
+          },
+          {
+            "bic": "HANDGB22",
+            "countries": [
+              "GB",
+            ],
+            "id": "HANDELSBANKEN_CORPORATE_HANDGB22",
+            "logo": "https://cdn.nordigen.com/ais/HANDELSBANKEN_HANDSESS.png",
+            "name": "Handelsbanken Corporate",
+            "transaction_total_days": "395",
+          },
+          {
+            "bic": "HANDGB22",
+            "countries": [
+              "GB",
+            ],
+            "id": "HANDELSBANKEN_HANDGB22",
+            "logo": "https://cdn.nordigen.com/ais/HANDELSBANKEN_HANDSESS.png",
+            "name": "Handelsbanken Private",
+            "transaction_total_days": "395",
+          },
+          {
+            "bic": "HLSVGB22",
+            "countries": [
+              "GB",
+            ],
+            "id": "HARGREAVES_LANSDOWN_HLSVGB22",
+            "logo": "https://cdn.nordigen.com/ais/HARGREAVES_LANSDOWN_HLSVGB22.png",
+            "name": "Hargreaves Lansdown Saving Limited",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "NEWDUK00X11",
+            "countries": [
+              "GB",
+            ],
+            "id": "NEWDAY_HOUSEOFFRASER_NEWDUK00X11",
+            "logo": "https://cdn.nordigen.com/ais/NEWDAY_HOUSEOFFRASER_NEWDUK00X11.png",
+            "name": "House of Fraser card (Newday)",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "HBUKGB4B",
+            "countries": [
+              "GB",
+            ],
+            "id": "HSBC_BUSINESS_HBUKGB4B",
+            "logo": "https://cdn.nordigen.com/ais/HSBC_HBUKGB4B.png",
+            "name": "HSBC Business",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "HBUKGB4B",
+            "countries": [
+              "GB",
+            ],
+            "id": "HSBC_KINETIC_HBUKGB4B",
+            "logo": "https://cdn.nordigen.com/ais/HSBC_HBUKGB4B.png",
+            "name": "HSBC Kinetic",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "HBUKGB4B",
+            "countries": [
+              "GB",
+            ],
+            "id": "HSBC_HBUKGB4B",
+            "logo": "https://cdn.nordigen.com/ais/HSBC_HBUKGB4B.png",
+            "name": "HSBC Personal",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "HBUKGB4B",
+            "countries": [
+              "GB",
+              "FR",
+              "MT",
+              "GR",
+              "DE",
+              "IT",
+              "ES",
+              "PL",
+              "IE",
+              "BE",
+              "NL",
+              "LU",
+              "CZ",
+              "GB",
+            ],
+            "id": "HSBC_NET_HBUKGB4B",
+            "logo": "https://cdn.nordigen.com/ais/HSBC_HBUKGB4B.png",
+            "name": "HSBCnet",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "INGBNL2A",
+            "countries": [
+              "AT",
+              "BE",
+              "BG",
+              "CZ",
+              "FR",
+              "DE",
+              "HU",
+              "IE",
+              "IT",
+              "LU",
+              "PT",
+              "RO",
+              "SK",
+              "ES",
+              "GB",
+              "NL",
+            ],
+            "id": "ING_WB_INGBNL2A",
+            "logo": "https://cdn.nordigen.com/ais/ING_INGDDEFF.png",
+            "name": "ING Wholesale Banking",
+            "transaction_total_days": "540",
+          },
+          {
+            "bic": "LOYDGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "LLOYDS_BUSINESS_LOYDGB2L",
+            "logo": "https://cdn.nordigen.com/ais/LLOYDS_BUSINESS_LOYDGB2L.png",
+            "name": "Lloyds Bank Business",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "LOYDGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "LLOYDS_COMMERCIAL_LOYDGB2L",
+            "logo": "https://cdn.nordigen.com/ais/LLOYDS_BUSINESS_LOYDGB2L.png",
+            "name": "Lloyds Bank Commercial",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "LOYDGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "LLOYDS_LOYDGB2L",
+            "logo": "https://cdn.nordigen.com/ais/LLOYDS_BUSINESS_LOYDGB2L.png",
+            "name": "Lloyds Bank Personal",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "LOCYGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "LOMBARD_ODIER_GB_LOCYGB2L",
+            "logo": "https://cdn.nordigen.com/ais/LOMBARD_ODIER_LOCYLULL.png",
+            "name": "Lombard Odier",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "NEWDUK00X13",
+            "countries": [
+              "GB",
+            ],
+            "id": "NEWDAY_MARBLES_NEWDUK00X13",
+            "logo": "https://cdn.nordigen.com/ais/NEWDAY_MARBLES_NEWDUK00X13.png",
+            "name": "Marbles card (Newday)",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "MSFEGB21",
+            "countries": [
+              "GB",
+            ],
+            "id": "MNS_MSFEGB21",
+            "logo": "https://cdn.nordigen.com/ais/MNS_MSFEGB21.png",
+            "name": "Marks & Spencer",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "MBNAGB22",
+            "countries": [
+              "GB",
+            ],
+            "id": "MBNA_MBNAGB22",
+            "logo": "https://cdn.nordigen.com/ais/MBNA_MBNAGB22.png",
+            "name": "MBNA Personal",
+            "transaction_total_days": "90",
+          },
+          {
+            "bic": "NWBKGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "METTLE_NWBKGB2L",
+            "logo": "https://cdn.nordigen.com/ais/METTLE_NWBKGB2L.png",
+            "name": "Mettle",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "MNEEGB21",
+            "countries": [
+              "GB",
+            ],
+            "id": "MONESE_MNEEGB21",
+            "logo": "https://cdn.nordigen.com/ais/MONESE_MNEEGB21.png",
+            "name": "Monese",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "MONZGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "MONZO_MONZGB2L",
+            "logo": "https://cdn.nordigen.com/ais/MONZO_MONZGB2L.png",
+            "name": "Monzo Bank Limited",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "NTSBDEB1",
+            "countries": [
+              "GB",
+              "NO",
+              "SE",
+              "FI",
+              "DK",
+              "EE",
+              "LV",
+              "LT",
+              "NL",
+              "CZ",
+              "ES",
+              "PL",
+              "BE",
+              "DE",
+              "AT",
+              "BG",
+              "HR",
+              "CY",
+              "FR",
+              "GR",
+              "HU",
+              "IS",
+              "IE",
+              "IT",
+              "LI",
+              "LU",
+              "MT",
+              "PT",
+              "RO",
+              "SK",
+              "SI",
+            ],
+            "id": "N26_NTSBDEB1",
+            "logo": "https://cdn.nordigen.com/ais/N26_NTSBDEB1.png",
+            "name": "N26 Bank",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "NAIAGB21",
+            "countries": [
+              "GB",
+            ],
+            "id": "NATIONWIDE_NAIAGB21",
+            "logo": "https://cdn.nordigen.com/ais/NATIONWIDE_NAIAGB21.png",
+            "name": "Nationwide Building Society",
+            "transaction_total_days": "449",
+          },
+          {
+            "bic": "NWBKGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "NATWEST_NWBKGB2L",
+            "logo": "https://cdn.nordigen.com/ais/NATWEST_NWBKGB2L.png",
+            "name": "Natwest",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "NWBKGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "NATWEST_CORP_NWBKGB2L",
+            "logo": "https://cdn.nordigen.com/ais/NATWEST_NWBKGB2L.png",
+            "name": "Natwest Bankline",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "NWBKGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "NATWEST_CS_NWBKGB2L",
+            "logo": "https://cdn.nordigen.com/ais/NATWEST_NWBKGB2L.png",
+            "name": "Natwest ClearSpend",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "RBOSGIGI",
+            "countries": [
+              "GB",
+            ],
+            "id": "NATWEST_INTERNATONAL_RBOSGIGI",
+            "logo": "https://cdn.nordigen.com/ais/NATWEST_NWBKGB2L.png",
+            "name": "Natwest International",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "NETEGB21",
+            "countries": [
+              "GB",
+              "NO",
+              "SE",
+              "FI",
+              "DK",
+              "EE",
+              "LV",
+              "LT",
+              "NL",
+              "CZ",
+              "ES",
+              "PL",
+              "BE",
+              "DE",
+              "AT",
+              "BG",
+              "HR",
+              "CY",
+              "FR",
+              "GR",
+              "HU",
+              "IS",
+              "IE",
+              "IT",
+              "LI",
+              "LU",
+              "MT",
+              "PT",
+              "RO",
+              "SK",
+              "SI",
+            ],
+            "id": "PAYSAFE_NETEGB21",
+            "logo": "https://cdn.nordigen.com/ais/PAYSAFE_NETEGB21.png",
+            "name": "Neteller",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "NEWDUK00X15",
+            "countries": [
+              "GB",
+            ],
+            "id": "NEWDAY_NEWPAY_NEWDUK00X15",
+            "logo": "https://cdn.nordigen.com/ais/NEWDAY_NEWPAY_NEWDUK00X15.png",
+            "name": "Newpay card (Newday)",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "1PAYGB00",
+            "countries": [
+              "GB",
+            ],
+            "id": "ONEPAY_1PAYGB00",
+            "logo": "https://cdn.nordigen.com/ais/ONEPAY_1PAYGB00.png",
+            "name": "Onepay",
+            "transaction_total_days": "90",
+          },
+          {
+            "bic": "NEWDUK00X16",
+            "countries": [
+              "GB",
+            ],
+            "id": "NEWDAY_OPUS_NEWDUK00X16",
+            "logo": "https://cdn.nordigen.com/ais/NEWDAY_OPUS_NEWDUK00X16.png",
+            "name": "Opus card (Newday)",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "PPLXLULL",
+            "countries": [
+              "GB",
+              "NO",
+              "SE",
+              "FI",
+              "DK",
+              "EE",
+              "LV",
+              "LT",
+              "NL",
+              "CZ",
+              "ES",
+              "PL",
+              "BE",
+              "DE",
+              "AT",
+              "BG",
+              "HR",
+              "CY",
+              "FR",
+              "GR",
+              "HU",
+              "IS",
+              "IE",
+              "IT",
+              "LI",
+              "LU",
+              "MT",
+              "PT",
+              "RO",
+              "SK",
+              "SI",
+            ],
+            "id": "PAYPAL_PPLXLULL",
+            "logo": "https://cdn.nordigen.com/ais/PAYPAL_PPLXLULL.png",
+            "name": "PayPal",
+            "transaction_total_days": "90",
+          },
+          {
+            "bic": "PLEODK00",
+            "countries": [
+              "DK",
+              "GB",
+              "DE",
+              "SE",
+              "ES",
+              "IE",
+              "DK",
+            ],
+            "id": "PLEO_PLEODK00",
+            "logo": "https://cdn.nordigen.com/ais/PLEO_PLEODK00.png",
+            "name": "Pleo",
+            "transaction_total_days": "90",
+          },
+          {
+            "bic": "NEWDUK00X17",
+            "countries": [
+              "GB",
+            ],
+            "id": "NEWDAY_PULSE_NEWDUK00X17",
+            "logo": "https://cdn.nordigen.com/ais/NEWDAY_PULSE_NEWDUK00X17.png",
+            "name": "Pulse card (Newday)",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "REVOGB21",
+            "countries": [
+              "GB",
+            ],
+            "id": "REVOLUT_REVOGB21",
+            "logo": "https://cdn.nordigen.com/ais/REVOLUT_REVOGB21.png",
+            "name": "Revolut",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "RBSSGBKC",
+            "countries": [
+              "GB",
+            ],
+            "id": "RBS_GB_RBSSGBKC",
+            "logo": "https://cdn.nordigen.com/ais/RBS_GB_RBSSGBKC.png",
+            "name": "Royal Bank of Scotland",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "RBSSGBKC",
+            "countries": [
+              "GB",
+            ],
+            "id": "RBS_GB_CORP_RBSSGBKC",
+            "logo": "https://cdn.nordigen.com/ais/RBS_GB_RBSSGBKC.png",
+            "name": "Royal Bank of Scotland Bankline",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "RBSSGBKC",
+            "countries": [
+              "GB",
+            ],
+            "id": "RBS_GB_CS_RBSSGBKC",
+            "logo": "https://cdn.nordigen.com/ais/RBS_GB_RBSSGBKC.png",
+            "name": "Royal Bank of Scotland ClearSpend",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "SANBGB21",
+            "countries": [
+              "GB",
+            ],
+            "id": "SAINSBURYS_SANBGB21",
+            "logo": "https://cdn.nordigen.com/ais/SAINSBURYS_SANBGB21.png",
+            "name": "Sainsbury's Bank",
+            "transaction_total_days": "180",
+          },
+          {
+            "bic": "ABBYGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "SANTANDER_GB_ABBYGB2L",
+            "logo": "https://cdn.nordigen.com/ais/SANTANDER_GB_ABBYGB2L.png",
+            "name": "Santander",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "SVBKGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "SVB_SVBKGB2L",
+            "logo": "https://cdn.nordigen.com/ais/SVB_SVBKGB2L.png",
+            "name": "Silicon Valley Bank",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "SKRLGB2L",
+            "countries": [
+              "GB",
+              "NO",
+              "SE",
+              "FI",
+              "DK",
+              "EE",
+              "LV",
+              "LT",
+              "NL",
+              "CZ",
+              "ES",
+              "PL",
+              "BE",
+              "DE",
+              "AT",
+              "BG",
+              "HR",
+              "CY",
+              "FR",
+              "GR",
+              "HU",
+              "IS",
+              "IE",
+              "IT",
+              "LI",
+              "LU",
+              "MT",
+              "PT",
+              "RO",
+              "SK",
+              "SI",
+            ],
+            "id": "PAYSAFE_SKRLGB2L",
+            "logo": "https://cdn.nordigen.com/ais/PAYSAFE_SKRLGB2L.png",
+            "name": "Skrill",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "SOAVGB21",
+            "countries": [
+              "GB",
+            ],
+            "id": "SOLDO_SOAVGB21",
+            "logo": "https://cdn.nordigen.com/ais/SOLDO_SOAVGB21.png",
+            "name": "Soldo",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "SRLGGB3L",
+            "countries": [
+              "GB",
+            ],
+            "id": "STARLING_SRLGGB3L",
+            "logo": "https://cdn.nordigen.com/ais/STARLING_SRLGGB3L.png",
+            "name": "Starling Bank",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "STPUIE21",
+            "countries": [
+              "GB",
+              "NO",
+              "SE",
+              "FI",
+              "DK",
+              "EE",
+              "LV",
+              "LT",
+              "NL",
+              "CZ",
+              "ES",
+              "PL",
+              "BE",
+              "DE",
+              "AT",
+              "BG",
+              "HR",
+              "CY",
+              "FR",
+              "GR",
+              "HU",
+              "IS",
+              "IE",
+              "IT",
+              "LI",
+              "LU",
+              "MT",
+              "PT",
+              "RO",
+              "SK",
+              "SI",
+            ],
+            "id": "STRIPE_STPUIE21",
+            "logo": "https://cdn.nordigen.com/ais/STRIPE_STPUIE21.png",
+            "name": "Stripe",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "TPFGGB2E",
+            "countries": [
+              "GB",
+            ],
+            "id": "TESCOBANK_TPFGGB2E",
+            "logo": "https://cdn.nordigen.com/ais/TESCOBANK_TPFGGB2E.png",
+            "name": "Tesco Bank",
+            "transaction_total_days": "90",
+          },
+          {
+            "bic": "CPBKGB22",
+            "countries": [
+              "GB",
+            ],
+            "id": "COOPERATIVE_CPBKGB22",
+            "logo": "https://cdn.nordigen.com/ais/COOPERATIVE_CPBKGB22.png",
+            "name": "The Co-Operative Bank",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "THKMGB21",
+            "countries": [
+              "GB",
+            ],
+            "id": "THINKMONEY_THKMGB21",
+            "logo": "https://cdn.nordigen.com/ais/THINKMONEY_THKMGB21.png",
+            "name": "thinkmoney",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "TIDEGB00X01",
+            "countries": [
+              "GB",
+            ],
+            "id": "TIDE_TIDEGB00X01",
+            "logo": "https://cdn.nordigen.com/ais/TIDE_TIDEGB00X01.png",
+            "name": "Tide",
+            "transaction_total_days": "90",
+          },
+          {
+            "bic": "TRIOGB22",
+            "countries": [
+              "GB",
+            ],
+            "id": "TRIODOS_TRIOGB22",
+            "logo": "https://cdn.nordigen.com/ais/TRIODOS_TRIOGB22.png",
+            "name": "Triodos Bank",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "TSBSGB2A",
+            "countries": [
+              "GB",
+            ],
+            "id": "TSB_GB_TSBSGB2A",
+            "logo": "https://cdn.nordigen.com/ais/TSB_GB_TSBSGB2A.png",
+            "name": "TSB Bank",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "NEWDUK00X20",
+            "countries": [
+              "GB",
+            ],
+            "id": "NEWDAY_TUI_NEWDUK00X20",
+            "logo": "https://cdn.nordigen.com/ais/NEWDAY_TUI_NEWDUK00X20.png",
+            "name": "TUI card (Newday)",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "UBSWGB2L",
+            "countries": [
+              "GB",
+            ],
+            "id": "UBS_UBSWGB2L",
+            "logo": "https://cdn.nordigen.com/ais/UBS_UBSWFRPP.png",
+            "name": "UBS",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "ULSBGB2B",
+            "countries": [
+              "GB",
+            ],
+            "id": "ULSTER_ULSBGB2B",
+            "logo": "https://cdn.nordigen.com/ais/ULSTER_ULSBGB2B.png",
+            "name": "Ulster Bank",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "UBPGGB2X",
+            "countries": [
+              "GB",
+            ],
+            "id": "UNION_UBPGGB2X",
+            "logo": "https://cdn.nordigen.com/ais/UNION_DBSALULLFND.png",
+            "name": "Union Bancaire Privée London",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "UYTBGB22",
+            "countries": [
+              "GB",
+            ],
+            "id": "UNITY_TRUST_UYTBGB22",
+            "logo": "https://cdn.nordigen.com/ais/UNITY_TRUST_UYTBGB22.png",
+            "name": "Unity Trust Bank",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "VQISGB21",
+            "countries": [
+              "GB",
+            ],
+            "id": "VANQUIS_VQISGB21",
+            "logo": "https://cdn.nordigen.com/ais/VANQUIS_VQISGB21.png",
+            "name": "Vanquis Bank",
+            "transaction_total_days": "180",
+          },
+          {
+            "bic": "NRNBGB22",
+            "countries": [
+              "GB",
+            ],
+            "id": "VIRGIN_NRNBGB22",
+            "logo": "https://cdn.nordigen.com/ais/VIRGIN_NRNBGB22.png",
+            "name": "Virgin Money",
+            "transaction_total_days": "90",
+          },
+          {
+            "bic": "NEWDUK00X21",
+            "countries": [
+              "GB",
+            ],
+            "id": "NEWDAY_WALLIS_NEWDUK00X21",
+            "logo": "https://cdn.nordigen.com/ais/NEWDAY_WALLIS_NEWDUK00X21.png",
+            "name": "Wallis card (Newday)",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "TRWIGB22",
+            "countries": [
+              "GB",
+              "NO",
+              "SE",
+              "FI",
+              "DK",
+              "EE",
+              "LV",
+              "LT",
+              "NL",
+              "CZ",
+              "ES",
+              "PL",
+              "BE",
+              "DE",
+              "AT",
+              "BG",
+              "HR",
+              "CY",
+              "FR",
+              "GR",
+              "HU",
+              "IS",
+              "IE",
+              "IT",
+              "LI",
+              "LU",
+              "MT",
+              "PT",
+              "RO",
+              "SK",
+              "SI",
+            ],
+            "id": "WISE_TRWIGB22",
+            "logo": "https://cdn.nordigen.com/ais/WISE_TRWIGB22.png",
+            "name": "Wise",
+            "transaction_total_days": "730",
+          },
+          {
+            "bic": "YORBGB2V",
+            "countries": [
+              "GB",
+            ],
+            "id": "YBS_YORBGB2V",
+            "logo": "https://cdn.nordigen.com/ais/YBS_YORBGB2V_1.png",
+            "name": "Yorkshire Building Society",
+            "transaction_total_days": "730",
+          },
+        ]
+      }
+      getItem={[Function]}
+      getItemCount={[Function]}
+      keyExtractor={[Function]}
+      onContentSizeChange={[Function]}
+      onLayout={[Function]}
+      onMomentumScrollBegin={[Function]}
+      onMomentumScrollEnd={[Function]}
+      onScroll={[Function]}
+      onScrollBeginDrag={[Function]}
+      onScrollEndDrag={[Function]}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      stickyHeaderIndices={[]}
+      viewabilityConfigCallbackPairs={[]}
+    >
+      <View>
+        <View
+          onFocusCapture={[Function]}
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "opacity": 1,
+                "padding": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://cdn.nordigen.com/ais/ABNAMRO_FTSBDEFAXXX.png",
+                }
+              }
+              style={
+                {
+                  "height": 50,
+                  "marginRight": 10,
+                  "resizeMode": "contain",
+                  "width": 50,
+                }
+              }
+            />
+            <Text
+              style={
+                {
+                  "color": "black",
+                }
+              }
+            >
+              ABN AMRO Bank Commercial
+            </Text>
+          </View>
+        </View>
+        <View
+          onFocusCapture={[Function]}
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "opacity": 1,
+                "padding": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://cdn.nordigen.com/ais/AIRWALLEX_AIPTAU32_1.png",
+                }
+              }
+              style={
+                {
+                  "height": 50,
+                  "marginRight": 10,
+                  "resizeMode": "contain",
+                  "width": 50,
+                }
+              }
+            />
+            <Text
+              style={
+                {
+                  "color": "black",
+                }
+              }
+            >
+              Airwallex
+            </Text>
+          </View>
+        </View>
+        <View
+          onFocusCapture={[Function]}
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "opacity": 1,
+                "padding": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://cdn.nordigen.com/ais/AIB_AIBKIE2DXXX.png",
+                }
+              }
+              style={
+                {
+                  "height": 50,
+                  "marginRight": 10,
+                  "resizeMode": "contain",
+                  "width": 50,
+                }
+              }
+            />
+            <Text
+              style={
+                {
+                  "color": "black",
+                }
+              }
+            >
+              Allied Irish Banks
+            </Text>
+          </View>
+        </View>
+        <View
+          onFocusCapture={[Function]}
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "opacity": 1,
+                "padding": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://cdn.nordigen.com/ais/AIB_AIBKIE2DXXX.png",
+                }
+              }
+              style={
+                {
+                  "height": 50,
+                  "marginRight": 10,
+                  "resizeMode": "contain",
+                  "width": 50,
+                }
+              }
+            />
+            <Text
+              style={
+                {
+                  "color": "black",
+                }
+              }
+            >
+              Allied Irish Banks Corporate
+            </Text>
+          </View>
+        </View>
+        <View
+          onFocusCapture={[Function]}
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "opacity": 1,
+                "padding": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://cdn.nordigen.com/ais/ALPHA_FX_APAHGB2L.png",
+                }
+              }
+              style={
+                {
+                  "height": 50,
+                  "marginRight": 10,
+                  "resizeMode": "contain",
+                  "width": 50,
+                }
+              }
+            />
+            <Text
+              style={
+                {
+                  "color": "black",
+                }
+              }
+            >
+              Alpha FX
+            </Text>
+          </View>
+        </View>
+        <View
+          onFocusCapture={[Function]}
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "opacity": 1,
+                "padding": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://cdn.nordigen.com/ais/NEWDAY_AMAZON_NEWDUK00X01.png",
+                }
+              }
+              style={
+                {
+                  "height": 50,
+                  "marginRight": 10,
+                  "resizeMode": "contain",
+                  "width": 50,
+                }
+              }
+            />
+            <Text
+              style={
+                {
+                  "color": "black",
+                }
+              }
+            >
+              Amazon card (Newday)
+            </Text>
+          </View>
+        </View>
+        <View
+          onFocusCapture={[Function]}
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "opacity": 1,
+                "padding": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://cdn.nordigen.com/ais/AMERICAN_EXPRESS_AESUGB21.png",
+                }
+              }
+              style={
+                {
+                  "height": 50,
+                  "marginRight": 10,
+                  "resizeMode": "contain",
+                  "width": 50,
+                }
+              }
+            />
+            <Text
+              style={
+                {
+                  "color": "black",
+                }
+              }
+            >
+              American Express
+            </Text>
+          </View>
+        </View>
+        <View
+          onFocusCapture={[Function]}
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "opacity": 1,
+                "padding": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://cdn.nordigen.com/ais/NEWDAY_AQUA_NEWDUK00X02.png",
+                }
+              }
+              style={
+                {
+                  "height": 50,
+                  "marginRight": 10,
+                  "resizeMode": "contain",
+                  "width": 50,
+                }
+              }
+            />
+            <Text
+              style={
+                {
+                  "color": "black",
+                }
+              }
+            >
+              Aqua card (Newday)
+            </Text>
+          </View>
+        </View>
+        <View
+          onFocusCapture={[Function]}
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "opacity": 1,
+                "padding": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://cdn.nordigen.com/ais/ARBUTHNOT_LATHAM_ARBUGB2LXXX.png",
+                }
+              }
+              style={
+                {
+                  "height": 50,
+                  "marginRight": 10,
+                  "resizeMode": "contain",
+                  "width": 50,
+                }
+              }
+            />
+            <Text
+              style={
+                {
+                  "color": "black",
+                }
+              }
+            >
+              Arbuthnot Latham
+            </Text>
+          </View>
+        </View>
+        <View
+          onFocusCapture={[Function]}
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "opacity": 1,
+                "padding": 10,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://cdn.nordigen.com/ais/NEWDAY_ARGOS_NEWDUK00X04.png",
+                }
+              }
+              style={
+                {
+                  "height": 50,
+                  "marginRight": 10,
+                  "resizeMode": "contain",
+                  "width": 50,
+                }
+              }
+            />
+            <Text
+              style={
+                {
+                  "color": "black",
+                }
+              }
+            >
+              Argos card (Newday)
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            {
+              "height": 0,
+            }
+          }
+        />
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;
